@@ -1,0 +1,8 @@
+.DS_Store
+~$*
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+__pycache__/
+Class Work/
