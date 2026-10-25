@@ -1,4 +1,4 @@
-# German Learning (A1 to A2)
+# German Learning (A1 to A2 Revision, currently B1, sprinting towards B2)
 
 **Author:** Krishna Chaitanya Kidambi
 
