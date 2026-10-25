@@ -1,0 +1,23 @@
+Column / symbol,Meaning
+Status = Learned,The word appeared in our chat with a translation.
+Status = New (yellow),Important word from your textbook pages or a core word you had not asked about yet.
+Status = Your list (blue),Word taken from your GERMAN_VOCAB file. 'Learned + Your list' = it was in both.
+Notes,"Spelling fixes (ä/ö/ü/ß restored), gender corrections (e.g. das Schiff, das Glas, das Bonbon), translation fixes, and the exact form used in your list (e.g. 'Gründete' = Präteritum of gründen)."
+~ (tilde),Loose match: a related word or contrast. No exact synonym or opposite exists (typical for concrete nouns).
+(Swiss) / (Austria) / (colloq.),Regional or informal. Use only if you hear it locally.
+Maskulin / Feminin / Neutral,Nouns grouped by article: der / die / das.
+Other (none),"Words with no gender: verbs (separable, inseparable, modal, auxiliary), prepositions, adjectives, adverbs, conjunctions, pronouns, plural-only nouns."
+Forms / Case,"Verbs: er/sie/es form, Präteritum (if irregular) and Perfekt. Prepositions: the case they take."
+Examples,"German sentence on line 1, English translation on line 2 of each cell."
+,
+Word count per sheet,Entries (formula)
+Maskulin (der),242
+Feminin (die),795
+Neutral (das),569
+Other (none),418
+Total,2024
+,
+Status breakdown (formula),Rows (a combined status counts in both)
+"Status contains ""Learned""",649
+"Status contains ""New""",611
+"Status contains ""Your list""",382

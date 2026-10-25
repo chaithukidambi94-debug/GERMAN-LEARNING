@@ -1,0 +1,104 @@
+,,,,,,,,,,,,,,
+,,,,,,,Example:,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Formulae:,,,Person,Präsens,Präteritum,Perfekt,Plusquamperfekt,Futur I,Futur II,
+,,,,,,,ich,kaufe,kaufte,habe gekauft,hatte gekauft,werde kaufen,werde gekauft haben,
+,,,,Prasens,stem + e / st / t / en / t / en,,du,kaufst,kauftest,hast gekauft,hattest gekauft,wirst kaufen,wirst gekauft haben,
+,,,,Prateritum,stem + te / test / te / ten / tet / ten,,er/sie/es,kauft,kaufte,hat gekauft,hatte gekauft,wird kaufen,wird gekauft haben,
+,,,,Perfekt,"haben (habe, hast, hat, haben, habt, haben) + ge + stem + t",,wir,kaufen,kauften,haben gekauft,hatten gekauft,werden kaufen,werden gekauft haben,
+,,,,Plusquamperfekt,"hatte (hatte, hattest, hatte, hatten, hattet, hatten) + ge + stem + t",,ihr,kauft,kauftet,habt gekauft,hattet gekauft,werdet kaufen,werdet gekauft haben,
+,,,,Futur I,"werden (werde, wirst, wird, werden, werdet, werden) + infinitive",,sie/Sie,kaufen,kauften,haben gekauft,hatten gekauft,werden kaufen,werden gekauft haben,
+,,,,Futur II,werden + ge + stem + t + haben,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Exceptions:,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,1,"Stem ends in -t or -d: add an extra e. arbeiten → ich arbeite, du arbeitest,
+ er arbeitet, ich arbeitete, ich habe gearbeitet.",,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,2,"Stem ends in -s, -ß, -z: the du form takes -t, not -st. reisen → du reist,
+ tanzen → du tanzt.",,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Examples for Exceptions,,Verb,Person,Präsens,Präteritum,Perfekt,Plusquamperfekt,Futur I,Futur II,
+,,,,,,arbeiten,ich,arbeite,arbeitete,habe gearbeitet,hatte gearbeitet,werde arbeiten,werde gearbeitet haben,
+,,,,,,arbeiten,du,arbeitest,arbeitetest,hast gearbeitet,hattest gearbeitet,wirst arbeiten,wirst gearbeitet haben,
+,,,,,,arbeiten,er/sie/es,arbeitet,arbeitete,hat gearbeitet,hatte gearbeitet,wird arbeiten,wird gearbeitet haben,
+,,,,,,arbeiten,wir,arbeiten,arbeiteten,haben gearbeitet,hatten gearbeitet,werden arbeiten,werden gearbeitet haben,
+,,,,,,arbeiten,ihr,arbeitet,arbeitetet,habt gearbeitet,hattet gearbeitet,werdet arbeiten,werdet gearbeitet haben,
+,,,,,,arbeiten,sie/Sie,arbeiten,arbeiteten,haben gearbeitet,hatten gearbeitet,werden arbeiten,werden gearbeitet haben,
+,,,,,,tanzen,ich,tanze,tanzte,habe getanzt,hatte getanzt,werde tanzen,werde getanzt haben,
+,,,,,,tanzen,du,tanzt,tanztest,hast getanzt,hattest getanzt,wirst tanzen,wirst getanzt haben,
+,,,,,,tanzen,er/sie/es,tanzt,tanzte,hat getanzt,hatte getanzt,wird tanzen,wird getanzt haben,
+,,,,,,tanzen,wir,tanzen,tanzten,haben getanzt,hatten getanzt,werden tanzen,werden getanzt haben,
+,,,,,,tanzen,ihr,tanzt,tanztet,habt getanzt,hattet getanzt,werdet tanzen,werdet getanzt haben,
+,,,,,,tanzen,sie/Sie,tanzen,tanzten,haben getanzt,hatten getanzt,werden tanzen,werden getanzt haben,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Helper Verbs,Helper verb,Person,Präsens,Präteritum,Perfekt,Plusquamperfekt,Futur I,Futur II,Passiv Präsens,Passiv Präteritum
+,,,,,haben,ich,X,X,habe,hatte,X,haben (fixed),X,X
+,,,,,haben,du,X,X,hast,hattest,X,haben (fixed),X,X
+,,,,,haben,er/sie/es,X,X,hat,hatte,X,haben (fixed),X,X
+,,,,,haben,wir,X,X,haben,hatten,X,haben (fixed),X,X
+,,,,,haben,ihr,X,X,habt,hattet,X,haben (fixed),X,X
+,,,,,haben,sie/Sie,X,X,haben,hatten,X,haben (fixed),X,X
+,,,,,sein,ich,X,X,bin,war,X,sein (fixed),X,X
+,,,,,sein,du,X,X,bist,warst,X,sein (fixed),X,X
+,,,,,sein,er/sie/es,X,X,ist,war,X,sein (fixed),X,X
+,,,,,sein,wir,X,X,sind,waren,X,sein (fixed),X,X
+,,,,,sein,ihr,X,X,seid,wart,X,sein (fixed),X,X
+,,,,,sein,sie/Sie,X,X,sind,waren,X,sein (fixed),X,X
+,,,,,werden,ich,X,X,X,X,werde,werde,werde,wurde
+,,,,,werden,du,X,X,X,X,wirst,wirst,wirst,wurdest
+,,,,,werden,er/sie/es,X,X,X,X,wird,wird,wird,wurde
+,,,,,werden,wir,X,X,X,X,werden,werden,werden,wurden
+,,,,,werden,ihr,X,X,X,X,werdet,werdet,werdet,wurdet
+,,,,,werden,sie/Sie,X,X,X,X,werden,werden,werden,wurden
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Regelmassig vs Verb Types,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Feature,einfach,trennbar,untrennbar,auf -ieren,,,,,,
+,,,,Example,kaufen,aufmachen,besuchen,reservieren,,,,,,
+,,,,What is at the front,nothing,stressed prefix (auf-),unstressed prefix (be-),ends in -ieren,,,,,,
+,,,,Präsens,Ich kaufe den Computer.,"Ich mache die
+ Tür auf.","Ich besuche
+ meinen Freund.","Ich reserviere
+ ein Hotel.",,,,,,
+,,,,Does it split?,no,"yes, the prefix
+ goes to the end",no,no,,,,,,
+,,,,Participle formula,ge + stem + t,"prefix + ge + 
+stem + t","prefix + stem
+ + t","stem + 
+t (no ge)",,,,,,
+,,,,Participle,gekauft,aufgemacht,besucht,reserviert,,,,,,
+,,,,Perfekt,Ich habe den Computer gekauft.,"Ich habe die
+ Tür aufgemacht.","Ich habe 
+meinen Freund besucht.","Ich habe ein
+ Hotel reserviert.",,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Type,Verb,Person,Präsens,Präteritum,Perfekt,Plusquamperfekt,Futur I,Futur II,,
+,,,,einfach,kaufen,ich,kaufe,kaufte,habe gekauft,hatte gekauft,werde kaufen,werde gekauft haben,,
+,,,,einfach,kaufen,du,kaufst,kauftest,hast gekauft,hattest gekauft,wirst kaufen,wirst gekauft haben,,
+,,,,einfach,kaufen,er/sie/es,kauft,kaufte,hat gekauft,hatte gekauft,wird kaufen,wird gekauft haben,,
+,,,,einfach,kaufen,wir,kaufen,kauften,haben gekauft,hatten gekauft,werden kaufen,werden gekauft haben,,
+,,,,einfach,kaufen,ihr,kauft,kauftet,habt gekauft,hattet gekauft,werdet kaufen,werdet gekauft haben,,
+,,,,einfach,kaufen,sie/Sie,kaufen,kauften,haben gekauft,hatten gekauft,werden kaufen,werden gekauft haben,,
+,,,,trennbar,aufmachen,ich,mache auf,machte auf,habe aufgemacht,hatte aufgemacht,werde aufmachen,werde aufgemacht haben,,
+,,,,trennbar,aufmachen,du,machst auf,machtest auf,hast aufgemacht,hattest aufgemacht,wirst aufmachen,wirst aufgemacht haben,,
+,,,,trennbar,aufmachen,er/sie/es,macht auf,machte auf,hat aufgemacht,hatte aufgemacht,wird aufmachen,wird aufgemacht haben,,
+,,,,trennbar,aufmachen,wir,machen auf,machten auf,haben aufgemacht,hatten aufgemacht,werden aufmachen,werden aufgemacht haben,,
+,,,,trennbar,aufmachen,ihr,macht auf,machtet auf,habt aufgemacht,hattet aufgemacht,werdet aufmachen,werdet aufgemacht haben,,
+,,,,trennbar,aufmachen,sie/Sie,machen auf,machten auf,haben aufgemacht,hatten aufgemacht,werden aufmachen,werden aufgemacht haben,,
+,,,,untrennbar,besuchen,ich,besuche,besuchte,habe besucht,hatte besucht,werde besuchen,werde besucht haben,,
+,,,,untrennbar,besuchen,du,besuchst,besuchtest,hast besucht,hattest besucht,wirst besuchen,wirst besucht haben,,
+,,,,untrennbar,besuchen,er/sie/es,besucht,besuchte,hat besucht,hatte besucht,wird besuchen,wird besucht haben,,
+,,,,untrennbar,besuchen,wir,besuchen,besuchten,haben besucht,hatten besucht,werden besuchen,werden besucht haben,,
+,,,,untrennbar,besuchen,ihr,besucht,besuchtet,habt besucht,hattet besucht,werdet besuchen,werdet besucht haben,,
+,,,,untrennbar,besuchen,sie/Sie,besuchen,besuchten,haben besucht,hatten besucht,werden besuchen,werden besucht haben,,
+,,,,auf ieren,reservieren,ich,reserviere,reservierte,habe reserviert,hatte reserviert,werde reservieren,werde reserviert haben,,
+,,,,auf ieren,reservieren,du,reservierst,reserviertest,hast reserviert,hattest reserviert,wirst reservieren,wirst reserviert haben,,
+,,,,auf ieren,reservieren,er/sie/es,reserviert,reservierte,hat reserviert,hatte reserviert,wird reservieren,wird reserviert haben,,
+,,,,auf ieren,reservieren,wir,reservieren,reservierten,haben reserviert,hatten reserviert,werden reservieren,werden reserviert haben,,
+,,,,auf ieren,reservieren,ihr,reserviert,reserviertet,habt reserviert,hattet reserviert,werdet reservieren,werdet reserviert haben,,
+,,,,auf ieren,reservieren,sie/Sie,reservieren,reservierten,haben reserviert,hatten reserviert,werden reservieren,werden reserviert haben,,

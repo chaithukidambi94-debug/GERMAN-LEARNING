@@ -1,0 +1,17 @@
+How to add new words (copy-paste),
+,
+1,Open the right sheet: der / die / das / Other.
+2,"Click the first empty cell in column A, directly under the last row."
+3,"Paste (Ctrl+V). The table grows by itself; filters, colours, wrapping and the counts on the Key sheet follow."
+4,An orange word in column A = it already exists in that sheet (duplicate).
+5,New rows go to the bottom. To sort A–Z use the ▼ in the Word header.
+,
+Column order,
+,der / die / das sheets (10 columns)
+,Word · Plural · Status · Meaning (EN) · Synonyms (3) · Antonyms (3) · Example 1 · Example 2 · Example 3 · Notes
+,Other sheet (11 columns)
+,Word · Type · Forms / Case · Status · Meaning (EN) · Synonyms (3) · Antonyms (3) · Example 1 · Example 2 · Example 3 · Notes
+,Status values
+,Learned · New · Your list · Learned + Your list · New + Your list
+,Examples
+,"German sentence, line break, English translation (inside the same cell)."

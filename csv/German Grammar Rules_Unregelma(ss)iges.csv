@@ -1,0 +1,113 @@
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,Formula,,,,,,Pattern,,,,,Exceptions,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,Feature,einfach,trennbar,untrennbar,auf -ieren,,Vowel pattern,Infinitiv,Präteritum,Partizip II,,Exception,Verb,Tense,ich,du,er/sie/es,wir,ihr,sie/Sie,Partizip II,Helper in Perfekt
+,Example,sehen,anfangen,empfehlen,X (no irregular -ieren verbs),,i–a–u,finden,fand,gefunden,,Vowel change e>i,helfen,Präsens,helfe,hilfst,hilft,helfen,helft,helfen,geholfen,haben
+,What is at the front,nothing,stressed prefix (an-),unstressed prefix (emp-),ends in -ieren,,i–a–u,trinken,trank,getrunken,,Vowel change e>i,helfen,Präteritum,half,halfst,half,halfen,halft,halfen,geholfen,haben
+,Präsens,Er sieht den Computer.,Er fängt die Arbeit an.,Er empfiehlt das Hotel.,X,,i–a–u,singen,sang,gesungen,,Vowel change e>i (+ consonant),nehmen,Präsens,nehme,nimmst,nimmt,nehmen,nehmt,nehmen,genommen,haben
+,Präteritum,Er sah den Computer.,Er fing die Arbeit an.,Er empfahl das Hotel.,X,,i–a–o,beginnen,begann,begonnen,,Vowel change e>i (+ consonant),nehmen,Präteritum,nahm,nahmst,nahm,nahmen,nahmt,nahmen,genommen,haben
+,Does it split?,no,"yes, the prefix goes to the end (fängt … an, fing … an)",no,X,,i–a–o,gewinnen,gewann,gewonnen,,Vowel change e>ie,sehen,Präsens,sehe,siehst,sieht,sehen,seht,sehen,gesehen,haben
+,Participle formula,ge + changed stem + en,prefix + ge + changed stem + en,prefix + changed stem + en (no ge),X (always regular),,i–a–o,schwimmen,schwamm,geschwommen,,Vowel change e>ie,sehen,Präteritum,sah,sahst,sah,sahen,saht,sahen,gesehen,haben
+,Participle,gesehen,angefangen,empfohlen,X,,ei–ie–ie,schreiben,schrieb,geschrieben,,Vowel change a>ä,fahren,Präsens,fahre,fährst,fährt,fahren,fahrt,fahren,gefahren,sein
+,Helper in Perfekt,haben,haben,haben,X,,ei–ie–ie,bleiben,blieb,geblieben,,Vowel change a>ä,fahren,Präteritum,fuhr,fuhrst,fuhr,fuhren,fuhrt,fuhren,gefahren,sein
+,Perfekt,Er hat den Computer gesehen.,Er hat die Arbeit angefangen.,Er hat das Hotel empfohlen.,X,,ei–i–i,schneiden,schnitt,geschnitten,,Vowel change au>äu,laufen,Präsens,laufe,läufst,läuft,laufen,lauft,laufen,gelaufen,sein
+,,,,,,,ei–i–i,streiten,stritt,gestritten,,Vowel change au>äu,laufen,Präteritum,lief,liefst,lief,liefen,lieft,liefen,gelaufen,sein
+,,,,,,,e–a–o,sprechen,sprach,gesprochen,,Stem ends in -t/-d,halten,Präsens,halte,hältst,hält,halten,haltet,halten,gehalten,haben
+,,,,,,,e–a–o,helfen,half,geholfen,,Stem ends in -t/-d,halten,Präteritum,hielt,hieltest,hielt,hielten,hieltet,hielten,gehalten,haben
+,Helpers,,,,,,e–a–o,nehmen,nahm,genommen,,Stem ends in -t/-d,finden,Präsens,finde,findest,findet,finden,findet,finden,gefunden,haben
+,,,,,,,e–a–e,sehen,sah,gesehen,,Stem ends in -t/-d,finden,Präteritum,fand,fandest,fand,fanden,fandet,fanden,gefunden,haben
+,Tense,haben,sein,werden,,,e–a–e,geben,gab,gegeben,,Stem ends in -s/-ß/-z,essen,Präsens,esse,isst,isst,essen,esst,essen,gegessen,haben
+,Präsens,X,X,X,,,e–a–e,lesen,las,gelesen,,Stem ends in -s/-ß/-z,heißen,Präsens,heiße,heißt,heißt,heißen,heißt,heißen,geheißen,haben
+,Präteritum,X,X,X,,,e–a–e,essen,aß,gegessen,,Mixed verb,bringen,Präsens,bringe,bringst,bringt,bringen,bringt,bringen,gebracht,haben
+,Perfekt,"habe, hast, hat… + participle","bin, bist, ist… + participle",X,,,a–u–a,fahren,fuhr,gefahren,,Mixed verb,bringen,Präteritum,brachte,brachtest,brachte,brachten,brachtet,brachten,gebracht,haben
+,Plusquamperfekt,"hatte, hattest, hatte… + participle","war, warst, war… + participle",X,,,a–u–a,tragen,trug,getragen,,Mixed verb,denken,Präsens,denke,denkst,denkt,denken,denkt,denken,gedacht,haben
+,Futur I,X,X,"werde, wirst, wird… + infinitive",,,a–u–a,waschen,wusch,gewaschen,,Mixed verb,denken,Präteritum,dachte,dachtest,dachte,dachten,dachtet,dachten,gedacht,haben
+,Futur II,"haben (fixed, last word)","sein (fixed, last word)","werde, wirst, wird… + participle",,,a–ie–a,schlafen,schlief,geschlafen,,Mixed verb,kennen,Präsens,kenne,kennst,kennt,kennen,kennt,kennen,gekannt,haben
+,Passiv Präsens,X,X,"werde, wirst, wird… + participle",,,a–ie–a,halten,hielt,gehalten,,Mixed verb,kennen,Präteritum,kannte,kanntest,kannte,kannten,kanntet,kannten,gekannt,haben
+,Passiv Präteritum,X,X,"wurde, wurdest, wurde… + participle",,,a–ie–a,fallen,fiel,gefallen,,Mixed verb,nennen,Präsens,nenne,nennst,nennt,nennen,nennt,nennen,genannt,haben
+,Passiv Perfekt,X,"bin, bist, ist… + participle + worden",worden (fixed),,,au–ie–au,laufen,lief,gelaufen,,Mixed verb,nennen,Präteritum,nannte,nanntest,nannte,nannten,nanntet,nannten,genannt,haben
+,Passiv Plusquamperfekt,X,"war, warst, war… + participle + worden",worden (fixed),,,ie–o–o,fliegen,flog,geflogen,,Mixed verb,rennen,Präsens,renne,rennst,rennt,rennen,rennt,rennen,gerannt,sein
+,Passiv Futur I,X,X,"werde, wirst, wird… + participle + werden (fixed)",,,ie–o–o,ziehen,zog,gezogen,,Mixed verb,rennen,Präteritum,rannte,ranntest,rannte,rannten,ranntet,rannten,gerannt,sein
+,Passiv Futur II,X,"sein (fixed, last word)","werde, wirst, wird… + participle + worden (fixed)",,,ie–o–o,schließen,schloss,geschlossen,,Mixed verb,wissen,Präsens,weiß,weißt,weiß,wissen,wisst,wissen,gewusst,haben
+,,,,,,,no pattern,gehen,ging,gegangen,,Mixed verb,wissen,Präteritum,wusste,wusstest,wusste,wussten,wusstet,wussten,gewusst,haben
+,,,,,,,no pattern,kommen,kam,gekommen,,Modal verb,können,Präsens,kann,kannst,kann,können,könnt,können,gekonnt,haben
+,,,,,,,no pattern,stehen,stand,gestanden,,Modal verb,können,Präteritum,konnte,konntest,konnte,konnten,konntet,konnten,gekonnt,haben
+,,,,,,,no pattern,tun,tat,getan,,Modal verb,müssen,Präsens,muss,musst,muss,müssen,müsst,müssen,gemusst,haben
+,,,,,,,,,,,,Modal verb,müssen,Präteritum,musste,musstest,musste,mussten,musstet,mussten,gemusst,haben
+,,,,,,,,,,,,Modal verb,wollen,Präsens,will,willst,will,wollen,wollt,wollen,gewollt,haben
+,,,,,,,,,,,,Modal verb,wollen,Präteritum,wollte,wolltest,wollte,wollten,wolltet,wollten,gewollt,haben
+,,,,,,,,,,,,Modal verb,dürfen,Präsens,darf,darfst,darf,dürfen,dürft,dürfen,gedurft,haben
+,Examples,,,,,,,,,,,Modal verb,dürfen,Präteritum,durfte,durftest,durfte,durften,durftet,durften,gedurft,haben
+,,,,,,,,,,,,Modal verb,sollen,Präsens,soll,sollst,soll,sollen,sollt,sollen,gesollt,haben
+,Type,Verb,Person,Präsens,Präteritum,Perfekt,Plusquamperfekt,Futur I,Futur II,,,Modal verb,sollen,Präteritum,sollte,solltest,sollte,sollten,solltet,sollten,gesollt,haben
+,einfach,sehen,ich,sehe,sah,habe gesehen,hatte gesehen,werde sehen,werde gesehen haben,,,Modal verb,mögen,Präsens,mag,magst,mag,mögen,mögt,mögen,gemocht,haben
+,einfach,sehen,du,siehst,sahst,hast gesehen,hattest gesehen,wirst sehen,wirst gesehen haben,,,Modal verb,mögen,Präteritum,mochte,mochtest,mochte,mochten,mochtet,mochten,gemocht,haben
+,einfach,sehen,er/sie/es,sieht,sah,hat gesehen,hatte gesehen,wird sehen,wird gesehen haben,,,Modal verb,möchte,Präsens,möchte,möchtest,möchte,möchten,möchtet,möchten,X,X
+,einfach,sehen,wir,sehen,sahen,haben gesehen,hatten gesehen,werden sehen,werden gesehen haben,,,,,,,,,,,,,
+,einfach,sehen,ihr,seht,saht,habt gesehen,hattet gesehen,werdet sehen,werdet gesehen haben,,,,,,,,,,,,,
+,einfach,sehen,sie/Sie,sehen,sahen,haben gesehen,hatten gesehen,werden sehen,werden gesehen haben,,,,,,,,,,,,,
+,einfach (with sein),gehen,ich,gehe,ging,bin gegangen,war gegangen,werde gehen,werde gegangen sein,,,Passive,,,,,,,,,,
+,einfach (with sein),gehen,du,gehst,gingst,bist gegangen,warst gegangen,wirst gehen,wirst gegangen sein,,,,,,,,,,,,,
+,einfach (with sein),gehen,er/sie/es,geht,ging,ist gegangen,war gegangen,wird gehen,wird gegangen sein,,,,,,,,,,,,,
+,einfach (with sein),gehen,wir,gehen,gingen,sind gegangen,waren gegangen,werden gehen,werden gegangen sein,,,Passiv tense,ich,du,er/sie/es,wir,ihr,sie/Sie,,,,
+,einfach (with sein),gehen,ihr,geht,gingt,seid gegangen,wart gegangen,werdet gehen,werdet gegangen sein,,,Präsens,werde gesehen,wirst gesehen,wird gesehen,werden gesehen,werdet gesehen,werden gesehen,,,,
+,einfach (with sein),gehen,sie/Sie,gehen,gingen,sind gegangen,waren gegangen,werden gehen,werden gegangen sein,,,Präteritum,wurde gesehen,wurdest gesehen,wurde gesehen,wurden gesehen,wurdet gesehen,wurden gesehen,,,,
+,trennbar,anfangen,ich,fange an,fing an,habe angefangen,hatte angefangen,werde anfangen,werde angefangen haben,,,Perfekt,bin gesehen worden,bist gesehen worden,ist gesehen worden,sind gesehen worden,seid gesehen worden,sind gesehen worden,,,,
+,trennbar,anfangen,du,fängst an,fingst an,hast angefangen,hattest angefangen,wirst anfangen,wirst angefangen haben,,,Plusquamperfekt,war gesehen worden,warst gesehen worden,war gesehen worden,waren gesehen worden,wart gesehen worden,waren gesehen worden,,,,
+,trennbar,anfangen,er/sie/es,fängt an,fing an,hat angefangen,hatte angefangen,wird anfangen,wird angefangen haben,,,Futur I,werde gesehen werden,wirst gesehen werden,wird gesehen werden,werden gesehen werden,werdet gesehen werden,werden gesehen werden,,,,
+,trennbar,anfangen,wir,fangen an,fingen an,haben angefangen,hatten angefangen,werden anfangen,werden angefangen haben,,,Futur II,werde gesehen worden sein,wirst gesehen worden sein,wird gesehen worden sein,werden gesehen worden sein,werdet gesehen worden sein,werden gesehen worden sein,,,,
+,trennbar,anfangen,ihr,fangt an,fingt an,habt angefangen,hattet angefangen,werdet anfangen,werdet angefangen haben,,,,,,,,,,,,,
+,trennbar,anfangen,sie/Sie,fangen an,fingen an,haben angefangen,hatten angefangen,werden anfangen,werden angefangen haben,,,,,,,,,,,,,
+,untrennbar,empfehlen,ich,empfehle,empfahl,habe empfohlen,hatte empfohlen,werde empfehlen,werde empfohlen haben,,,,,,,,,,,,,
+,untrennbar,empfehlen,du,empfiehlst,empfahlst,hast empfohlen,hattest empfohlen,wirst empfehlen,wirst empfohlen haben,,,,,,,,,,,,,
+,untrennbar,empfehlen,er/sie/es,empfiehlt,empfahl,hat empfohlen,hatte empfohlen,wird empfehlen,wird empfohlen haben,,,,,,,,,,,,,
+,untrennbar,empfehlen,wir,empfehlen,empfahlen,haben empfohlen,hatten empfohlen,werden empfehlen,werden empfohlen haben,,,,,,,,,,,,,
+,untrennbar,empfehlen,ihr,empfehlt,empfahlt,habt empfohlen,hattet empfohlen,werdet empfehlen,werdet empfohlen haben,,,,,,,,,,,,,
+,untrennbar,empfehlen,sie/Sie,empfehlen,empfahlen,haben empfohlen,hatten empfohlen,werden empfehlen,werden empfohlen haben,,,,,,,,,,,,,
+,auf ieren (always regular),X,X,X,X,X,X,X,X,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,Helper Examples,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,Helper in Perfekt,Reason,Verb,Partizip II,Perfekt example,,,,,,,,,,,,,,,,,
+,sein,change of place,gehen,gegangen,Ich bin nach Hause gegangen.,,,,,,,,,,,,,,,,,
+,sein,change of place,kommen,gekommen,Er ist gestern gekommen.,,,,,,,,,,,,,,,,,
+,sein,change of place,ankommen,angekommen,Ich bin um acht Uhr angekommen.,,,,,,,,,,,,,,,,,
+,sein,change of place,fahren,gefahren,Wir sind nach Berlin gefahren.,,,,,,,,,,,,,,,,,
+,sein,change of place,fliegen,geflogen,Sie ist nach Indien geflogen.,,,,,,,,,,,,,,,,,
+,sein,change of place,laufen,gelaufen,Er ist zum Bahnhof gelaufen.,,,,,,,,,,,,,,,,,
+,sein,change of place,rennen (mixed),gerannt,Das Kind ist nach Hause gerannt.,,,,,,,,,,,,,,,,,
+,sein,change of place,steigen,gestiegen,Wir sind in den Bus gestiegen.,,,,,,,,,,,,,,,,,
+,sein,change of place,fallen,gefallen,Das Glas ist vom Tisch gefallen.,,,,,,,,,,,,,,,,,
+,sein,change of state,aufstehen,aufgestanden,Ich bin um sechs Uhr aufgestanden.,,,,,,,,,,,,,,,,,
+,sein,change of state,einschlafen,eingeschlafen,Das Kind ist früh eingeschlafen.,,,,,,,,,,,,,,,,,
+,sein,change of state,wachsen,gewachsen,Das Kind ist gewachsen.,,,,,,,,,,,,,,,,,
+,sein,change of state,sterben,gestorben,Die Pflanze ist gestorben.,,,,,,,,,,,,,,,,,
+,sein,special verb,sein,gewesen,Ich bin in Berlin gewesen.,,,,,,,,,,,,,,,,,
+,sein,special verb,bleiben,geblieben,Wir sind zu Hause geblieben.,,,,,,,,,,,,,,,,,
+,sein,special verb,werden,geworden,Es ist kalt geworden.,,,,,,,,,,,,,,,,,
+,haben,with an object,sehen,gesehen,Ich habe den Mann gesehen.,,,,,,,,,,,,,,,,,
+,haben,with an object,geben,gegeben,Er hat mir das Buch gegeben.,,,,,,,,,,,,,,,,,
+,haben,with an object,nehmen,genommen,Sie hat den Bus genommen.,,,,,,,,,,,,,,,,,
+,haben,with an object,essen,gegessen,Wir haben Brot gegessen.,,,,,,,,,,,,,,,,,
+,haben,with an object,trinken,getrunken,Ich habe Kaffee getrunken.,,,,,,,,,,,,,,,,,
+,haben,with an object,finden,gefunden,Ich habe den Schlüssel gefunden.,,,,,,,,,,,,,,,,,
+,haben,with an object,lesen,gelesen,Ich habe das Buch gelesen.,,,,,,,,,,,,,,,,,
+,haben,with an object,schreiben,geschrieben,Sie hat eine E-Mail geschrieben.,,,,,,,,,,,,,,,,,
+,haben,with an object,tragen,getragen,Sie hat eine Tasche getragen.,,,,,,,,,,,,,,,,,
+,haben,with an object,empfehlen,empfohlen,Er hat das Hotel empfohlen.,,,,,,,,,,,,,,,,,
+,haben,with an object,bringen (mixed),gebracht,Er hat das Essen gebracht.,,,,,,,,,,,,,,,,,
+,haben,with an object,wissen (mixed),gewusst,Ich habe das nicht gewusst.,,,,,,,,,,,,,,,,,
+,haben,with a dative object,helfen,geholfen,Der Mann hat dem Kind geholfen.,,,,,,,,,,,,,,,,,
+,haben,"activity or state, no movement",sprechen,gesprochen,Wir haben Deutsch gesprochen.,,,,,,,,,,,,,,,,,
+,haben,"activity or state, no movement",schlafen,geschlafen,Ich habe gut geschlafen.,,,,,,,,,,,,,,,,,
+,haben,"activity or state, no movement",denken (mixed),gedacht,Ich habe an dich gedacht.,,,,,,,,,,,,,,,,,
+,haben,"activity or state, no movement",halten,gehalten,Der Bus hat gehalten.,,,,,,,,,,,,,,,,,
+,haben,"activity or state, no movement",anfangen,angefangen,Der Kurs hat angefangen.,,,,,,,,,,,,,,,,,
+,sein,"movement from A to B, no object",fahren,gefahren,Ich bin nach Hause gefahren.,,,,,,,,,,,,,,,,,
+,haben,you drive something (object),fahren,gefahren,Er hat das Auto gefahren.,,,,,,,,,,,,,,,,,
+,sein,"movement from A to B, no object",fliegen,geflogen,Wir sind nach Rom geflogen.,,,,,,,,,,,,,,,,,
+,haben,you fly something (object),fliegen,geflogen,Der Pilot hat das Flugzeug geflogen.,,,,,,,,,,,,,,,,,
+,sein,swim to a place,schwimmen,geschwommen,Ich bin zum Ufer geschwommen.,,,,,,,,,,,,,,,,,
+,haben,swimming as an activity,schwimmen,geschwommen,Ich habe eine Stunde geschwommen.,,,,,,,,,,,,,,,,,
