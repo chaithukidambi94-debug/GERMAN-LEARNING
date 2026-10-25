@@ -1,6 +1,6 @@
 # Journal
 
-Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow the topics of an A1 revision course in September and of the A2 course and B1 class in October, together with the practice recorded in my chats and files.All the learnings and practice I have done in Sep 2026 is a ordered/structured revision of all my unstructured learning in the past year. 
+Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow the topics of an A1 revision course in September and of the A2 class in October, together with the practice recorded in my chats and files. Everything I learned and practiced in September 2026 is an ordered, structured revision of the unstructured learning I did over the past year.
 
 ## 2026-09-01 Alphabet and pronunciation
 - 📚 Learned the German alphabet from A to Z and the name of every letter.
