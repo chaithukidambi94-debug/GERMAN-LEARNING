@@ -379,3 +379,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📈 Collected exhaustive lists for the rules Excel: 468 words with -keit, 229 with -heit and 1,867 with -ung.
 - 📈 Collected about 55 prefix verb lists, including be-, ver-, ab-, an-, auf- and aus-.
 - Asked about modal particles such as doch and learned how they add tone to a sentence.
+
+## 2026-10-26 Adjective endings, prepositions and practice test
+- ✍️ Adjective endings after ein- and kein-: großer, große, großes in Nominativ, großen in Dativ.
+- 🧭 Two-way prepositions use Dativ for Wo? and Akkusativ for Wohin?, as in im neuen Büro.
+- 📍 Von, bei, nach and zu always take Dativ; nach and zu answer Wohin?.
+- 🎯 Fokuspartikeln point at one word: nur, auch, sogar, erst, gerade, schon and more.
+- 🪑 Furniture words: Sessel, Esstisch, Regal, Kiste, Möbel and Stehpult.
+- 🔤 Question words Wo, Wohin and Woher, plus danach and davor for time order.
+- 🔑 New words: Schlüssel, stecken, Wechselgeld, tauschen, Richtung, Pfeil, Zahnbürste, Moderatorin and räumen.
+- ✅ Practice test Kapitel 4 and 5 covered reflexive verbs, ab, bis, von and zwischen.
