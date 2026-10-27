@@ -389,3 +389,14 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🔤 Question words Wo, Wohin and Woher, plus danach and davor for time order.
 - 🔑 New words: Schlüssel, stecken, Wechselgeld, tauschen, Richtung, Pfeil, Zahnbürste, Moderatorin and räumen.
 - ✅ Practice test Kapitel 4 and 5 covered reflexive verbs, ab, bis, von and zwischen.
+
+## 2026-10-27 Word families, noch and the plural
+- 📚 Learned that -ieren verbs give feminine nouns: kombinieren becomes die Kombination.
+- 🧩 Learned that -tion nouns are always feminine; der Champion and der Skorpion are exceptions.
+- 🍴 Learned the cutlery words der Löffel, die Gabel, das Messer and the collective das Besteck.
+- 🔁 Learned the plural articles die, die, den, der, and the Dativ plural ending -n.
+- 📈 Learned the difference between steigen (to climb) and ansteigen (to rise steadily).
+- 🗣️ Practiced noch in noch nicht, noch kein, noch immer, noch einmal and noch nie.
+- 🔎 Learned the difference between ganz (quite), gerade (right now) and gern (with pleasure).
+- 🛋️ Learned die Gemütlichkeit, der Couchtisch, das Fleisch, der Kasten, die Tinte, außerdem and hinlegen.
+- ✅ Collected word-family lists of about 1,200 verb and noun pairs for the four Excel sheets.
