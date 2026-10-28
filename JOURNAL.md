@@ -400,3 +400,14 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🔎 Learned the difference between ganz (quite), gerade (right now) and gern (with pleasure).
 - 🛋️ Learned die Gemütlichkeit, der Couchtisch, das Fleisch, der Kasten, die Tinte, außerdem and hinlegen.
 - ✅ Collected word-family lists of about 1,200 verb and noun pairs for the four Excel sheets.
+
+## 2026-10-28 Revision of grammar and vocabulary
+- 📚 Revised was für ein in all cases: einen Tisch, eine Lampe, einem Auto, einer Stadt.
+- 🧩 Revised denn, deshalb, weil, dass, ob, wenn and obwohl and the verb position after each.
+- 🔁 Revised the Präsens endings, vowel changes and the forms of sein, haben, werden and wissen.
+- 🕰️ Revised the Präteritum of sein, haben and modals, plus the Perfekt with haben and sein.
+- 💪 Revised the modal verbs können, müssen, wollen, dürfen, sollen, mögen and möchten.
+- 🧱 Revised the bestimmter and unbestimmter Artikel in Nominativ, Akkusativ and Dativ, including the plural.
+- 🎨 Revised adjective endings; the Dativ always takes -en, as in einer kleinen Hilfe.
+- 📝 Revised about 600 typed words with meanings, sorted into der, die, das and Other lists.
+- 🗺️ Revised the comparative, the superlative, the Dativ prepositions and the two-way prepositions.
