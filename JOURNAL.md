@@ -411,3 +411,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🎨 Revised adjective endings; the Dativ always takes -en, as in einer kleinen Hilfe.
 - 📝 Revised about 600 typed words with meanings, sorted into der, die, das and Other lists.
 - 🗺️ Revised the comparative, the superlative, the Dativ prepositions and the two-way prepositions.
+
+## 2026-10-29 Imperativ, frequency words and the weekly workbook
+- 📚 Learned the Imperativ with du, ihr and Sie: Geh!, Nimm!, Ruf an!, Sei vorsichtig!
+- 📚 Learned that sehen keeps its vowel change (Sieh mich an!), and schlafen and laufen give Schlaf! and Lauf!
+- 📚 Learned the frequency words nie, selten, manchmal, oft and immer, plus jeden Tag and alle zwei Tage.
+- 📚 Learned the fractions Viertel, Drittel, Fünftel, Sechstel and Zehntel, and the ordinals zweite and dritte.
+- 🎯 Checked the A2.1 practice test and the reason behind each correct answer.
+- 📈 Collected new words: Befehl, Pfleger, Fähigkeit, Entwickler, jederzeit, wortwörtlich, leer and anschauen.
+- 📈 Updated the vocabulary workbook with the weekly export of 1,622 new rows: 63 der, 321 die, 232 das and 1,006 Other.
