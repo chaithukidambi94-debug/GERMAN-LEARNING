@@ -420,3 +420,11 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🎯 Checked the A2.1 practice test and the reason behind each correct answer.
 - 📈 Collected new words: Befehl, Pfleger, Fähigkeit, Entwickler, jederzeit, wortwörtlich, leer and anschauen.
 - 📈 Updated the vocabulary workbook with the weekly export of 1,622 new rows: 63 der, 321 die, 232 das and 1,006 Other.
+
+## 2026-10-30 Holiday recap: past tenses
+- 📚 Recap of the Perfekt: haben or sein plus the Partizip II at the end, as in Ich habe Deutsch gelernt.
+- 📚 Recap of the Partizip II: gelernt, gegessen, gegangen, geblieben, and without ge- in besucht and studiert.
+- ✅ Recap of separable verbs, where ge- goes in the middle: aufgestanden, eingekauft, eingeladen, stattgefunden.
+- 📚 Recap of the Präteritum of sein and haben: ich war, wir waren, ich hatte, wir hatten.
+- 📚 Recap of the modal verbs in the Präteritum: konnte, musste, wollte, durfte, sollte.
+- 🎯 Planned one short recap topic for each holiday day until 3 November.
