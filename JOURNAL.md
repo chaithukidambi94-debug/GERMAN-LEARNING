@@ -428,3 +428,11 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📚 Recap of the Präteritum of sein and haben: ich war, wir waren, ich hatte, wir hatten.
 - 📚 Recap of the modal verbs in the Präteritum: konnte, musste, wollte, durfte, sollte.
 - 🎯 Planned one short recap topic for each holiday day until 3 November.
+
+## 2026-10-31 Holiday recap: dative and prepositions
+- 📚 Recap of the dative pronouns mir, dir, ihm, ihr, uns, euch, ihnen, as in Wie gefällt dir die Couch?
+- 📚 Recap of verbs with a dative object: helfen, gehören, gefallen, danken, antworten.
+- 📚 Recap of the dative prepositions aus, bei, mit, nach, seit, von, zu, gegenüber.
+- 📚 Recap of the two-way prepositions: Wo? takes the dative and Wohin? takes the accusative.
+- 📚 Recap of the position verbs stehen, liegen, hängen, sitzen and the movement verbs stellen, legen, hängen, setzen.
+- ✅ Recap of the reflexive verbs sich freuen, sich interessieren für and sich entschuldigen bei.
