@@ -444,3 +444,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📚 Recap of so ... wie for equal things and als for comparisons.
 - ✅ Recap of adjective endings: der große Tisch, ein großer Tisch, den großen Tisch.
 - 🗣️ Recap of time phrases for speaking: jeden Tag, alle zwei Tage, jeden zweiten Tag.
+
+## 2026-11-01 Career German finance terms
+- 🎯 Started a separate Excel sheet for career German, apart from the vocabulary workbook.
+- 📚 Collected 120 career terms: 56 finance terms from an earlier list and 64 finance, office, SAP and interview words from my class words.
+- 📚 Learned finance pairs such as Eigenkapital and Fremdkapital, Anlagevermögen and Umlaufvermögen, Hauptbuch and Nebenbuch.
+- 📚 Learned accounting terms such as Jahresabschluss, Bilanz, Rückstellung, Abschreibung and Wertberichtigung.
+- 📚 Learned office and interview words such as Termin, Protokoll, Stelle, Qualifikation and Interview.
+- 🗣️ Received three complex German sentences with English meanings for every term.
+- 📈 Noted the opposite term and the work situations where each word is used.
+- ✅ Planned a CSV copy of the career sheet on GitHub next to the vocabulary CSVs.
