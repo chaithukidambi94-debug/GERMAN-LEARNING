@@ -436,3 +436,11 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📚 Recap of the two-way prepositions: Wo? takes the dative and Wohin? takes the accusative.
 - 📚 Recap of the position verbs stehen, liegen, hängen, sitzen and the movement verbs stellen, legen, hängen, setzen.
 - ✅ Recap of the reflexive verbs sich freuen, sich interessieren für and sich entschuldigen bei.
+
+## 2026-11-01 Holiday recap: building longer sentences
+- 📚 Recap of subordinate clauses with weil and dass, where the verb goes to the end.
+- 📚 Recap of denn, which keeps the normal word order, and of ob, wenn and obwohl.
+- 📚 Recap of the comparative and superlative: schnell, schneller, am schnellsten; gut, besser, am besten.
+- 📚 Recap of so ... wie for equal things and als for comparisons.
+- ✅ Recap of adjective endings: der große Tisch, ein großer Tisch, den großen Tisch.
+- 🗣️ Recap of time phrases for speaking: jeden Tag, alle zwei Tage, jeden zweiten Tag.
