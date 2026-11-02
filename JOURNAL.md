@@ -454,3 +454,11 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🗣️ Received three complex German sentences with English meanings for every term.
 - 📈 Noted the opposite term and the work situations where each word is used.
 - ✅ Planned a CSV copy of the career sheet on GitHub next to the vocabulary CSVs.
+
+## 2026-11-02 Holiday recap: polite and practical German
+- 📚 Recap of the Imperativ (Befehlsform): Komm! Nehmen Sie die Tabletten! Sei vorsichtig!
+- 📚 Recap of formell and informell: du with friends, Sie with the Chef.
+- 📚 Recap of polite requests with Konjunktiv II: ich möchte, ich hätte gern, könnten Sie, würden Sie.
+- 📚 Recap of the doctor visit: body parts, symptoms, einen Termin vereinbaren and advice with sollen.
+- ✅ Recap of emails: Betreff, Liebe or Lieber, Sehr geehrte Frau ..., Mit freundlichen Grüßen.
+- 🗣️ Recap of travel phrases: Haben Sie ein Zimmer frei? das Gleis, die Verspätung, umsteigen.
