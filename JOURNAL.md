@@ -462,3 +462,11 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📚 Recap of the doctor visit: body parts, symptoms, einen Termin vereinbaren and advice with sollen.
 - ✅ Recap of emails: Betreff, Liebe or Lieber, Sehr geehrte Frau ..., Mit freundlichen Grüßen.
 - 🗣️ Recap of travel phrases: Haben Sie ein Zimmer frei? das Gleis, die Verspätung, umsteigen.
+
+## 2026-11-03 Holiday recap: words and word endings
+- 📚 Recap: nouns ending in -tion, -ität, -keit, -heit and -ung are feminine.
+- 📚 Recap of prefix verbs: be-, ver-, er- and ent- form the Partizip II without ge-.
+- 📚 Recap of modal particles such as doch, which add tone to a sentence.
+- ✅ Recap of word families: der Pfleger, die Pflege, der Krankenpfleger; der Befehl, befehlen, die Befehlsform.
+- 📈 The vocabulary workbook holds about 3,600 words across the Maskulin, Feminin, Neutral and Other sheets.
+- 🎯 Ready for the next class, with B1 speaking as the goal.
