@@ -470,3 +470,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - ✅ Recap of word families: der Pfleger, die Pflege, der Krankenpfleger; der Befehl, befehlen, die Befehlsform.
 - 📈 The vocabulary workbook holds about 3,600 words across the Maskulin, Feminin, Neutral and Other sheets.
 - 🎯 Ready for the next class, with B1 speaking as the goal.
+
+## 2026-11-04 Workplace communication, -bar adjectives, frequency words
+- 💼 Learned workplace vocabulary from Kapitel 9: die Besprechung, der Betreff, der Anhang, bestätigen, weiterleiten, speichern, löschen
+- 📅 Practised appointment verbs: vereinbaren, verschieben, vorverlegen, aufschieben, zusagen, absagen
+- 🔧 Learned the -bar ending (verb + bar = can be done): machbar, planbar, sichtbar, erreichbar
+- 🏷️ Revised article rules: -ung, -ion, -ität and -in nouns are feminine; compounds take the article of the last word
+- ⏱️ Built a frequency scale: ständig, häufig, vielfach, mehrmals, manchmal, sporadisch, selten, kaum, nie
+- ❓ Compared wenn, falls and ob, and practised woher, wohin and wo
+- ✍️ Practised spelling: zählen vs. zahlen, the silent h (gehen, sehen, Ruhe), ß and umlauts
