@@ -479,3 +479,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - ⏱️ Built a frequency scale: ständig, häufig, vielfach, mehrmals, manchmal, sporadisch, selten, kaum, nie
 - ❓ Compared wenn, falls and ob, and practised woher, wohin and wo
 - ✍️ Practised spelling: zählen vs. zahlen, the silent h (gehen, sehen, Ruhe), ß and umlauts
+
+## 2026-11-05 zum + noun, office vocabulary, wenn-sentences
+- 🎯 Learned "zum + noun" for purpose: Das Tablet nutzt man zum Filmeschauen
+- 🔗 Practised "von" after a verb with an object: zum Aufladen vom Akku, zum Vorbereiten von Webinaren
+- 💼 Learned office words: die Datei, der Anhang, der Betreff, der Absender, der Empfänger, der Bescheid, die Kolleginnen, die Bestellung
+- 📅 Practised appointment verbs: vereinbaren, verschieben, absagen, zusagen, bestätigen, stattfinden
+- 🧩 Built wenn-sentences: the verb goes to the end, and the main clause starts with the verb
+- 🔤 Revised spelling and key terms: der Vokal, der Doppelkonsonant, die Fragewörter, die Schlüsselwörter
+- 🗣️ Practised everyday verbs: treffen, drucken, passen, bezahlen, erzählen, grüßen, schließen, and the past of sein (war, warst, waren); learned the adjective peinlich
+- 📒 Updated the vocabulary workbook and built the new Ready Reckoner workbook with class words from A to Z

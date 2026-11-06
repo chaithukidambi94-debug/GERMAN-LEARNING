@@ -13,11 +13,11 @@ Examples,"German sentence on line 1, English translation on line 2 of each cell.
 Word count per sheet,Entries (formula)
 Maskulin (der),305
 Feminin (die),1116
-Neutral (das),801
-Other (none),1424
+Neutral (das),395
+Other (none),1830
 Total,3646
 ,
 Status breakdown (formula),Rows (a combined status counts in both)
-"Status contains ""Learned""",843
-"Status contains ""New""",1968
+"Status contains ""Learned""",1002
+"Status contains ""New""",2215
 "Status contains ""Your list""",453
