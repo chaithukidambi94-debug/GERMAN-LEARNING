@@ -499,3 +499,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 💼 Added 29 office and business words to the finance vocabulary Excel (Besprechung, Tagesordnung, Kunde, Zusammenarbeit, Feedback)
 - 🗂️ Added 68 new class words to the Ready Reckoner for quick look-up in the letter sheets
 - ✅ Checked that every word from the Base Verb Families sheet is now in the vocabulary Excel
+
+## 2026-11-07 Prefix verbs review and vocabulary checks
+- 🧩 Went through the last base verb families (waschen to zwingen) and met verbs such as waschen, wecken, weinen, werben, werfen, wirken, zahlen, zeichnen, zeigen, ziehen, zwingen with their prefix forms
+- 💶 Learned money and business verbs: überweisen, abzahlen, auszahlen, einzahlen, zurückzahlen, erwirtschaften, einsparen, unterzeichnen, sich bewerben
+- 🧠 Practised how a prefix changes meaning: holen → erholen, setzen → ersetzen, täuschen → enttäuschen, wahren → bewahren
+- 🏷️ Practised separable and inseparable prefixes: zurück + kommen = zurückkommen (kommt … zurück), be- + finden = sich befinden (no ge- in the Partizip II)
+- 🔍 Checked every word of the Base Verb Families sheet against the vocabulary Excel and added the 8 missing ones: sich befinden, sich erholen, läuten, sägen, absägen, setzen, täuschen, wahren
+- 📑 Learned how the vocabulary files are organised: each part is sorted A–Z by word and named after the range of base verbs it covers (Part 2 = helfen to legen, for example zurückkommen from kommen)
+- ✅ Confirmed that all finance vocabulary words are also in the vocabulary Excel
