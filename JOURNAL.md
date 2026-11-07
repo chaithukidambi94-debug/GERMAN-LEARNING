@@ -508,3 +508,6 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🔍 Checked every word of the Base Verb Families sheet against the vocabulary Excel and added the 8 missing ones: sich befinden, sich erholen, läuten, sägen, absägen, setzen, täuschen, wahren
 - 📑 Learned how the vocabulary files are organised: each part is sorted A–Z by word and named after the range of base verbs it covers (Part 2 = helfen to legen, for example zurückkommen from kommen)
 - ✅ Confirmed that all finance vocabulary words are also in the vocabulary Excel
+
+## 2026-11-08 Break day
+- 🌿 Took a planned break day from class and practice
