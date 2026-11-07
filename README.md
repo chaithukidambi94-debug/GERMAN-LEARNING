@@ -16,3 +16,7 @@ This repository records my progress in learning German, from the revision of A1 
 - `German_Ready_Reckoner.xlsx` — Ready Reckoner workbook with class words sorted from A to Z, one sheet per letter, with a search sheet.
 - `German_Vocabulary.xlsx` — Vocabulary workbook sorted by der, die, das and other words, with a search sheet, a key and a guide for adding words.
 - `JOURNAL.md` — Daily log of the topics learned and practiced, one dated entry per day.
+
+## About the CSV parts
+
+GitHub shows a CSV file as a readable table up to a certain file size, so every sheet with more than 300 rows is split into numbered parts of 300 rows, and each part repeats the header row. The complete sheets are in the Excel workbooks, which download in one piece with the "Download raw file" button on each workbook's page. The parts of a sheet can also be joined in number order, with the header row kept once, to rebuild the full sheet.
