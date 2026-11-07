@@ -489,3 +489,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🔤 Revised spelling and key terms: der Vokal, der Doppelkonsonant, die Fragewörter, die Schlüsselwörter
 - 🗣️ Practised everyday verbs: treffen, drucken, passen, bezahlen, erzählen, grüßen, schließen, and the past of sein (war, warst, waren); learned the adjective peinlich
 - 📒 Updated the vocabulary workbook and built the new Ready Reckoner workbook with class words from A to Z
+
+## 2026-11-06 Weekly vocabulary update and base verb families
+- 📚 Collected the week's class words from Kapitel 9 and Smart unterwegs: 170 new entries across der, die, das and Other, plus 8 gap words (sich befinden, sich erholen, läuten, sägen, absägen, setzen, täuschen, wahren)
+- ✉️ Learned office and email vocabulary: der Absender, der Empfänger, der Anhang, der Betreff, die Anrede, die Besprechung, die Tagesordnung, bestätigen, verschieben, vorverlegen, weiterleiten, zusagen, absagen
+- 🔤 Practised spelling and sounds: short and long vowels, double consonants, ß after a long vowel, and the -zeug family (Fahrzeug, Flugzeug, Feuerzeug, Spielzeug)
+- 🧩 Built the Base Verb Families sheet: 371 base verbs with their separable and inseparable prefix verbs
+- 📖 Wrote 3,794 prefix verbs in the full 11-column vocabulary format (forms, synonyms, antonyms, three examples, notes) for the Other sheet of the vocabulary Excel
+- 💼 Added 29 office and business words to the finance vocabulary Excel (Besprechung, Tagesordnung, Kunde, Zusammenarbeit, Feedback)
+- 🗂️ Added 68 new class words to the Ready Reckoner for quick look-up in the letter sheets
+- ✅ Checked that every word from the Base Verb Families sheet is now in the vocabulary Excel

@@ -8,7 +8,7 @@ This repository records my progress in learning German, from the revision of A1 
 
 ## Files and folders
 
-- `csv` — CSV copies of every workbook sheet in UTF-8, for easy reading and search; the large Feminin and Other sheets come in numbered parts for the GitHub table view.
+- `csv` — CSV copies of every workbook sheet in UTF-8, for easy reading and search; sheets with more than 300 rows come in numbered parts of 300 rows for the GitHub table view.
 - `csv/Finance Related Vocab_Sheet1.csv` — Career German terms for finance, accounting, SAP, office and interview words, with meanings, opposites and three examples per term.
 - `csv/German_Ready_Reckoner_<letter>.csv` — Class words from the Ready Reckoner workbook, one file per letter from A to Z, plus Ä, Ö and Ü.
 - `Finance Related Vocab.xlsx` — Career German workbook with finance, accounting, SAP, office and interview terms.
