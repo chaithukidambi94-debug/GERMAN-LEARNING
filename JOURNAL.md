@@ -511,3 +511,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 
 ## 2026-11-08 Break day
 - 🌿 Took a planned break day from class and practice
+
+## 2026-11-09 Smart unterwegs and Freundschaft
+- 📱 Learned Kapitel 10 tech words (Seite 26–30): das Display, der Touchscreen, die Powerbank, der Lautsprecher, die Sprachsteuerung, die Laufzeit, kabellos, anschließen, steuern, navigieren
+- ❓ Practised indirect questions: Ich möchte wissen, wo er wohnt. / Weißt du, ob er kommt? (verb at the end, ob for yes/no questions, a question mark only when the main clause is a question)
+- 🙂 Practised describing people: die Glatze, die Locken, der Bart, braune Augen, graue Haare, and matched sentences to photos
+- 🔍 Found the hidden adjectives: sportlich, kreativ, lieb, ehrlich, nervös, sympathisch
+- 🤝 Learned friendship words: die Freundschaft, befreundet sein, pflegen, sich kümmern um, vernachlässigen, trösten, sich vertragen, streiten, die Bekannten, die Ehrlichkeit
+- 🗣️ Learned useful phrases: Darf ich fragen ...?, dürfen, auswendig, sich merken
+- 📖 Read a product offer (Fahrradnavigationsgerät) and answered richtig or falsch
+- 🧩 Picked up everyday words: die Bushaltestelle, der Stammtisch, das Sprachtandem, unhöflich, die Vermutung, der Quatsch
