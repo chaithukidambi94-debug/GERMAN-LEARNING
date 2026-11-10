@@ -521,3 +521,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🗣️ Learned useful phrases: Darf ich fragen ...?, dürfen, auswendig, sich merken
 - 📖 Read a product offer (Fahrradnavigationsgerät) and answered richtig or falsch
 - 🧩 Picked up everyday words: die Bushaltestelle, der Stammtisch, das Sprachtandem, unhöflich, die Vermutung, der Quatsch
+
+## 2026-11-10 Nachbarn and als oder wenn
+- 🏘️ Read "Mein Leben mit Nachbarn in Deutschland und Spanien" (Kapitel 11, Seite 52–53) and skimmed it for the main idea: neighbours are Bekannte, and Freunde are a closer circle
+- ✅ Finished 5.2: grüßen, umzieht, bekommt, Straße, Leben, Deutschland
+- 🕐 Als oder wenn (7.1): als = one single event in the past, wenn = repeated (immer, oft, sonntags); number 8 is the unclear one
+- 🔗 als + noun = "as a ..." (Apposition), e.g. Er arbeitet als Lehrer; als + adjective is a different use
+- 👥 Freund vs Bekannte, kennen vs wissen, and uns as "each other" (Wir grüßen uns)
+- 🔤 New words: überfliegen, die Mauer, eigen, umziehen, eigentlich, eher, draußen, sich unterhalten, einladen, das Muster, Mustermann
+- 🏢 Abbreviations: AG, GmbH, LKW, PKW, BMW
+- 🍬 Everyday words: Zuckertüte, Süßigkeit, Albtraum, frech, ausgebucht, mehrmals, jedes Mal
