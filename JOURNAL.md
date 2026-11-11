@@ -531,3 +531,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🔤 New words: überfliegen, die Mauer, eigen, umziehen, eigentlich, eher, draußen, sich unterhalten, einladen, das Muster, Mustermann
 - 🏢 Abbreviations: AG, GmbH, LKW, PKW, BMW
 - 🍬 Everyday words: Zuckertüte, Süßigkeit, Albtraum, frech, ausgebucht, mehrmals, jedes Mal
+
+## 2026-11-11 Freundschaft und Notfall
+- 📖 Read the Kapitel 11 text 9.1 (friendship of two women writers) and picked up its words: sammeln, faszinieren, die Leserin, die Schriftstellerin, das Gedicht, in Kontakt bleiben, zeigen
+- ✍️ Corrected my sentence: Die beiden Freundinnen sind durch Briefe in Kontakt geblieben (bleiben takes sein)
+- 🚑 Learned emergency words: Erste Hilfe, der Unfall, der Rettungswagen, die Notrufzentrale, ansprechbar, auflegen, die Gefahr, lebensbedrohlich
+- 🩹 Learned injury words: die Verletzung, die Wunde, die Platzwunde, die Schnittwunde, quetschen, der Bluttest
+- 💥 Learned breaking and bursting verbs: brechen, ausbrechen, erbrechen, platzen, bersten, stoßen, stürzen, hinfallen, detonieren, implodieren
+- 💬 Learned opinion and feeling words: die Meinung, das Fazit, die Offenheit, die Ehrlichkeit, die Auswirkung, die Hoffnung, die Sorge, übertrieben, vorsichtig
+- 🔗 Learned linking words: miteinander, einander, gegenseitig, gleichermaßen, zusätzlich, zuerst, mehrmals
+- 🧩 Everyday words: der Pfandsammler, die Malerei, der Vulkan, das Herz, der Tod, tot
