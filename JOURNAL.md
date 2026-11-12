@@ -541,3 +541,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 💬 Learned opinion and feeling words: die Meinung, das Fazit, die Offenheit, die Ehrlichkeit, die Auswirkung, die Hoffnung, die Sorge, übertrieben, vorsichtig
 - 🔗 Learned linking words: miteinander, einander, gegenseitig, gleichermaßen, zusätzlich, zuerst, mehrmals
 - 🧩 Everyday words: der Pfandsammler, die Malerei, der Vulkan, das Herz, der Tod, tot
+
+## 2026-11-12 Body, accidents and word families
+- 🫀 Body parts by system, senses, body functions, pain and emotion vocab, plus the diseases sheet
+- 🚑 Accident words, Seite 66–67: Autounfall, bewusstlos, Platzwunde, Schnittwunde, Quetschwunde, Gehirnerschütterung
+- 📝 Kapitel 11 quiz answered with reasons (Q22–27 need the audio)
+- 🔁 sollen in all 6 tenses, plus muss vs. soll vs. sollte
+- 🧩 Word families: all -fall words, full -los list, full -bar list with auf-…-bar and un-…-bar
+- ✍️ Handwritten class words: Postleitzahl, Ratschlag, Schlag, Topf, Messer, Vorschlag
+- 📄 PDF of all 76 words from 11 Nov
+- 📌 Everything is logged for the Friday 13 Nov update
