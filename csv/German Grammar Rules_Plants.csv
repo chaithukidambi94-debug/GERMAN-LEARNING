@@ -1,0 +1,143 @@
+Category,Article,Word,Plural,Meaning (EN)
+Pflanzen allgemein,die,Pflanze,Pflanzen,plant
+Pflanzen allgemein,die,Zimmerpflanze,Zimmerpflanzen,houseplant
+Pflanzen allgemein,die,Topfpflanze,Topfpflanzen,potted plant
+Pflanzen allgemein,die,Kletterpflanze,Kletterpflanzen,climbing plant
+Pflanzen allgemein,die,Wasserpflanze,Wasserpflanzen,aquatic plant
+Pflanzen allgemein,die,Nutzpflanze,Nutzpflanzen,crop plant
+Pflanzen allgemein,die,Heilpflanze,Heilpflanzen,medicinal plant
+Pflanzen allgemein,die,Giftpflanze,Giftpflanzen,poisonous plant
+Pflanzen allgemein,die,Blume,Blumen,flower
+Pflanzen allgemein,der,Blumenstrauß,Blumensträuße,bouquet
+Pflanzen allgemein,der,Baum,Bäume,tree
+Pflanzen allgemein,der,Strauch,Sträucher,shrub
+Pflanzen allgemein,der,Busch,Büsche,bush
+Pflanzen allgemein,das,Gras,Gräser,grass
+Pflanzen allgemein,das,Unkraut,Unkräuter,weed
+Pflanzen allgemein,das,Moos,Moose,moss
+Pflanzen allgemein,der,Farn,Farne,fern
+Pflanzen allgemein,die,Alge,Algen,"alga, seaweed"
+Pflanzen allgemein,der,Kaktus,Kakteen,cactus
+Pflanzen allgemein,der,Bambus,Bambusse,bamboo
+Pflanzen allgemein,die,Palme,Palmen,palm
+Pflanzen allgemein,das,Schilf,(no plural),reed
+Blumen,die,Rose,Rosen,rose
+Blumen,die,Tulpe,Tulpen,tulip
+Blumen,die,Narzisse,Narzissen,daffodil
+Blumen,die,Osterglocke,Osterglocken,daffodil (Easter bell)
+Blumen,die,Sonnenblume,Sonnenblumen,sunflower
+Blumen,das,Gänseblümchen,Gänseblümchen,daisy
+Blumen,die,Margerite,Margeriten,ox-eye daisy
+Blumen,das,Veilchen,Veilchen,violet
+Blumen,das,Stiefmütterchen,Stiefmütterchen,pansy
+Blumen,die,Orchidee,Orchideen,orchid
+Blumen,die,Lilie,Lilien,lily
+Blumen,die,Nelke,Nelken,carnation (also: clove)
+Blumen,der,Mohn,(no plural),poppy (also: poppy seed)
+Blumen,die,Kornblume,Kornblumen,cornflower
+Blumen,der,Löwenzahn,(no plural),dandelion
+Blumen,die,Butterblume,Butterblumen,buttercup
+Blumen,der,Lavendel,(no plural),lavender
+Blumen,die,Hyazinthe,Hyazinthen,hyacinth
+Blumen,der,Krokus,Krokusse,crocus
+Blumen,das,Schneeglöckchen,Schneeglöckchen,snowdrop
+Blumen,die,Primel,Primeln,primrose
+Blumen,die,Chrysantheme,Chrysanthemen,chrysanthemum
+Blumen,die,Geranie,Geranien,geranium
+Blumen,die,Dahlie,Dahlien,dahlia
+Blumen,die,Pfingstrose,Pfingstrosen,peony
+Blumen,der,Jasmin,(no plural),jasmine
+Blumen,die,Lotusblume,Lotusblumen,lotus
+Blumen,die,Gerbera,Gerbera / Gerberas,gerbera
+Blumen,das,Vergissmeinnicht,Vergissmeinnicht(e),forget-me-not
+Blumen,die,Glockenblume,Glockenblumen,bellflower
+Blumen,das,Maiglöckchen,Maiglöckchen,lily of the valley
+Blumen,der,Flieder,(no plural),lilac
+Blumen,die,Hortensie,Hortensien,hydrangea
+Blumen,die,Seerose,Seerosen,water lily
+Bäume,die,Eiche,Eichen,oak
+Bäume,die,Buche,Buchen,beech
+Bäume,die,Birke,Birken,birch
+Bäume,die,Linde,Linden,"linden, lime tree"
+Bäume,der,Ahorn,Ahorne,maple
+Bäume,die,Rosskastanie,Rosskastanien,horse chestnut
+Bäume,die,Esche,Eschen,ash
+Bäume,die,Ulme,Ulmen,elm
+Bäume,die,Weide,Weiden,willow (also: pasture)
+Bäume,die,Pappel,Pappeln,poplar
+Bäume,die,Erle,Erlen,alder
+Bäume,die,Tanne,Tannen,fir
+Bäume,die,Fichte,Fichten,spruce
+Bäume,die,Kiefer,Kiefern,pine
+Bäume,die,Lärche,Lärchen,larch
+Bäume,die,Zeder,Zedern,cedar
+Bäume,die,Zypresse,Zypressen,cypress
+Bäume,die,Eibe,Eiben,yew
+Bäume,die,Platane,Platanen,plane tree
+Bäume,der,Olivenbaum,Olivenbäume,olive tree
+Bäume,der,Apfelbaum,Apfelbäume,apple tree
+Bäume,der,Birnbaum,Birnbäume,pear tree
+Bäume,der,Kirschbaum,Kirschbäume,cherry tree
+Bäume,der,Pflaumenbaum,Pflaumenbäume,plum tree
+Bäume,der,Nussbaum,Nussbäume,walnut tree
+Bäume,der,Obstbaum,Obstbäume,fruit tree
+Bäume,der,Laubbaum,Laubbäume,deciduous tree
+Bäume,der,Nadelbaum,Nadelbäume,conifer
+Bäume,der,Weihnachtsbaum,Weihnachtsbäume,Christmas tree
+Sträucher & Kletterpflanzen,die,Hecke,Hecken,hedge
+Sträucher & Kletterpflanzen,der,Holunder,Holunder,elder
+Sträucher & Kletterpflanzen,der,Rhododendron,Rhododendren,rhododendron
+Sträucher & Kletterpflanzen,der,Buchsbaum,Buchsbäume,box tree
+Sträucher & Kletterpflanzen,der,Efeu,(no plural),ivy
+Sträucher & Kletterpflanzen,die,Rebe,Reben,vine
+Sträucher & Kletterpflanzen,die,Weinrebe,Weinreben,grapevine
+Sträucher & Kletterpflanzen,das,Heidekraut,(no plural),heather
+Sonstige Pflanzen,der,Rasen,Rasen,lawn
+Sonstige Pflanzen,die,Brennnessel,Brennnesseln,nettle
+Sonstige Pflanzen,der,Klee,(no plural),clover
+Sonstige Pflanzen,das,Kleeblatt,Kleeblätter,clover leaf
+Sonstige Pflanzen,die,Distel,Disteln,thistle
+Sonstige Pflanzen,die,Sukkulente,Sukkulenten,succulent
+Sonstige Pflanzen,die,Aloe Vera,(no plural),aloe vera
+Sonstige Pflanzen,die,Mistel,Misteln,mistletoe
+Sonstige Pflanzen,die,Monstera,Monsteras,monstera
+Pflanzenteile,die,Wurzel,Wurzeln,root
+Pflanzenteile,der,Stamm,Stämme,trunk
+Pflanzenteile,der,Ast,Äste,branch
+Pflanzenteile,der,Zweig,Zweige,twig
+Pflanzenteile,das,Blatt,Blätter,leaf
+Pflanzenteile,die,Blüte,Blüten,"blossom, flower (part of the plant)"
+Pflanzenteile,das,Blütenblatt,Blütenblätter,petal
+Pflanzenteile,die,Knospe,Knospen,bud
+Pflanzenteile,der,Stängel,Stängel,"stem, stalk"
+Pflanzenteile,der,Stiel,Stiele,"stalk, stem (of a flower or fruit)"
+Pflanzenteile,der,Halm,Halme,"blade, stalk (grass, grain)"
+Pflanzenteile,die,Ähre,Ähren,ear (of grain)
+Pflanzenteile,der,Samen,Samen,seed
+Pflanzenteile,der,Kern,Kerne,"pip, stone, core (of fruit)"
+Pflanzenteile,der,Keimling,Keimlinge,"seedling, sprout"
+Pflanzenteile,der,Trieb,Triebe,shoot
+Pflanzenteile,die,Schale,Schalen,"peel, shell, skin (also: bowl)"
+Pflanzenteile,die,Rinde,Rinden,bark
+Pflanzenteile,der,Dorn,Dornen,thorn
+Pflanzenteile,der,Stachel,Stacheln,"spine, prickle"
+Pflanzenteile,die,Nadel,Nadeln,needle (of a conifer)
+Pflanzenteile,der,Zapfen,Zapfen,cone
+Pflanzenteile,der,Tannenzapfen,Tannenzapfen,pine cone
+Pflanzenteile,der,Pollen,Pollen,pollen
+Pflanzenteile,der,Nektar,(no plural),nectar
+Pflanzenteile,die,Knolle,Knollen,tuber
+Pflanzenteile,die,Blumenzwiebel,Blumenzwiebeln,flower bulb
+Pflanzenteile,das,Laub,(no plural),"foliage, leaves"
+Pflanzenteile,die,Baumkrone,Baumkronen,"treetop, crown"
+Pflanzenteile,der,Baumstamm,Baumstämme,tree trunk
+Pflanzenteile,der,Baumstumpf,Baumstümpfe,tree stump
+Pflanzenteile,die,Schote,Schoten,pod (peas)
+Pflanzenteile,die,Hülse,Hülsen,"pod, husk"
+Pflanzenteile,das,Fruchtfleisch,(no plural),"flesh of the fruit, pulp"
+Pflanzenteile,das,Harz,Harze,resin
+Biologie,die,Photosynthese,(no plural),photosynthesis (also: Fotosynthese)
+Biologie,das,Chlorophyll,(no plural),chlorophyll
+Biologie,die,Bestäubung,Bestäubungen,pollination
+Biologie,die,Keimung,Keimungen,germination
+Biologie,das,Wachstum,(no plural),growth

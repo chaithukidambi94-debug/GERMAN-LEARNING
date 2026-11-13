@@ -1,0 +1,278 @@
+Category,Article,Word,Plural,Meaning (EN)
+Allgemein,das,Tier,Tiere,animal
+Allgemein,das,Haustier,Haustiere,pet
+Allgemein,das,Wildtier,Wildtiere,wild animal
+Allgemein,das,Nutztier,Nutztiere,"farm animal, livestock"
+Allgemein,das,Säugetier,Säugetiere,mammal
+Allgemein,das,Raubtier,Raubtiere,predator
+Allgemein,das,Reptil,Reptilien,reptile
+Allgemein,die,Amphibie,Amphibien,amphibian
+Allgemein,das,Insekt,Insekten,insect
+Allgemein,der,Vogel,Vögel,bird
+Allgemein,der,Fisch,Fische,fish
+Allgemein,das,Jungtier,Jungtiere,young animal
+Allgemein,das,Männchen,Männchen,male (animal)
+Allgemein,das,Weibchen,Weibchen,female (animal)
+Allgemein,die,Herde,Herden,herd
+Allgemein,das,Rudel,Rudel,"pack (wolves, dogs)"
+Allgemein,der,Schwarm,Schwärme,"swarm, flock (birds, fish, bees)"
+Allgemein,das,Nest,Nester,nest
+Haustiere,der,Hund,Hunde,dog
+Haustiere,die,Katze,Katzen,cat
+Haustiere,das,Kaninchen,Kaninchen,rabbit
+Haustiere,das,Meerschweinchen,Meerschweinchen,guinea pig
+Haustiere,der,Hamster,Hamster,hamster
+Haustiere,der,Wellensittich,Wellensittiche,budgerigar
+Haustiere,der,Papagei,Papageien,parrot
+Haustiere,der,Kanarienvogel,Kanarienvögel,canary
+Haustiere,der,Goldfisch,Goldfische,goldfish
+Bauernhoftiere,die,Kuh,Kühe,cow
+Bauernhoftiere,der,Stier,Stiere,bull
+Bauernhoftiere,das,Rind,Rinder,"cattle, bovine"
+Bauernhoftiere,das,Kalb,Kälber,calf
+Bauernhoftiere,das,Schwein,Schweine,pig
+Bauernhoftiere,das,Ferkel,Ferkel,piglet
+Bauernhoftiere,das,Schaf,Schafe,sheep
+Bauernhoftiere,das,Lamm,Lämmer,lamb
+Bauernhoftiere,die,Ziege,Ziegen,goat
+Bauernhoftiere,das,Pferd,Pferde,horse
+Bauernhoftiere,das,Pony,Ponys,pony
+Bauernhoftiere,der,Esel,Esel,donkey
+Bauernhoftiere,das,Huhn,Hühner,chicken
+Bauernhoftiere,der,Hahn,Hähne,rooster
+Bauernhoftiere,die,Henne,Hennen,hen
+Bauernhoftiere,das,Küken,Küken,chick
+Bauernhoftiere,die,Ente,Enten,duck
+Bauernhoftiere,die,Gans,Gänse,goose
+Bauernhoftiere,der,Truthahn,Truthähne,turkey (male)
+Bauernhoftiere,die,Pute,Puten,turkey (hen)
+Wildtiere Europa,der,Fuchs,Füchse,fox
+Wildtiere Europa,der,Wolf,Wölfe,wolf
+Wildtiere Europa,der,Bär,Bären,bear
+Wildtiere Europa,der,Hirsch,Hirsche,"deer, stag"
+Wildtiere Europa,das,Reh,Rehe,roe deer
+Wildtiere Europa,das,Wildschwein,Wildschweine,wild boar
+Wildtiere Europa,der,Hase,Hasen,hare
+Wildtiere Europa,das,Eichhörnchen,Eichhörnchen,squirrel
+Wildtiere Europa,der,Igel,Igel,hedgehog
+Wildtiere Europa,der,Dachs,Dachse,badger
+Wildtiere Europa,der,Marder,Marder,marten
+Wildtiere Europa,der,Luchs,Luchse,lynx
+Wildtiere Europa,der,Elch,Elche,"elk, moose"
+Wildtiere Europa,der,Biber,Biber,beaver
+Wildtiere Europa,der,Maulwurf,Maulwürfe,mole
+Wildtiere Europa,das,Murmeltier,Murmeltiere,marmot
+Wildtiere Europa,die,Fledermaus,Fledermäuse,bat
+Wildtiere Europa,die,Maus,Mäuse,mouse
+Wildtiere Europa,die,Ratte,Ratten,rat
+Exotische Tiere,der,Elefant,Elefanten,elephant
+Exotische Tiere,der,Löwe,Löwen,lion
+Exotische Tiere,der,Tiger,Tiger,tiger
+Exotische Tiere,der,Leopard,Leoparden,leopard
+Exotische Tiere,der,Gepard,Geparden,cheetah
+Exotische Tiere,die,Giraffe,Giraffen,giraffe
+Exotische Tiere,das,Zebra,Zebras,zebra
+Exotische Tiere,das,Nashorn,Nashörner,rhinoceros
+Exotische Tiere,das,Nilpferd,Nilpferde,hippopotamus (also: Flusspferd)
+Exotische Tiere,der,Affe,Affen,"monkey, ape"
+Exotische Tiere,der,Gorilla,Gorillas,gorilla
+Exotische Tiere,der,Schimpanse,Schimpansen,chimpanzee
+Exotische Tiere,das,Känguru,Kängurus,kangaroo
+Exotische Tiere,der,Koala,Koalas,koala
+Exotische Tiere,der,Panda,Pandas,panda
+Exotische Tiere,der,Eisbär,Eisbären,polar bear
+Exotische Tiere,das,Kamel,Kamele,camel
+Exotische Tiere,das,Faultier,Faultiere,sloth
+Exotische Tiere,das,Lama,Lamas,llama
+Exotische Tiere,der,Büffel,Büffel,buffalo
+Exotische Tiere,die,Antilope,Antilopen,antelope
+Exotische Tiere,die,Hyäne,Hyänen,hyena
+Vögel,der,Spatz,Spatzen,sparrow
+Vögel,die,Taube,Tauben,"pigeon, dove"
+Vögel,die,Amsel,Amseln,blackbird
+Vögel,die,Meise,Meisen,tit
+Vögel,das,Rotkehlchen,Rotkehlchen,robin
+Vögel,der,Rabe,Raben,raven
+Vögel,die,Krähe,Krähen,crow
+Vögel,die,Elster,Elstern,magpie
+Vögel,die,Eule,Eulen,owl
+Vögel,der,Adler,Adler,eagle
+Vögel,der,Falke,Falken,falcon
+Vögel,der,Geier,Geier,vulture
+Vögel,der,Storch,Störche,stork
+Vögel,der,Schwan,Schwäne,swan
+Vögel,die,Möwe,Möwen,seagull
+Vögel,der,Specht,Spechte,woodpecker
+Vögel,die,Schwalbe,Schwalben,swallow
+Vögel,der,Kuckuck,Kuckucke,cuckoo
+Vögel,der,Pfau,Pfauen,peacock
+Vögel,der,Strauß,Strauße,ostrich
+Vögel,der,Pinguin,Pinguine,penguin
+Vögel,der,Flamingo,Flamingos,flamingo
+Vögel,der,Kolibri,Kolibris,hummingbird
+Vögel,der,Fasan,Fasane,pheasant
+Vögel,der,Reiher,Reiher,heron
+Vögel,der,Kranich,Kraniche,crane
+Insekten & Kleintiere,die,Biene,Bienen,bee
+Insekten & Kleintiere,die,Wespe,Wespen,wasp
+Insekten & Kleintiere,die,Hummel,Hummeln,bumblebee
+Insekten & Kleintiere,die,Hornisse,Hornissen,hornet
+Insekten & Kleintiere,die,Fliege,Fliegen,fly
+Insekten & Kleintiere,die,Mücke,Mücken,"mosquito, gnat"
+Insekten & Kleintiere,die,Ameise,Ameisen,ant
+Insekten & Kleintiere,der,Schmetterling,Schmetterlinge,butterfly
+Insekten & Kleintiere,die,Raupe,Raupen,caterpillar
+Insekten & Kleintiere,der,Käfer,Käfer,beetle
+Insekten & Kleintiere,der,Marienkäfer,Marienkäfer,ladybird
+Insekten & Kleintiere,die,Grille,Grillen,cricket
+Insekten & Kleintiere,die,Heuschrecke,Heuschrecken,"grasshopper, locust"
+Insekten & Kleintiere,die,Libelle,Libellen,dragonfly
+Insekten & Kleintiere,der,Floh,Flöhe,flea
+Insekten & Kleintiere,die,Laus,Läuse,louse
+Insekten & Kleintiere,die,Motte,Motten,moth
+Insekten & Kleintiere,die,Kakerlake,Kakerlaken,cockroach
+Insekten & Kleintiere,die,Zecke,Zecken,tick
+Insekten & Kleintiere,die,Spinne,Spinnen,spider
+Insekten & Kleintiere,der,Skorpion,Skorpione,scorpion
+Insekten & Kleintiere,der,Wurm,Würmer,worm
+Insekten & Kleintiere,der,Regenwurm,Regenwürmer,earthworm
+Insekten & Kleintiere,die,Schnecke,Schnecken,"snail, slug"
+Insekten & Kleintiere,die,Wanze,Wanzen,bug (bedbug)
+Insekten & Kleintiere,das,Ungeziefer,(no plural),"vermin, pests"
+Reptilien & Amphibien,die,Schlange,Schlangen,snake
+Reptilien & Amphibien,die,Kobra,Kobras,cobra
+Reptilien & Amphibien,die,Eidechse,Eidechsen,lizard
+Reptilien & Amphibien,die,Schildkröte,Schildkröten,"turtle, tortoise"
+Reptilien & Amphibien,das,Krokodil,Krokodile,crocodile
+Reptilien & Amphibien,der,Alligator,Alligatoren,alligator
+Reptilien & Amphibien,das,Chamäleon,Chamäleons,chameleon
+Reptilien & Amphibien,der,Gecko,Geckos,gecko
+Reptilien & Amphibien,der,Leguan,Leguane,iguana
+Reptilien & Amphibien,der,Frosch,Frösche,frog
+Reptilien & Amphibien,die,Kröte,Kröten,toad
+Reptilien & Amphibien,der,Salamander,Salamander,salamander
+Reptilien & Amphibien,der,Molch,Molche,newt
+Wassertiere,der,Hai,Haie,shark
+Wassertiere,der,Wal,Wale,whale
+Wassertiere,der,Delfin,Delfine,dolphin
+Wassertiere,die,Robbe,Robben,seal
+Wassertiere,der,Seehund,Seehunde,harbour seal
+Wassertiere,der,Seelöwe,Seelöwen,sea lion
+Wassertiere,das,Walross,Walrosse,walrus
+Wassertiere,die,Qualle,Quallen,jellyfish
+Wassertiere,der,Seestern,Seesterne,starfish
+Wassertiere,das,Seepferdchen,Seepferdchen,seahorse
+Wassertiere,der,Hecht,Hechte,pike
+Wassertiere,der,Rochen,Rochen,ray
+Jungtiere,das,Fohlen,Fohlen,foal
+Jungtiere,der,Welpe,Welpen,puppy
+Jungtiere,das,Kätzchen,Kätzchen,kitten
+Jungtiere,das,Zicklein,Zicklein,kid (young goat)
+Jungtiere,das,Kitz,Kitze,fawn
+Jungtiere,der,Frischling,Frischlinge,young wild boar
+Jungtiere,die,Kaulquappe,Kaulquappen,tadpole
+Jungtiere,die,Larve,Larven,larva
+Jungtiere,das,Junge,Jungen,young one (of an animal)
+Männchen & Weibchen,der,Kater,Kater,tomcat
+Männchen & Weibchen,der,Rüde,Rüden,male dog
+Männchen & Weibchen,die,Hündin,Hündinnen,female dog
+Männchen & Weibchen,der,Hengst,Hengste,stallion
+Männchen & Weibchen,die,Stute,Stuten,mare
+Männchen & Weibchen,der,Eber,Eber,boar
+Männchen & Weibchen,die,Sau,Säue,sow
+Männchen & Weibchen,der,Bock,Böcke,"billy goat, buck"
+Männchen & Weibchen,der,Widder,Widder,ram
+Wildtiere Europa,der,Otter,Otter,otter
+Wildtiere Europa,der,Waschbär,Waschbären,raccoon
+Wildtiere Europa,der,Steinbock,Steinböcke,ibex
+Wildtiere Europa,die,Gämse,Gämsen,chamois
+Wildtiere Europa,der,Siebenschläfer,Siebenschläfer,edible dormouse
+Wildtiere Europa,der,Wisent,Wisente,European bison
+Wildtiere Europa,das,Rentier,Rentiere,reindeer
+Wildtiere Europa,der,Nerz,Nerze,mink
+Wildtiere Europa,das,Wiesel,Wiesel,weasel
+Wildtiere Europa,die,Wildkatze,Wildkatzen,wildcat
+Wildtiere Europa,der,Rothirsch,Rothirsche,red deer
+Exotische Tiere,der,Jaguar,Jaguare,jaguar
+Exotische Tiere,der,Puma,Pumas,puma
+Exotische Tiere,der,Panther,Panther,panther
+Exotische Tiere,der,Schakal,Schakale,jackal
+Exotische Tiere,der,Kojote,Kojoten,coyote
+Exotische Tiere,der,Dingo,Dingos,dingo
+Exotische Tiere,die,Gazelle,Gazellen,gazelle
+Exotische Tiere,das,Gnu,Gnus,wildebeest
+Exotische Tiere,der,Orang-Utan,Orang-Utans,orangutan
+Exotische Tiere,der,Pavian,Paviane,baboon
+Exotische Tiere,das,Alpaka,Alpakas,alpaca
+Exotische Tiere,der,Yak,Yaks,yak
+Exotische Tiere,der,Bison,Bisons,bison
+Exotische Tiere,das,Erdmännchen,Erdmännchen,meerkat
+Exotische Tiere,das,Stinktier,Stinktiere,skunk
+Exotische Tiere,das,Gürteltier,Gürteltiere,armadillo
+Exotische Tiere,der,Ameisenbär,Ameisenbären,anteater
+Exotische Tiere,der,Lemur,Lemuren,lemur
+Exotische Tiere,das,Stachelschwein,Stachelschweine,porcupine
+Exotische Tiere,der,Tapir,Tapire,tapir
+Exotische Tiere,das,Dromedar,Dromedare,dromedary
+Bauernhoftiere,das,Maultier,Maultiere,mule
+Bauernhoftiere,der,Ochse,Ochsen,ox
+Bauernhoftiere,der,Bulle,Bullen,bull
+Haustiere,das,Frettchen,Frettchen,ferret
+Haustiere,die,Rennmaus,Rennmäuse,gerbil
+Vögel,die,Wachtel,Wachteln,quail
+Vögel,der,Star,Stare,starling
+Vögel,der,Fink,Finken,finch
+Vögel,die,Dohle,Dohlen,jackdaw
+Vögel,der,Eichelhäher,Eichelhäher,jay
+Vögel,der,Bussard,Bussarde,buzzard
+Vögel,der,Habicht,Habichte,hawk
+Vögel,der,Uhu,Uhus,eagle owl
+Vögel,der,Pelikan,Pelikane,pelican
+Vögel,der,Albatros,Albatrosse,albatross
+Vögel,der,Tukan,Tukane,toucan
+Vögel,der,Sittich,Sittiche,parakeet
+Vögel,die,Lerche,Lerchen,lark
+Vögel,die,Nachtigall,Nachtigallen,nightingale
+Vögel,die,Drossel,Drosseln,thrush
+Vögel,die,Wildgans,Wildgänse,wild goose
+Vögel,die,Stockente,Stockenten,mallard
+Vögel,der,Kormoran,Kormorane,cormorant
+Insekten & Kleintiere,die,Stechmücke,Stechmücken,mosquito (biting)
+Insekten & Kleintiere,die,Zikade,Zikaden,cicada
+Insekten & Kleintiere,die,Blattlaus,Blattläuse,aphid
+Insekten & Kleintiere,der,Maikäfer,Maikäfer,cockchafer
+Insekten & Kleintiere,der,Hirschkäfer,Hirschkäfer,stag beetle
+Insekten & Kleintiere,die,Assel,Asseln,woodlouse
+Insekten & Kleintiere,der,Tausendfüßer,Tausendfüßer,millipede
+Insekten & Kleintiere,der,Ohrwurm,Ohrwürmer,earwig
+Insekten & Kleintiere,die,Termite,Termiten,termite
+Insekten & Kleintiere,die,Gottesanbeterin,Gottesanbeterinnen,praying mantis
+Insekten & Kleintiere,die,Bremse,Bremsen,horsefly
+Insekten & Kleintiere,der,Egel,Egel,leech
+Insekten & Kleintiere,die,Nacktschnecke,Nacktschnecken,slug
+Insekten & Kleintiere,das,Glühwürmchen,Glühwürmchen,"firefly, glow-worm"
+Reptilien & Amphibien,die,Pythonschlange,Pythonschlangen,python
+Reptilien & Amphibien,die,Boa,Boas,boa
+Reptilien & Amphibien,die,Giftschlange,Giftschlangen,venomous snake
+Reptilien & Amphibien,die,Kreuzotter,Kreuzottern,adder
+Reptilien & Amphibien,die,Viper,Vipern,viper
+Reptilien & Amphibien,die,Natter,Nattern,grass snake
+Reptilien & Amphibien,die,Klapperschlange,Klapperschlangen,rattlesnake
+Reptilien & Amphibien,die,Blindschleiche,Blindschleichen,slow worm
+Reptilien & Amphibien,der,Waran,Warane,monitor lizard
+Reptilien & Amphibien,die,Landschildkröte,Landschildkröten,tortoise
+Reptilien & Amphibien,der,Laubfrosch,Laubfrösche,tree frog
+Wassertiere,der,Pottwal,Pottwale,sperm whale
+Wassertiere,der,Blauwal,Blauwale,blue whale
+Wassertiere,der,Orca,Orcas,orca (also: Schwertwal)
+Wassertiere,der,Hammerhai,Hammerhaie,hammerhead shark
+Wassertiere,die,Muräne,Muränen,moray eel
+Wassertiere,der,Oktopus,Oktopusse,octopus
+Wassertiere,der,Seeigel,Seeigel,sea urchin
+Wassertiere,die,Koralle,Korallen,coral
+Wassertiere,der,Clownfisch,Clownfische,clownfish
+Wassertiere,der,Zander,Zander,pike-perch
+Wassertiere,der,Wels,Welse,catfish
+Wassertiere,der,Barsch,Barsche,perch
+Wassertiere,die,Scholle,Schollen,plaice
+Wassertiere,die,Seekuh,Seekühe,manatee
