@@ -551,3 +551,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - ✍️ Handwritten class words: Postleitzahl, Ratschlag, Schlag, Topf, Messer, Vorschlag
 - 📄 PDF of all 76 words from 11 Nov
 - 📌 Everything is logged for the Friday 13 Nov update
+
+## 2026-11-13 Kapitel 12 Notfall und Gesundheit, word families
+- 🚑 Kapitel 12, Seite 58–62: Rettungswagen, Notaufnahme, Platzwunde, bewusstlos, ansprechbar, Notrufzentrale
+- 🩺 Health words: Gehirnerschütterung, Krankenkasse, Rezept, erkältet sein, abnehmen, operieren
+- 🎭 Jobs and phrases: Künstler/in, Clown/in, umgehen mit, Sag mal
+- 🗣️ Gossip words: munkeln, lästern, tratschen
+- 🌾 Food and taste words: Weizen, Mais, Reis, Vollkorn, Mehl, Mühle, ernten, fressen, sauer, bitter, scharf, mild, frisch
+- 🔤 Word families: -los, -bar, -mal and Fall (Zufall, Unfall, fallen, auffällig)
+- 📚 Extra vocab sets: body parts, senses, emotions, diseases, food, animals, plants
