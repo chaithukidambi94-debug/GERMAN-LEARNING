@@ -560,3 +560,9 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🌾 Food and taste words: Weizen, Mais, Reis, Vollkorn, Mehl, Mühle, ernten, fressen, sauer, bitter, scharf, mild, frisch
 - 🔤 Word families: -los, -bar, -mal and Fall (Zufall, Unfall, fallen, auffällig)
 - 📚 Extra vocab sets: body parts, senses, emotions, diseases, food, animals, plants
+
+## 2026-11-14 Break day
+- 😌 Break day: no class, rest and recharge
+
+## 2026-11-15 Break day
+- 😌 Break day: no class, rest and recharge
