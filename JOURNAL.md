@@ -564,5 +564,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 ## 2026-11-14 Break day
 - 😌 Break day: no class, rest and recharge
 
-## 2026-11-15 Break day
-- 😌 Break day: no class, rest and recharge
+## 2026-11-15 Connectors, adverbs, interjections (work from 14 Nov)
+- 🔗 Learned all Konnektoren: Konjunktionen, Konjunktionaladverbien, Präpositionen, zweiteilige Konjunktionen, Infinitivkonjunktionen (276 with examples)
+- ⚖️ obwohl, trotzdem, trotz are konzessive Konnektoren: conjunction (verb at end), adverb (verb 2nd), preposition (Genitiv)
+- ⚡ Learned all Adverbien: Lokal, Direktional, Temporal, Modal, Grad, Satz-, Interrogativ- and Pronominaladverbien (463 words)
+- 🗣️ Learned all Interjektionen: Gefühl, Gruß, Wunsch, Höflichkeit, Lautmalerei, Tierlaute (226 words)
+- 🔊 Pronunciation of -ig: "ich" sound at the end or before a consonant, hard g before a vowel; exceptions: königlich, lediglich, ewiglich, inniglich, Königreich
+- 📚 Reviewed the 10 Wortarten (veränderbar / unveränderbar) and closed the gaps: adverbs and interjections
+- 🔁 Reflexive verbs: echte vs unechte, roughly 100-200 echte
+- 🧭 Plan: one grammar topic per day from 15 Nov, starting with reflexive verbs

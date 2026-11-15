@@ -1,0 +1,830 @@
+,,,,,,,
+Connector,Type,Function,Meaning (EN),Word order / Case,Example 1,Example 2,Notes
+und,Konjunktion (koordinierend),Additiv,and,Position 0 (verb stays 2nd),"Ich lerne Deutsch und ich arbeite.
+I learn German and I work.","Sie kocht, und er putzt.
+She cooks and he cleans.",Most basic connector.
+oder,Konjunktion (koordinierend),Disjunktiv,or,Position 0 (verb stays 2nd),"Trinkst du Tee oder Kaffee?
+Do you drink tea or coffee?","Wir gehen ins Kino, oder wir bleiben zu Hause.
+We go to the cinema, or we stay home.",Also part of entweder … oder.
+aber,Konjunktion (koordinierend),Adversativ,but,Position 0 (verb stays 2nd),"Ich bin müde, aber ich arbeite weiter.
+I am tired but I keep working.","Er ist klein, aber stark.
+He is small but strong.",Comma before it between clauses.
+denn,Konjunktion (koordinierend),Kausal,"because, for",Position 0 (verb stays 2nd),"Ich bleibe zu Hause, denn ich bin krank.
+I stay home because I am sick.","Sie lernt viel, denn sie hat bald eine Prüfung.
+She studies a lot because she has an exam soon.",Unlike weil: verb stays 2nd. Cannot start a sentence.
+sondern,Konjunktion (koordinierend),Adversativ,but rather,Position 0 (verb stays 2nd),"Ich trinke keinen Kaffee, sondern Tee.
+I drink no coffee but tea.","Das ist nicht rot, sondern orange.
+That is not red but orange.",Only after nicht / kein.
+sowie,Konjunktion (koordinierend),Additiv,as well as,Position 0 (verb stays 2nd),"Wir verkaufen Brot sowie Kuchen.
+We sell bread as well as cake.","Er spricht Deutsch sowie Englisch.
+He speaks German as well as English.",Formal; links items.
+beziehungsweise (bzw.),Konjunktion (koordinierend),Disjunktiv,"or rather, respectively",Position 0 (verb stays 2nd),"Er ist Lehrer beziehungsweise Trainer.
+He is a teacher or rather a trainer.","Ich komme morgen beziehungsweise übermorgen.
+I come tomorrow or rather the day after.",Abbreviation: bzw.
+doch,Konjunktion (koordinierend),Adversativ,"but, yet",Position 0 (verb stays 2nd),"Ich wollte kommen, doch ich war krank.
+I wanted to come, but I was ill.","Sie ist jung, doch sehr erfahren.
+She is young, yet very experienced.",Also adverb / particle. As conjunction: position 0.
+weil,Konjunktion (subordinierend),Kausal,because,Verb at the end,"Ich bleibe zu Hause, weil ich krank bin.
+I stay home because I am sick.","Weil es regnet, nehmen wir den Bus.
+Because it is raining, we take the bus.",Most common reason connector.
+da,Konjunktion (subordinierend),Kausal,"since, as",Verb at the end,"Da es regnet, bleibe ich zu Hause.
+Since it is raining, I stay home.","Ich kaufe es nicht, da es zu teuer ist.
+I do not buy it since it is too expensive.",More formal than weil; usually clause-initial.
+zumal,Konjunktion (subordinierend),Kausal,especially since,Verb at the end,"Ich bleibe, zumal es schon spät ist.
+I stay, especially since it is already late.","Das Hotel ist ideal, zumal es zentral liegt.
+The hotel is ideal, especially since it is central.",Adds an extra reason.
+obwohl,Konjunktion (subordinierend),Konzessiv,"although, even though",Verb at the end,"Ich gehe raus, obwohl es regnet.
+I go out although it is raining.","Obwohl er müde ist, arbeitet er weiter.
+Although he is tired, he keeps working.",Most common concessive conjunction; states a fact.
+obgleich,Konjunktion (subordinierend),Konzessiv,although,Verb at the end,"Obgleich sie krank war, kam sie zur Arbeit.
+Although she was ill, she came to work.","Er lächelte, obgleich er traurig war.
+He smiled although he was sad.","Formal, written."
+obschon,Konjunktion (subordinierend),Konzessiv,although,Verb at the end,"Obschon es spät war, blieben wir.
+Although it was late, we stayed.","Sie lief weiter, obschon ihr Bein schmerzte.
+She kept running although her leg hurt.","Formal, old-fashioned."
+wenngleich,Konjunktion (subordinierend),Konzessiv,"even though, albeit",Verb at the end,"Das Wetter ist schön, wenngleich es kalt ist.
+The weather is nice, albeit cold.","Wenngleich er jung ist, hat er viel Erfahrung.
+Even though he is young, he has a lot of experience.",Formal; same as obwohl.
+wenn auch,Konjunktion (subordinierend),Konzessiv,"even if, although",Verb at the end,"Er ist nett, wenn auch etwas schüchtern.
+He is nice, if a bit shy.","Wir fahren, wenn auch ungern.
+We go, although reluctantly.","Often followed by a short phrase, not a full clause."
+auch wenn,Konjunktion (subordinierend),Konzessiv,even if,Verb at the end,"Ich gehe, auch wenn es regnet.
+I go even if it rains.","Auch wenn du müde bist, musst du aufstehen.
+Even if you are tired, you must get up.","Hypothetical ""even if""; obwohl = fact."
+selbst wenn,Konjunktion (subordinierend),Konzessiv,even if,Verb at the end,"Selbst wenn ich Zeit hätte, würde ich nicht kommen.
+Even if I had time, I would not come.","Er hilft, selbst wenn er viel zu tun hat.
+He helps even if he has a lot to do.",Stronger than auch wenn.
+wiewohl,Konjunktion (subordinierend),Konzessiv,although,Verb at the end,"Wiewohl er müde war, arbeitete er weiter.
+Although he was tired, he kept working.","Sie lachte, wiewohl ihr zum Weinen war.
+She laughed although she felt like crying.",Very formal / literary; rare.
+wohingegen,Konjunktion (subordinierend),Adversativ,whereas,Verb at the end,"Er mag Fisch, wohingegen sie Fleisch bevorzugt.
+He likes fish whereas she prefers meat.","Im Norden regnet es, wohingegen im Süden die Sonne scheint.
+In the north it rains whereas in the south the sun shines.",Formal contrast.
+wogegen,Konjunktion (subordinierend),Adversativ,whereas,Verb at the end,"Er liebt Wärme, wogegen sie Kälte mag.
+He loves warmth whereas she likes cold.","Der Norden ist kühl, wogegen der Süden warm ist.
+The north is cool whereas the south is warm.","Rare, formal."
+während,Konjunktion (subordinierend),Adversativ / Temporal,while; whereas,Verb at the end,"Ich koche, während er arbeitet.
+I cook while he works.","Während sie Kaffee trinkt, trinkt er Tee.
+Whereas she drinks coffee, he drinks tea.",Time or contrast. Also a preposition + Gen.
+wenn,Konjunktion (subordinierend),Konditional / Temporal,if; whenever,Verb at the end,"Wenn es regnet, bleibe ich zu Hause.
+If it rains, I stay home.","Immer wenn ich Hunger habe, esse ich Obst.
+Whenever I am hungry, I eat fruit.",Repeated action or condition; als = once in the past.
+falls,Konjunktion (subordinierend),Konditional,"in case, if",Verb at the end,"Falls du Zeit hast, ruf mich an.
+If you have time, call me.","Nimm einen Schirm mit, falls es regnet.
+Take an umbrella in case it rains.",Possible case. Fall list.
+sofern,Konjunktion (subordinierend),Konditional,"provided that, if",Verb at the end,"Ich komme, sofern ich Zeit habe.
+I come provided I have time.","Sofern alle zustimmen, beginnen wir.
+If everyone agrees, we start.",Formal.
+soweit,Konjunktion (subordinierend),Konditional / Modal,"as far as, insofar as",Verb at the end,"Soweit ich weiß, ist er krank.
+As far as I know, he is ill.","Ich helfe, soweit ich kann.
+I help as far as I can.",Often with ich weiß / ich kann.
+solange,Konjunktion (subordinierend),Temporal / Konditional,as long as,Verb at the end,"Solange es regnet, bleiben wir drinnen.
+As long as it rains, we stay inside.","Ich bleibe, solange du willst.
+I stay as long as you want.",One word as a conjunction.
+"vorausgesetzt, (dass)",Konjunktion (subordinierend),Konditional,provided that,Verb am Ende (with dass),"Ich komme, vorausgesetzt, dass ich Zeit habe.
+I come provided that I have time.","Wir starten, vorausgesetzt, es regnet nicht.
+We start provided it does not rain.",Without dass the verb is 2nd.
+"angenommen, (dass)",Konjunktion (subordinierend),Konditional,assuming that,Verb am Ende (with dass),"Angenommen, du gewinnst, was machst du?
+Assuming you win, what do you do?","Angenommen, dass er kommt, brauchen wir mehr Stühle.
+Assuming he comes, we need more chairs.",Without dass the verb is 2nd.
+"es sei denn, (dass)",Konjunktion (subordinierend),Konditional,unless,Verb am Ende (with dass),"Ich komme, es sei denn, ich bin krank.
+I come unless I am sick.","Wir wandern, es sei denn, es regnet.
+We hike unless it rains.",Fixed phrase (Konjunktiv I of sein).
+"unter der Bedingung, dass",Konjunktion (subordinierend),Konditional,on condition that,Verb at the end,"Ich helfe dir unter der Bedingung, dass du pünktlich bist.
+I help you on condition that you are punctual.","Er unterschreibt unter der Bedingung, dass alles stimmt.
+He signs on condition that everything is right.",Formal; contracts.
+"für den Fall, dass",Konjunktion (subordinierend),Konditional,in case,Verb at the end,"Ich nehme einen Schirm mit, für den Fall, dass es regnet.
+I take an umbrella in case it rains.","Für den Fall, dass er kommt, bereite ich ein Zimmer vor.
+In case he comes, I prepare a room.",Fall list.
+"im Fall, dass",Konjunktion (subordinierend),Konditional,in the event that,Verb at the end,"Im Fall, dass es regnet, fällt das Fest aus.
+In the event that it rains, the party is cancelled.","Im Fall, dass du Fragen hast, ruf mich an.
+In case you have questions, call me.","Also: im Falle, dass."
+ohne dass,Konjunktion (subordinierend),Modal,without (that),Verb at the end,"Er ging, ohne dass ich es merkte.
+He left without me noticing.","Sie half, ohne dass man sie bat.
+She helped without being asked.",Different subjects. Same subject: ohne … zu.
+(an)statt dass,Konjunktion (subordinierend),Substitutiv,instead of (the fact that),Verb at the end,"Statt dass er lernt, spielt er.
+Instead of studying, he plays.","Anstatt dass sie anruft, schreibt sie eine Nachricht.
+Instead of calling, she writes a message.",Different subjects. Same subject: statt … zu.
+als dass,Konjunktion (subordinierend),Konsekutiv,(too) … for … to,Verb at the end,"Es ist zu spät, als dass wir noch kommen könnten.
+It is too late for us to still come.","Das Problem ist zu groß, als dass wir es allein lösen könnten.
+The problem is too big for us to solve alone.","After zu + Adj., with Konjunktiv II."
+sodass / so dass,Konjunktion (subordinierend),Konsekutiv,so that (result),Verb at the end,"Er war müde, sodass er sofort einschlief.
+He was tired so that he fell asleep at once.","Es regnete stark, so dass wir zu Hause blieben.
+It rained heavily so that we stayed home.",Result; both spellings are fine.
+damit,Konjunktion (subordinierend),Final,"so that, in order that",Verb at the end,"Ich lerne, damit ich die Prüfung bestehe.
+I study so that I pass the exam.","Sie spricht langsam, damit alle sie verstehen.
+She speaks slowly so that everyone understands her.",Different subjects. Same subject: um … zu.
+dass,Konjunktion (subordinierend),Inhaltssatz,that,Verb at the end,"Ich glaube, dass er kommt.
+I think that he is coming.","Es ist wichtig, dass du lernst.
+It is important that you study.","Introduces content, not a logic relation."
+ob,Konjunktion (subordinierend),Inhaltssatz,"if, whether",Verb at the end,"Ich weiß nicht, ob er kommt.
+I do not know whether he is coming.","Sie fragt, ob du Zeit hast.
+She asks if you have time.",For yes/no indirect questions.
+als,Konjunktion (subordinierend),Temporal,"when, as (once in the past)",Verb at the end,"Als ich ein Kind war, wohnte ich in Indien.
+When I was a child, I lived in India.","Als er ankam, regnete es.
+When he arrived, it was raining.","Single past event. Also comparison ""than""."
+bevor,Konjunktion (subordinierend),Temporal,before,Verb at the end,"Bevor ich esse, wasche ich die Hände.
+Before I eat, I wash my hands.","Ruf mich an, bevor du kommst.
+Call me before you come.",Same as ehe.
+ehe,Konjunktion (subordinierend),Temporal,before,Verb at the end,"Ehe ich gehe, trinke ich Kaffee.
+Before I go, I drink coffee.","Es dauerte lange, ehe er antwortete.
+It took long before he answered.",Formal.
+nachdem,Konjunktion (subordinierend),Temporal,after,Verb at the end,"Nachdem ich gegessen hatte, ging ich spazieren.
+After I had eaten, I went for a walk.","Nachdem er angekommen war, rief er an.
+After he had arrived, he called.",Main clause Präteritum → nachdem-clause Plusquamperfekt.
+sobald,Konjunktion (subordinierend),Temporal,as soon as,Verb at the end,"Sobald ich fertig bin, rufe ich an.
+As soon as I am done, I call.","Sobald es regnet, gehen wir rein.
+As soon as it rains, we go inside.",Immediately after.
+seit / seitdem,Konjunktion (subordinierend),Temporal,since,Verb at the end,"Seit ich in Berlin wohne, lerne ich Deutsch.
+Since I have lived in Berlin, I have been learning German.","Seitdem er arbeitet, hat er wenig Zeit.
+Since he has been working, he has little time.",Also seit + Dat. (preposition).
+bis,Konjunktion (subordinierend),Temporal,until,Verb at the end,"Warte, bis ich komme.
+Wait until I come.","Bis es dunkel wird, bleiben wir hier.
+Until it gets dark, we stay here.",Also bis + Akk. (preposition).
+sooft,Konjunktion (subordinierend),Temporal,"whenever, as often as",Verb at the end,"Sooft ich ihn sehe, lächelt er.
+Whenever I see him, he smiles.","Ruf an, sooft du willst.
+Call as often as you want.",Rare; like immer wenn.
+kaum dass,Konjunktion (subordinierend),Temporal,hardly … when,Verb at the end,"Kaum dass er saß, klingelte das Telefon.
+Hardly had he sat when the phone rang.","Kaum dass sie angekommen war, begann es zu regnen.
+Hardly had she arrived when it began to rain.",Literary.
+indem,Konjunktion (subordinierend),Modal,by (doing),Verb at the end,"Man lernt Deutsch, indem man viel liest.
+One learns German by reading a lot.","Er spart Geld, indem er selbst kocht.
+He saves money by cooking himself.",Same subject; shows the means.
+"dadurch, dass",Konjunktion (subordinierend),Modal,because of the fact that; by,Verb at the end,"Er verbessert sich dadurch, dass er viel übt.
+He improves by practising a lot.","Dadurch, dass es regnete, fiel das Fest aus.
+Because it rained, the party was cancelled.",Longer form of indem.
+als ob / als wenn,Konjunktion (subordinierend),Modal / Komparativ,as if,Verb at the end,"Er tut so, als ob er schliefe.
+He acts as if he were sleeping.","Sie sieht aus, als wenn sie krank wäre.
+She looks as if she were ill.",Konjunktiv II. Also als + verb 2nd: als schliefe er.
+wie,Konjunktion (subordinierend),Komparativ,"as, like",Verb at the end,"Er ist so groß wie sein Vater.
+He is as tall as his father.","Mach es so, wie ich es dir gezeigt habe.
+Do it the way I showed you.",so + Adj. + wie.
+"insofern, als",Konjunktion (subordinierend),Restriktiv,insofar as,Verb at the end,"Das stimmt insofern, als er Recht hat.
+That is true insofar as he is right.","Die Idee ist gut, insofern als sie Geld spart.
+The idea is good insofar as it saves money.",Formal; also insoweit.
+außer dass / außer wenn,Konjunktion (subordinierend),Restriktiv,except that / except when,Verb at the end,"Ich bin frei, außer wenn ich arbeite.
+I am free except when I work.","Nichts passierte, außer dass er hinfiel.
+Nothing happened except that he fell.",Exception.
+wobei,Konjunktion (subordinierend),Modal,whereby; though,Verb at the end,"Wir gehen spazieren, wobei wir viel reden.
+We go for a walk, talking a lot.","Er lachte, wobei sein Gesicht rot wurde.
+He laughed, whereby his face turned red.",Adds extra information.
+nur dass,Konjunktion (subordinierend),Restriktiv,"except that, only that",Verb at the end,"Es ist gut, nur dass es zu teuer ist.
+It is good, only it is too expensive.","Ich komme, nur dass ich später da bin.
+I come, only I will be later.",Adds a restriction.
+deshalb,Konjunktionaladverb / Adverbiale,Kausal / Konsekutiv,"therefore, that is why","Position 1, then verb 2nd","Ich bin krank. Deshalb bleibe ich zu Hause.
+I am sick. That is why I stay home.","Er hat viel gelernt, deshalb hat er bestanden.
+He studied a lot, therefore he passed.","Same as deswegen, darum, daher."
+deswegen,Konjunktionaladverb / Adverbiale,Kausal / Konsekutiv,that is why,"Position 1, then verb 2nd","Es regnet. Deswegen nehmen wir den Bus.
+It is raining. That is why we take the bus.","Sie ist müde, deswegen geht sie früh schlafen.
+She is tired, that is why she goes to bed early.",Spoken; same as deshalb.
+darum,Konjunktionaladverb / Adverbiale,Kausal / Konsekutiv,that is why,"Position 1, then verb 2nd","Ich habe Hunger, darum esse ich.
+I am hungry, that is why I eat.","Darum geht es nicht.
+That is not what it is about.",Also: darum = about it.
+daher,Konjunktionaladverb / Adverbiale,Kausal / Konsekutiv,"hence, from there","Position 1, then verb 2nd","Er ist neu. Daher kennt er den Weg nicht.
+He is new. Hence he does not know the way.","Die Preise sind gestiegen, daher kaufen wir weniger.
+Prices have risen, hence we buy less.",Also place: from there.
+aus diesem Grund,Konjunktionaladverb / Adverbiale,Kausal,for this reason,"Position 1, then verb 2nd","Aus diesem Grund bleiben wir zu Hause.
+For this reason we stay home.","Aus diesem Grund haben wir die Reise abgesagt.
+For this reason we cancelled the trip.","Phrase, formal."
+nämlich,Konjunktionaladverb / Adverbiale,Kausal / Explikativ,namely; you see (reason),"Mittelfeld, never position 1","Er kommt nicht. Er ist nämlich krank.
+He is not coming. He is sick, you see.","Ich bleibe zu Hause, ich habe nämlich keine Zeit.
+I stay home, I have no time, you see.",Sits after the verb. Also: namely.
+also,Konjunktionaladverb / Adverbiale,Konsekutiv,"so, therefore","Position 1, then verb 2nd","Du bist müde, also geh schlafen.
+You are tired, so go to sleep.","Ich denke, also bin ich.
+I think, therefore I am.","Also: so, well (spoken filler)."
+folglich,Konjunktionaladverb / Adverbiale,Konsekutiv,consequently,"Position 1, then verb 2nd","Er lernte nichts, folglich fiel er durch.
+He learned nothing, consequently he failed.","Die Firma wächst, folglich steigen die Kosten.
+The company grows, consequently costs rise.",Formal.
+somit,Konjunktionaladverb / Adverbiale,Konsekutiv,"thus, hence","Position 1, then verb 2nd","Die Kosten sind gesunken, somit steigt der Gewinn.
+Costs have fallen, thus profit rises.","Somit ist alles klar.
+Thus everything is clear.",Formal; conclusion.
+demnach,Konjunktionaladverb / Adverbiale,Konsekutiv,"accordingly, according to this","Position 1, then verb 2nd","Demnach ist der Plan gescheitert.
+According to this, the plan failed.","Er hat nicht gezahlt, demnach bekommt er nichts.
+He has not paid, accordingly he gets nothing.",Formal.
+infolgedessen,Konjunktionaladverb / Adverbiale,Konsekutiv,as a result,"Position 1, then verb 2nd","Es schneite stark. Infolgedessen fielen die Züge aus.
+It snowed heavily. As a result trains were cancelled.","Er war krank, infolgedessen fehlte er.
+He was ill, as a result he was absent.",Formal.
+mithin,Konjunktionaladverb / Adverbiale,Konsekutiv,"consequently, thus","Position 1, then verb 2nd","Er ist Beamter, mithin unkündbar.
+He is a civil servant, consequently cannot be dismissed.","Das Ergebnis ist negativ, mithin ist der Test beendet.
+The result is negative, consequently the test is over.","Formal, rare."
+dadurch,Konjunktionaladverb / Adverbiale,Konsekutiv / Modal,"thereby, as a result","Position 1, then verb 2nd","Er trainiert viel. Dadurch wird er stärker.
+He trains a lot. Thereby he gets stronger.","Sie spart Strom, dadurch sinken die Kosten.
+She saves electricity, thereby costs fall.",Also place: through there.
+daraufhin,Konjunktionaladverb / Adverbiale,Konsekutiv / Temporal,"thereupon, after that","Position 1, then verb 2nd","Er rief an. Daraufhin kam sie sofort.
+He called. Thereupon she came at once.","Sie sagte etwas, daraufhin lachten alle.
+She said something, whereupon everyone laughed.",Reaction to an event.
+trotzdem,Konjunktionaladverb / Adverbiale,Konzessiv,"nevertheless, still","Position 1, then verb 2nd","Es regnet. Trotzdem gehe ich raus.
+It rains. Still I go out.","Er ist krank, trotzdem arbeitet er.
+He is ill, nevertheless he works.",Spoken and written; verb 2nd.
+dennoch,Konjunktionaladverb / Adverbiale,Konzessiv,"nevertheless, yet","Position 1, then verb 2nd","Er ist müde. Dennoch arbeitet er weiter.
+He is tired. Nevertheless he keeps working.","Das Wetter ist schlecht, dennoch fahren wir.
+The weather is bad, yet we drive.",Slightly more formal than trotzdem.
+nichtsdestotrotz,Konjunktionaladverb / Adverbiale,Konzessiv,nonetheless,"Position 1, then verb 2nd","Nichtsdestotrotz bleibt die Frage offen.
+Nonetheless the question remains open.","Es war schwer, nichtsdestotrotz haben wir es geschafft.
+It was hard, nonetheless we did it.","Emphatic, a bit playful."
+nichtsdestoweniger,Konjunktionaladverb / Adverbiale,Konzessiv,nevertheless,"Position 1, then verb 2nd","Nichtsdestoweniger ist das Projekt gut.
+Nevertheless the project is good.","Es war teuer, nichtsdestoweniger kauften wir es.
+It was expensive, nevertheless we bought it.",Very formal.
+gleichwohl,Konjunktionaladverb / Adverbiale,Konzessiv,all the same,"Position 1, then verb 2nd","Er hat verloren, gleichwohl ist er stolz.
+He lost, all the same he is proud.","Gleichwohl müssen wir weitermachen.
+All the same we must carry on.",Formal.
+allerdings,Konjunktionaladverb / Adverbiale,Konzessiv / Adversativ,"however, though","Position 1, then verb 2nd","Das Essen ist gut. Allerdings ist es teuer.
+The food is good. However, it is expensive.","Ich komme, allerdings etwas später.
+I come, though a bit later.",Softens a statement.
+immerhin,Konjunktionaladverb / Adverbiale,Konzessiv,"at least, after all","Position 1, then verb 2nd","Er hat verloren, immerhin hat er gekämpft.
+He lost, at least he fought.","Es regnet, aber immerhin ist es warm.
+It rains, but at least it is warm.",Positive side.
+jedenfalls,Konjunktionaladverb / Adverbiale,Konzessiv / Restriktiv,"in any case, at least","Position 1, then verb 2nd","Ich weiß es nicht. Jedenfalls komme ich.
+I do not know. In any case I come.","Er ist jedenfalls pünktlich.
+He is at least punctual.",Also: anyway.
+freilich,Konjunktionaladverb / Adverbiale,Konzessiv,admittedly; (south) of course,"Position 1, then verb 2nd","Das ist schwer, freilich nicht unmöglich.
+That is hard, admittedly not impossible.","Kommst du? Freilich!
+Are you coming? Of course!",Formal; in Bavaria = natürlich.
+jedoch,Konjunktionaladverb / Adverbiale,Adversativ,"however, but","Position 1, then verb 2nd","Ich möchte kommen. Jedoch habe ich keine Zeit.
+I would like to come. However, I have no time.","Er ist reich, jedoch nicht glücklich.
+He is rich, however not happy.",Free position; verb 2nd if first.
+aber (Adverb),Konjunktionaladverb / Adverbiale,Adversativ,"however, but (mid-sentence)",Mittelfeld,"Ich möchte aber nicht gehen.
+I do not want to go though.","Das ist aber nett!
+That is really nice!",Particle use: aber = really / though.
+dagegen,Konjunktionaladverb / Adverbiale,Adversativ,"on the other hand, in contrast","Position 1, then verb 2nd","Er mag Hunde. Sie dagegen mag Katzen.
+He likes dogs. She, on the other hand, likes cats.","Ich bin dagegen.
+I am against it.",Also: against it.
+hingegen,Konjunktionaladverb / Adverbiale,Adversativ,"on the other hand, whereas","Position 1, then verb 2nd","Er arbeitet viel. Sie hingegen ruht sich aus.
+He works a lot. She, on the other hand, rests.","Der Süden ist warm, der Norden hingegen kalt.
+The south is warm, the north on the other hand cold.",Formal.
+demgegenüber,Konjunktionaladverb / Adverbiale,Adversativ,in contrast,"Position 1, then verb 2nd","Demgegenüber steht die hohe Inflation.
+In contrast stands the high inflation.","Demgegenüber ist die Lage hier ruhig.
+In contrast the situation here is calm.",Formal.
+dafür,Konjunktionaladverb / Adverbiale,Adversativ / Final,on the other hand; for it,"Position 1, then verb 2nd","Er kocht nicht, dafür putzt er.
+He does not cook, but then he cleans.","Das Auto ist alt, dafür aber günstig.
+The car is old, but cheap in return.","Compensation: ""but in return""."
+indessen / indes,Konjunktionaladverb / Adverbiale,Adversativ / Temporal,however; meanwhile,"Position 1, then verb 2nd","Er schlief. Sie indessen arbeitete.
+He slept. She, meanwhile, worked.","Wir warteten; indes regnete es.
+We waited; meanwhile it rained.",Formal; two meanings.
+vielmehr,Konjunktionaladverb / Adverbiale,Adversativ,"rather, on the contrary","Position 1, then verb 2nd","Er war nicht müde, vielmehr war er wütend.
+He was not tired, rather he was angry.","Das ist kein Fehler, vielmehr ein Vorteil.
+That is no mistake, rather an advantage.","After negation, like sondern."
+andererseits,Konjunktionaladverb / Adverbiale,Adversativ,on the other hand,"Position 1, then verb 2nd","Das Auto ist teuer. Andererseits ist es sicher.
+The car is expensive. On the other hand it is safe.","Ich möchte kommen, andererseits bin ich müde.
+I want to come, on the other hand I am tired.",Pair: einerseits … andererseits.
+im Gegenteil,Konjunktionaladverb / Adverbiale,Adversativ,on the contrary,"Position 1, then verb 2nd","Ich bin nicht müde, im Gegenteil, ich bin fit.
+I am not tired, on the contrary, I am fit.","Das stört nicht, im Gegenteil, es hilft.
+That does not disturb, on the contrary, it helps.",Phrase.
+im Gegensatz dazu,Konjunktionaladverb / Adverbiale,Adversativ,in contrast to this,"Position 1, then verb 2nd","Er ist laut. Im Gegensatz dazu ist sie leise.
+He is loud. In contrast she is quiet.","Im Gegensatz dazu sind die Preise gestiegen.
+In contrast prices have risen.",Phrase.
+außerdem,Konjunktionaladverb / Adverbiale,Additiv,"besides, also","Position 1, then verb 2nd","Ich bin müde. Außerdem habe ich Hunger.
+I am tired. Besides, I am hungry.","Das Hotel ist günstig, außerdem liegt es zentral.
+The hotel is cheap, besides it is central.",Most common additive adverb.
+zudem,Konjunktionaladverb / Adverbiale,Additiv,moreover,"Position 1, then verb 2nd","Er ist klug, zudem fleißig.
+He is clever, moreover hardworking.","Zudem ist das Essen gut.
+Moreover the food is good.",Formal.
+überdies,Konjunktionaladverb / Adverbiale,Additiv,"moreover, besides","Position 1, then verb 2nd","Überdies ist er pünktlich.
+Moreover he is punctual.","Das Angebot ist günstig, überdies bekommt man Rabatt.
+The offer is cheap, moreover you get a discount.",Formal.
+ferner,Konjunktionaladverb / Adverbiale,Additiv,furthermore,"Position 1, then verb 2nd","Ferner brauchen wir einen Termin.
+Furthermore we need an appointment.","Er nannte Preise und ferner die Lieferzeit.
+He gave prices and furthermore the delivery time.","Formal, lists."
+obendrein,Konjunktionaladverb / Adverbiale,Additiv,on top of that,"Position 1, then verb 2nd","Er hat verloren und obendrein noch Geld.
+He lost and on top of that money.","Es regnete, und obendrein war es kalt.
+It rained, and on top of that it was cold.",Spoken.
+darüber hinaus,Konjunktionaladverb / Adverbiale,Additiv,"beyond that, furthermore","Position 1, then verb 2nd","Darüber hinaus bieten wir Schulungen an.
+Furthermore we offer training.","Darüber hinaus ist die Lage gut.
+Beyond that the location is good.","Phrase, formal."
+zusätzlich,Konjunktionaladverb / Adverbiale,Additiv,additionally,"Position 1, then verb 2nd","Zusätzlich gibt es einen Rabatt.
+Additionally there is a discount.","Er arbeitet zusätzlich am Wochenende.
+He additionally works at the weekend.",Adjective / adverb.
+ebenfalls,Konjunktionaladverb / Adverbiale,Additiv,"likewise, also","Position 1, then verb 2nd","Ich komme ebenfalls.
+I come too.","Er ist ebenfalls müde.
+He is also tired.",Ebenfalls list (class word).
+ebenso,Konjunktionaladverb / Adverbiale,Additiv / Komparativ,"just as, likewise","Position 1, then verb 2nd","Er arbeitet ebenso hart wie sie.
+He works just as hard as she.","Ebenso war es gestern.
+It was the same yesterday.",Also: ebenso … wie.
+gleichfalls,Konjunktionaladverb / Adverbiale,Additiv,likewise,"Position 1, then verb 2nd","Danke, gleichfalls!
+Thanks, likewise!","Gleichfalls möchte ich mich bedanken.
+Likewise I would like to thank you.",Greeting phrase.
+noch dazu,Konjunktionaladverb / Adverbiale,Additiv,on top of that,"Position 1, then verb 2nd","Er ist faul und noch dazu unhöflich.
+He is lazy and on top of that rude.","Es war teuer, noch dazu schlecht.
+It was expensive, on top of that bad.",Phrase.
+nicht zuletzt,Konjunktionaladverb / Adverbiale,Additiv / Gewichtung,not least,"Position 1, then verb 2nd","Nicht zuletzt wegen dir bin ich hier.
+Not least because of you I am here.","Das Projekt war wichtig, nicht zuletzt für die Stadt.
+The project was important, not least for the city.",Phrase.
+sonst,Konjunktionaladverb / Adverbiale,Konditional / Konsekutiv,"otherwise, or else","Position 1, then verb 2nd","Beeil dich, sonst verpasst du den Zug.
+Hurry up, otherwise you miss the train.","Lern jetzt, sonst fällst du durch.
+Study now, or else you fail.",Warning.
+andernfalls,Konjunktionaladverb / Adverbiale,Konditional,otherwise,"Position 1, then verb 2nd","Zahle bis Montag, andernfalls gibt es Mahnungen.
+Pay by Monday, otherwise there will be reminders.","Andernfalls müssen wir absagen.
+Otherwise we must cancel.",Fall list; formal.
+ansonsten,Konjunktionaladverb / Adverbiale,Konditional,"otherwise, apart from that","Position 1, then verb 2nd","Ansonsten ist alles gut.
+Apart from that everything is fine.","Komm pünktlich, ansonsten fangen wir ohne dich an.
+Come on time, otherwise we start without you.",Spoken and formal.
+dann,Konjunktionaladverb / Adverbiale,Temporal / Konditional,then,"Position 1, then verb 2nd","Erst esse ich, dann gehe ich.
+First I eat, then I go.","Wenn es regnet, dann bleibe ich zu Hause.
+If it rains, then I stay home.",Also in wenn … dann.
+danach,Konjunktionaladverb / Adverbiale,Temporal,afterwards,"Position 1, then verb 2nd","Ich arbeite. Danach gehe ich nach Hause.
+I work. Afterwards I go home.","Wir essen, danach trinken wir Kaffee.
+We eat, afterwards we drink coffee.",Opposite: davor.
+davor,Konjunktionaladverb / Adverbiale,Temporal,before that,"Position 1, then verb 2nd","Ich dusche. Davor esse ich.
+I shower. Before that I eat.","Davor war er in Hamburg.
+Before that he was in Hamburg.",Opposite: danach.
+zuvor,Konjunktionaladverb / Adverbiale,Temporal,beforehand,"Position 1, then verb 2nd","Zuvor hatte er nie Deutsch gelernt.
+Beforehand he had never learned German.","Wie zuvor ist alles teuer.
+As before everything is expensive.",Formal.
+vorher,Konjunktionaladverb / Adverbiale,Temporal,beforehand,"Position 1, then verb 2nd","Vorher ruf ich an.
+Beforehand I call.","Ich esse, vorher dusche ich.
+I eat, before that I shower.",Spoken.
+nachher,Konjunktionaladverb / Adverbiale,Temporal,afterwards,"Position 1, then verb 2nd","Nachher gehen wir essen.
+Afterwards we go and eat.","Wir telefonieren nachher.
+We will phone afterwards.",Spoken.
+anschließend,Konjunktionaladverb / Adverbiale,Temporal,"subsequently, afterwards","Position 1, then verb 2nd","Anschließend gibt es Kaffee.
+Afterwards there is coffee.","Wir arbeiten, anschließend fahren wir heim.
+We work, afterwards we drive home.",Formal; also verb anschließen.
+inzwischen,Konjunktionaladverb / Adverbiale,Temporal,"in the meantime, by now","Position 1, then verb 2nd","Inzwischen ist es dunkel geworden.
+By now it has got dark.","Ich koche, inzwischen deckst du den Tisch.
+I cook, in the meantime you set the table.",Synonym: mittlerweile.
+mittlerweile,Konjunktionaladverb / Adverbiale,Temporal,"by now, meanwhile","Position 1, then verb 2nd","Mittlerweile spricht er gut Deutsch.
+By now he speaks German well.","Mittlerweile ist es spät.
+By now it is late.",Synonym: inzwischen.
+währenddessen,Konjunktionaladverb / Adverbiale,Temporal,meanwhile,"Position 1, then verb 2nd","Ich koche. Währenddessen liest er.
+I cook. Meanwhile he reads.","Währenddessen regnete es.
+Meanwhile it rained.",Synonym: unterdessen.
+unterdessen,Konjunktionaladverb / Adverbiale,Temporal,in the meantime,"Position 1, then verb 2nd","Unterdessen warten wir.
+In the meantime we wait.","Er arbeitete, unterdessen schlief sie.
+He worked, meanwhile she slept.",Formal.
+gleichzeitig,Konjunktionaladverb / Adverbiale,Temporal,at the same time,"Position 1, then verb 2nd","Er singt und tanzt gleichzeitig.
+He sings and dances at the same time.","Gleichzeitig kam ein Anruf.
+At the same time a call came.",Synonym: zugleich.
+zugleich,Konjunktionaladverb / Adverbiale,Temporal / Additiv,"at the same time, also","Position 1, then verb 2nd","Sie ist Ärztin und zugleich Mutter.
+She is a doctor and at the same time a mother.","Das ist gut und zugleich schlecht.
+That is good and bad at the same time.",Formal.
+zunächst,Konjunktionaladverb / Adverbiale,Temporal / Aufzählung,"first, initially","Position 1, then verb 2nd","Zunächst lesen wir den Text.
+First we read the text.","Zunächst war er skeptisch.
+Initially he was sceptical.",Beginning of a sequence.
+zuerst,Konjunktionaladverb / Adverbiale,Temporal / Aufzählung,first,"Position 1, then verb 2nd","Zuerst esse ich, dann arbeite ich.
+First I eat, then I work.","Wer zuerst kommt, mahlt zuerst.
+First come, first served.","Sequence: zuerst, dann, danach, zuletzt."
+schließlich,Konjunktionaladverb / Adverbiale,Temporal / Kausal,finally; after all,"Position 1, then verb 2nd","Schließlich kam der Bus.
+Finally the bus came.","Er hat Recht, schließlich ist er Experte.
+He is right, after all he is an expert.",Two meanings: time and reason.
+zuletzt,Konjunktionaladverb / Adverbiale,Temporal / Aufzählung,"last, finally","Position 1, then verb 2nd","Zuletzt gibt es Kaffee.
+Last there is coffee.","Zuletzt habe ich ihn im Mai gesehen.
+The last time I saw him was in May.",Sequence end.
+später,Konjunktionaladverb / Adverbiale,Temporal,later,"Position 1, then verb 2nd","Später rufe ich dich an.
+Later I call you.","Bis später!
+See you later!",Opposite: früher.
+bald,Konjunktionaladverb / Adverbiale,Temporal,soon,"Position 1, then verb 2nd","Bald ist Weihnachten.
+Soon it is Christmas.","Ich komme bald.
+I come soon.",Spoken and written.
+endlich,Konjunktionaladverb / Adverbiale,Temporal,"finally, at last","Position 1, then verb 2nd","Endlich ist Freitag!
+At last it is Friday!","Er hat endlich bestanden.
+He has finally passed.",Relief after waiting.
+seitdem / seither,Konjunktionaladverb / Adverbiale,Temporal,since then,"Position 1, then verb 2nd","Er zog nach Berlin. Seitdem lernt er Deutsch.
+He moved to Berlin. Since then he has been learning German.","Seither hat er sich verändert.
+Since then he has changed.",Also a conjunction (seitdem).
+bislang / bisher,Konjunktionaladverb / Adverbiale,Temporal,"so far, until now","Position 1, then verb 2nd","Bislang gab es keine Probleme.
+So far there were no problems.","Bisher habe ich nichts gehört.
+Until now I have heard nothing.",Present perfect context.
+nun,Konjunktionaladverb / Adverbiale,Temporal / Konsekutiv,now; well then,"Position 1, then verb 2nd","Nun müssen wir gehen.
+Now we must go.","Nun gut, dann machen wir das.
+Well then, we do it.",Also filler.
+das heißt (d. h.),Konjunktionaladverb / Adverbiale,Explikativ,"that is, i.e.","Position 1, then verb 2nd","Er kommt morgen, das heißt am Dienstag.
+He comes tomorrow, that is on Tuesday.","Das Haus ist neu, das heißt gebaut 2025.
+The house is new, that is built in 2025.",Abbreviation: d. h.
+zum Beispiel (z. B.),Konjunktionaladverb / Adverbiale,Explikativ,for example,"Position 1, then verb 2nd","Ich mag Obst, zum Beispiel Äpfel.
+I like fruit, for example apples.","Zum Beispiel gibt es hier viele Cafés.
+For example there are many cafés here.",Abbreviation: z. B.
+beispielsweise,Konjunktionaladverb / Adverbiale,Explikativ,for example,"Position 1, then verb 2nd","Beispielsweise können Sie online zahlen.
+For example you can pay online.","Er mag Sport, beispielsweise Fußball.
+He likes sport, for example football.",Formal.
+und zwar,Konjunktionaladverb / Adverbiale,Explikativ,"namely, to be precise","Position 1, then verb 2nd","Ich fahre nach Hamburg, und zwar morgen.
+I go to Hamburg, namely tomorrow.","Er kommt, und zwar mit dem Zug.
+He comes, by train to be precise.",Adds precision.
+insbesondere,Konjunktionaladverb / Adverbiale,Gewichtung,"especially, in particular","Position 1, then verb 2nd","Ich mag Obst, insbesondere Beeren.
+I like fruit, especially berries.","Insbesondere im Winter ist es kalt.
+Especially in winter it is cold.",Formal.
+besonders,Konjunktionaladverb / Adverbiale,Gewichtung,especially,"Position 1, then verb 2nd","Ich mag Obst, besonders Äpfel.
+I like fruit, especially apples.","Besonders wichtig ist die Aussprache.
+Especially important is the pronunciation.",Spoken and written.
+vor allem,Konjunktionaladverb / Adverbiale,Gewichtung,"above all, mainly","Position 1, then verb 2nd","Ich lerne vor allem Vokabeln.
+I mainly learn vocabulary.","Vor allem ist Pünktlichkeit wichtig.
+Above all punctuality is important.",Very common.
+speziell,Konjunktionaladverb / Adverbiale,Gewichtung,specifically,"Position 1, then verb 2nd","Speziell im Sommer gibt es viele Touristen.
+Specifically in summer there are many tourists.","Das Produkt ist speziell für Kinder.
+The product is specifically for children.",Also adjective: special.
+sprich,Konjunktionaladverb / Adverbiale,Explikativ,in other words (spoken),"Position 1, then verb 2nd","Wir treffen uns morgen, sprich Samstag.
+We meet tomorrow, that is Saturday.","Er arbeitet im Controlling, sprich bei den Zahlen.
+He works in controlling, that is with the numbers.",Colloquial; from sprechen.
+übrigens,Konjunktionaladverb / Adverbiale,Gewichtung,by the way,"Position 1, then verb 2nd","Übrigens, morgen ist kein Unterricht.
+By the way, tomorrow there is no class.","Er kommt übrigens auch.
+He is also coming, by the way.",Introduces an aside.
+apropos,Konjunktionaladverb / Adverbiale,Gewichtung,speaking of,"Position 1, then verb 2nd","Apropos Essen: Hast du Hunger?
+Speaking of food: are you hungry?","Apropos Wetter, es soll regnen.
+Speaking of weather, it is supposed to rain.",French loan.
+tatsächlich,Konjunktionaladverb / Adverbiale,Gewichtung,"actually, indeed","Position 1, then verb 2nd","Er hat tatsächlich bestanden.
+He actually passed.","Tatsächlich war es ganz anders.
+Actually it was quite different.",Also adjective.
+eigentlich,Konjunktionaladverb / Adverbiale,Gewichtung,"actually, really","Position 1, then verb 2nd","Eigentlich wollte ich kommen.
+Actually I wanted to come.","Was machst du eigentlich?
+What do you actually do?",Softens a statement or question.
+überhaupt,Konjunktionaladverb / Adverbiale,Gewichtung,"at all, anyway","Position 1, then verb 2nd","Hast du überhaupt Zeit?
+Do you have time at all?","Überhaupt ist das eine gute Idee.
+In general that is a good idea.",Strengthens.
+"erstens, zweitens, drittens",Konjunktionaladverb / Adverbiale,Aufzählung,"firstly, secondly, thirdly","Position 1, then verb 2nd","Erstens bin ich müde, zweitens habe ich Hunger.
+Firstly I am tired, secondly I am hungry.","Erstens ist es teuer, zweitens ist es weit.
+Firstly it is expensive, secondly it is far.",Enumeration.
+abschließend,Konjunktionaladverb / Adverbiale,Konklusiv,in conclusion,"Position 1, then verb 2nd","Abschließend möchte ich danken.
+In conclusion I would like to thank you.","Abschließend lässt sich sagen: Es war gut.
+In conclusion one can say: it was good.",Formal.
+zusammenfassend,Konjunktionaladverb / Adverbiale,Konklusiv,in summary,"Position 1, then verb 2nd","Zusammenfassend lässt sich sagen: Es war ein Erfolg.
+In summary one can say: it was a success.","Zusammenfassend ist die Lage stabil.
+In summary the situation is stable.",Formal; for presentations.
+insgesamt,Konjunktionaladverb / Adverbiale,Konklusiv,"overall, in total","Position 1, then verb 2nd","Insgesamt war es gut.
+Overall it was good.","Insgesamt kamen hundert Gäste.
+In total a hundred guests came.",Also in total.
+letztendlich,Konjunktionaladverb / Adverbiale,Konklusiv,ultimately,"Position 1, then verb 2nd","Letztendlich ist es deine Entscheidung.
+Ultimately it is your decision.","Letztendlich hat alles geklappt.
+In the end everything worked out.",Also letztlich.
+kurz gesagt,Konjunktionaladverb / Adverbiale,Konklusiv,in short,"Position 1, then verb 2nd","Kurz gesagt: Es war toll.
+In short: it was great.","Kurz gesagt, wir brauchen mehr Zeit.
+In short, we need more time.",Phrase.
+alles in allem,Konjunktionaladverb / Adverbiale,Konklusiv,all in all,"Position 1, then verb 2nd","Alles in allem war es ein guter Tag.
+All in all it was a good day.","Alles in allem sind wir zufrieden.
+All in all we are satisfied.",Phrase.
+im Großen und Ganzen,Konjunktionaladverb / Adverbiale,Konklusiv,by and large,"Position 1, then verb 2nd","Im Großen und Ganzen bin ich zufrieden.
+By and large I am satisfied.","Im Großen und Ganzen läuft es gut.
+By and large it is going well.",Phrase.
+zum Schluss,Konjunktionaladverb / Adverbiale,Konklusiv,"finally, at the end","Position 1, then verb 2nd","Zum Schluss gab es Kaffee.
+At the end there was coffee.","Zum Schluss möchte ich danken.
+Finally I would like to thank you.",Phrase.
+nur,Konjunktionaladverb / Adverbiale,Restriktiv,"only, just","Position 1, then verb 2nd","Ich habe nur zehn Euro.
+I only have ten euros.","Das ist nur ein Test.
+That is just a test.",Limits a statement.
+bloß,Konjunktionaladverb / Adverbiale,Restriktiv,"merely, only","Position 1, then verb 2nd","Das ist bloß ein Missverständnis.
+That is merely a misunderstanding.","Ich habe bloß eine Frage.
+I only have a question.","Spoken; also ""just don't"": Mach das bloß nicht!"
+höchstens,Konjunktionaladverb / Adverbiale,Restriktiv,at most,"Position 1, then verb 2nd","Ich komme höchstens eine Stunde.
+I come for one hour at most.","Er schläft höchstens vier Stunden.
+He sleeps four hours at most.",Upper limit.
+wenigstens,Konjunktionaladverb / Adverbiale,Restriktiv,at least,"Position 1, then verb 2nd","Iss wenigstens einen Apfel.
+Eat at least an apple.","Wenigstens regnet es nicht.
+At least it is not raining.",Lower limit / consolation.
+zumindest,Konjunktionaladverb / Adverbiale,Restriktiv,at least,"Position 1, then verb 2nd","Zumindest ist es warm.
+At least it is warm.","Er ist zumindest pünktlich.
+He is at least punctual.",Like wenigstens.
+auf diese Weise,Konjunktionaladverb / Adverbiale,Modal,in this way,"Position 1, then verb 2nd","Auf diese Weise sparen wir Zeit.
+In this way we save time.","Auf diese Weise lernt man schnell.
+In this way one learns fast.",Phrase.
+dementsprechend,Konjunktionaladverb / Adverbiale,Modal / Konsekutiv,accordingly,"Position 1, then verb 2nd","Er hat viel gearbeitet, dementsprechend ist er müde.
+He worked a lot, accordingly he is tired.","Dementsprechend fiel das Ergebnis aus.
+Accordingly the result turned out.",Formal.
+genauso,Konjunktionaladverb / Adverbiale,Komparativ,just the same,"Position 1, then verb 2nd","Ich mache es genauso.
+I do it just the same.","Genauso war es letztes Jahr.
+It was the same last year.",Also genauso … wie.
+dazu,Konjunktionaladverb / Adverbiale,Additiv / Final,in addition; for that,"Position 1, then verb 2nd","Dazu kommt noch die Miete.
+In addition comes the rent.","Dazu brauchen wir Zeit.
+For that we need time.",Also: with it.
+zu diesem Zweck,Konjunktionaladverb / Adverbiale,Final,for this purpose,"Position 1, then verb 2nd","Zu diesem Zweck gründen wir einen Verein.
+For this purpose we found a club.","Zu diesem Zweck brauchen wir Geld.
+For this purpose we need money.","Phrase, formal."
+auf jeden Fall,Konjunktionaladverb / Adverbiale,Konzessiv / Gewichtung,"in any case, definitely","Position 1, then verb 2nd","Ich komme auf jeden Fall.
+I will definitely come.","Auf jeden Fall rufe ich dich an.
+In any case I will call you.",Fall list.
+auf keinen Fall,Konjunktionaladverb / Adverbiale,Gewichtung,under no circumstances,"Position 1, then verb 2nd","Das mache ich auf keinen Fall.
+I will under no circumstances do that.","Auf keinen Fall zu spät kommen!
+Do not come late under any circumstances!",Fall list.
+in jedem Fall,Konjunktionaladverb / Adverbiale,Gewichtung,in any case,"Position 1, then verb 2nd","In jedem Fall rufe ich an.
+In any case I will call.","In jedem Fall ist er pünktlich.
+In any case he is punctual.",Fall list.
+notfalls,Konjunktionaladverb / Adverbiale,Konditional,if necessary,"Position 1, then verb 2nd","Notfalls schlafe ich auf dem Sofa.
+If necessary I sleep on the sofa.","Notfalls rufe ich den Notruf.
+If necessary I call the emergency number.",Fall list.
+gegebenenfalls,Konjunktionaladverb / Adverbiale,Konditional,"if applicable, if need be","Position 1, then verb 2nd","Gegebenenfalls müssen wir den Termin verschieben.
+If need be we must postpone the appointment.","Sie ändert den Plan gegebenenfalls.
+She changes the plan if need be.",Abbreviation: ggf.
+bestenfalls,Konjunktionaladverb / Adverbiale,Konditional,at best,"Position 1, then verb 2nd","Bestenfalls dauert es eine Stunde.
+At best it takes an hour.","Bestenfalls bekomme ich zehn Prozent.
+At best I get ten percent.",Fall list.
+schlimmstenfalls,Konjunktionaladverb / Adverbiale,Konditional,at worst,"Position 1, then verb 2nd","Schlimmstenfalls müssen wir umziehen.
+At worst we must move.","Schlimmstenfalls verlieren wir Geld.
+At worst we lose money.",Fall list.
+wegen,Präposition,Kausal,because of,Genitiv (spoken: Dativ),"Wegen des Regens bleiben wir zu Hause.
+Because of the rain we stay home.","Wegen dir komme ich zu spät.
+Because of you I am late.",Spoken often with Dativ.
+aufgrund,Präposition,Kausal,"due to, on the basis of",Genitiv (also: aufgrund von + Dativ),"Aufgrund des Staus kam er zu spät.
+Due to the traffic jam he came late.","Aufgrund von Krankheit fehlt er.
+Due to illness he is absent.",Formal.
+infolge,Präposition,Kausal,as a result of,Genitiv (also: infolge von),"Infolge des Unfalls war die Straße gesperrt.
+As a result of the accident the road was closed.","Infolge von Regen stieg der Fluss.
+As a result of rain the river rose.",Formal.
+dank,Präposition,Kausal (positiv),thanks to,Dativ (also Genitiv),"Dank deiner Hilfe habe ich bestanden.
+Thanks to your help I passed.","Dank des Wetters war das Fest schön.
+Thanks to the weather the party was nice.",Positive reason only.
+angesichts,Präposition,Kausal,in view of,Genitiv,"Angesichts der Lage bleiben wir ruhig.
+In view of the situation we stay calm.","Angesichts der hohen Preise sparen wir.
+In view of the high prices we save.",Formal.
+in Anbetracht,Präposition,Kausal,in consideration of,Genitiv,"In Anbetracht der Zeit beenden wir hier.
+In consideration of the time we stop here.","In Anbetracht der Umstände ist das gut.
+In consideration of the circumstances that is good.",Formal.
+mangels,Präposition,Kausal,for lack of,Genitiv,"Mangels Beweisen wurde er freigesprochen.
+For lack of evidence he was acquitted.","Mangels Zeit fällt das Treffen aus.
+For lack of time the meeting is cancelled.",Formal; no article needed.
+aus,Präposition,Kausal (Motiv),"out of, for (reason)",Dativ,"Aus Angst sagte er nichts.
+Out of fear he said nothing.","Sie half ihm aus Liebe.
+She helped him out of love.","Motive, feeling."
+vor,Präposition,Kausal (Gefühl),"with, from (feeling)",Dativ,"Vor Freude hat sie geweint.
+She cried with joy.","Er zitterte vor Kälte.
+He shivered with cold.","Feeling, no article."
+durch,Präposition,Kausal / Modal,"through, by means of",Akkusativ,"Durch Training wird er besser.
+Through training he gets better.","Durch den Regen wurde alles nass.
+Because of the rain everything got wet.",Cause or means.
+kraft,Präposition,Kausal,by virtue of,Genitiv,"Kraft seines Amtes darf er das.
+By virtue of his office he may do that.","Kraft Gesetzes ist das verboten.
+By virtue of law that is forbidden.",Very formal.
+zufolge,Präposition,Kausal / Quelle,according to,Dativ (after the noun),"Dem Bericht zufolge steigen die Preise.
+According to the report prices rise.","Meiner Meinung zufolge ist das falsch.
+According to my opinion that is wrong.",Placed after its noun.
+laut,Präposition,Quelle,according to,Genitiv / Dativ,"Laut Wetterbericht regnet es morgen.
+According to the weather report it rains tomorrow.","Laut ihm ist alles gut.
+According to him everything is fine.",Source of information.
+gemäß,Präposition,Modal,in accordance with,Dativ,"Gemäß dem Vertrag zahlen wir monatlich.
+In accordance with the contract we pay monthly.","Gemäß den Regeln ist das erlaubt.
+In accordance with the rules that is allowed.",Formal.
+entsprechend,Präposition,Modal,"according to, in line with",Dativ,"Entsprechend dem Plan bauen wir.
+In line with the plan we build.","Entsprechend seinen Wünschen kochen wir.
+According to his wishes we cook.",Formal.
+nach,Präposition,Modal / Temporal,according to; after,Dativ,"Nach meiner Meinung ist das gut.
+In my opinion that is good.","Nach dem Essen gehen wir spazieren.
+After the meal we go for a walk.",Also direction.
+trotz,Präposition,Konzessiv,"despite, in spite of",Genitiv (spoken: Dativ),"Trotz des Regens gehen wir raus.
+Despite the rain we go out.","Trotz der Kälte trägt er kurze Hosen.
+Despite the cold he wears shorts.",Class word; spoken Dativ is accepted.
+ungeachtet,Präposition,Konzessiv,regardless of,Genitiv (also after the noun),"Ungeachtet der Kritik machte er weiter.
+Regardless of the criticism he carried on.","Der Warnung ungeachtet ging er hinaus.
+Regardless of the warning he went out.",Very formal.
+entgegen,Präposition,Konzessiv / Adversativ,contrary to,Dativ,"Entgegen allen Erwartungen hat er gewonnen.
+Contrary to all expectations he won.","Entgegen der Prognose regnete es nicht.
+Contrary to the forecast it did not rain.",Formal.
+bei,Präposition,Temporal / Konditional / Konzessiv,"at, in case of, despite",Dativ,"Bei Regen bleiben wir zu Hause.
+In case of rain we stay home.","Bei aller Liebe, das geht nicht.
+With all due love, that does not work.",Many meanings.
+im Falle,Präposition,Konditional,in the event of,Genitiv (im Falle von + Dativ),"Im Falle eines Brandes bleiben Sie ruhig.
+In the event of a fire stay calm.","Im Falle von Regen fällt das Fest aus.
+In case of rain the party is cancelled.",Fall list.
+ohne,Präposition,Modal / Konditional,without,Akkusativ,"Ohne dich gehe ich nicht.
+Without you I do not go.","Ohne Fleiß kein Preis.
+No pain, no gain.",Opposite: mit.
+mit,Präposition,Modal / Instrumental,with,Dativ,"Ich fahre mit dem Zug.
+I travel by train.","Mit Geduld schaffst du das.
+With patience you will manage.",Opposite: ohne.
+für,Präposition,Final / Kausal,for,Akkusativ,"Das ist für dich.
+That is for you.","Ich lerne für die Prüfung.
+I study for the exam.","Purpose, beneficiary."
+zu,Präposition,Final,"to, for (purpose)",Dativ,"Zu diesem Zweck brauchen wir Geld.
+For this purpose we need money.","Zur Erholung fahre ich ans Meer.
+For recovery I go to the sea.",Also direction.
+zwecks,Präposition,Final,for the purpose of,Genitiv,"Zwecks Klärung treffen wir uns.
+For the purpose of clarification we meet.","Zwecks Anmeldung bitte hier klicken.
+To register please click here.","Formal, bureaucratic."
+um … willen,Präposition,Final,for the sake of,Genitiv (circumfix),"Um des Friedens willen gebe ich nach.
+For the sake of peace I give in.","Um deinetwillen bin ich gekommen.
+For your sake I came.",Fixed circumfix.
+zugunsten,Präposition,Final,in favour of,"Genitiv (or Dativ, after noun: zu Gunsten)","Zugunsten der Kinder spenden wir Geld.
+In favour of the children we donate money.","Er verzichtete zugunsten seiner Schwester.
+He gave up in favour of his sister.",Formal.
+anhand,Präposition,Modal,"by means of, based on",Genitiv (also anhand von),"Anhand des Beispiels sehen wir das.
+Using the example we see that.","Anhand von Zahlen zeigt er das.
+By means of figures he shows that.",Formal.
+mittels,Präposition,Modal,by means of,Genitiv,"Mittels einer Software wird es berechnet.
+By means of software it is calculated.","Er öffnete die Tür mittels eines Schlüssels.
+He opened the door by means of a key.",Formal.
+mithilfe,Präposition,Modal,with the help of,Genitiv (mithilfe von + Dativ),"Mithilfe eines Tools sparen wir Zeit.
+With the help of a tool we save time.","Mithilfe von Freunden zog er um.
+With the help of friends he moved.",Also: mit Hilfe.
+außer,Präposition,Restriktiv,"except, apart from",Dativ,"Alle außer ihm kamen.
+Everyone except him came.","Außer dir weiß es niemand.
+Apart from you nobody knows.",Exception.
+bis auf,Präposition,Restriktiv,except for,Akkusativ,"Bis auf einen waren alle da.
+Except for one all were there.","Bis auf das Dach ist das Haus fertig.
+Except for the roof the house is finished.",Exception.
+abgesehen von,Präposition,Restriktiv,apart from,Dativ,"Abgesehen vom Preis ist es gut.
+Apart from the price it is good.","Abgesehen davon geht es mir gut.
+Apart from that I am fine.",Very common.
+ausgenommen,Präposition,Restriktiv,"except, excluding",Akkusativ / Nominativ,"Alle ausgenommen ihn kamen.
+All excluding him came.","Ausgenommen Sonntage ist das Büro offen.
+Excluding Sundays the office is open.",Formal.
+anstelle,Präposition,Alternativ,instead of,Genitiv (anstelle von + Dativ),"Anstelle des Chefs kam sein Vertreter.
+Instead of the boss his deputy came.","Anstelle von Kaffee trinke ich Tee.
+Instead of coffee I drink tea.",Also: an Stelle.
+statt / anstatt,Präposition,Alternativ,instead of,Genitiv (spoken: Dativ),"Statt eines Autos kauft er ein Rad.
+Instead of a car he buys a bike.","Anstatt Zucker nehme ich Honig.
+Instead of sugar I take honey.",Also infinitive (an)statt … zu.
+im Gegensatz zu,Präposition,Adversativ,in contrast to,Dativ,"Im Gegensatz zu ihm ist sie fleißig.
+In contrast to him she is hardworking.","Im Gegensatz zum Süden ist der Norden kühl.
+In contrast to the south the north is cool.",Opposite of: im Vergleich zu.
+im Vergleich zu,Präposition,Komparativ,compared to,Dativ,"Im Vergleich zu Berlin ist Bonn klein.
+Compared to Berlin Bonn is small.","Im Vergleich zu gestern ist es kalt.
+Compared to yesterday it is cold.",Phrase.
+im Unterschied zu,Präposition,Adversativ,unlike,Dativ,"Im Unterschied zu mir mag er Fisch.
+Unlike me he likes fish.","Im Unterschied zum Vorjahr stieg der Umsatz.
+Unlike last year sales rose.",Phrase.
+gegenüber,Präposition,Adversativ / Komparativ,"compared with, towards",Dativ,"Gegenüber dem Vorjahr sind die Preise gestiegen.
+Compared with last year prices have risen.","Er ist mir gegenüber freundlich.
+He is friendly towards me.",After a pronoun it follows it.
+im Hinblick auf,Präposition,Referenz,with regard to,Akkusativ,"Im Hinblick auf die Kosten ist das gut.
+With regard to costs that is good.","Im Hinblick auf die Prüfung lerne ich viel.
+With the exam in mind I study a lot.",Formal.
+in Bezug auf,Präposition,Referenz,in relation to,Akkusativ,"In Bezug auf Preise haben wir Fragen.
+In relation to prices we have questions.","In Bezug auf deine Frage: ja.
+Regarding your question: yes.",Formal.
+bezüglich,Präposition,Referenz,regarding,Genitiv,"Bezüglich Ihrer Anfrage melde ich mich.
+Regarding your enquiry I will get in touch.","Bezüglich des Termins gibt es Fragen.
+Regarding the appointment there are questions.",Typical in emails.
+hinsichtlich,Präposition,Referenz,with respect to,Genitiv,"Hinsichtlich der Kosten sind wir flexibel.
+With respect to costs we are flexible.","Hinsichtlich des Preises gibt es keine Probleme.
+With respect to the price there are no problems.",Formal.
+im Zusammenhang mit,Präposition,Referenz,in connection with,Dativ,"Im Zusammenhang mit dem Projekt gab es Probleme.
+In connection with the project there were problems.","Im Zusammenhang mit Steuern gilt das nicht.
+In connection with taxes that does not apply.",Phrase.
+mit Blick auf,Präposition,Referenz,with a view to,Akkusativ,"Mit Blick auf die Zukunft sparen wir.
+With a view to the future we save.","Mit Blick auf das Budget ist das zu teuer.
+With a view to the budget that is too expensive.",Phrase.
+während (Präposition),Präposition,Temporal,during,Genitiv (spoken: Dativ),"Während des Unterrichts darf man nicht essen.
+During class one may not eat.","Während der Ferien reise ich.
+During the holidays I travel.",Same word as the conjunction.
+seit,Präposition,Temporal,"since, for",Dativ,"Seit einem Jahr lerne ich Deutsch.
+I have been learning German for a year.","Seit Montag bin ich krank.
+Since Monday I have been ill.",Also conjunction.
+bis,Präposition,Temporal,until,Akkusativ (no article),"Ich warte bis Montag.
+I wait until Monday.","Bis bald!
+See you soon!",Also conjunction.
+binnen,Präposition,Temporal,within,Genitiv / Dativ,"Binnen einer Woche muss er zahlen.
+Within a week he must pay.","Binnen kurzer Zeit war alles fertig.
+Within a short time everything was ready.",Formal.
+innerhalb,Präposition,Temporal,within,Genitiv,"Innerhalb einer Stunde kommt er.
+Within an hour he comes.","Innerhalb der Frist müssen wir zahlen.
+Within the deadline we must pay.",Also place.
+ab,Präposition,Temporal,"from, starting from",Dativ,"Ab Montag arbeite ich hier.
+From Monday I work here.","Ab 18 Uhr ist geschlossen.
+From 6 pm it is closed.",Starting point.
+außerhalb,Präposition,Temporal / Lokal,outside of,Genitiv,"Außerhalb der Öffnungszeiten ist zu.
+Outside opening hours it is closed.","Außerhalb der Stadt ist es ruhig.
+Outside the city it is quiet.",Opposite: innerhalb.
+entweder … oder,Zweiteilige Konjunktion,Alternativ,either … or,Both parts position 1 or 0; verb 2nd,"Entweder esse ich Pizza oder ich esse Pasta.
+Either I eat pizza or I eat pasta.","Entweder kommst du mit, oder du bleibst hier.
+Either you come along or you stay here.",Exclusive choice.
+sowohl … als auch,Zweiteilige Konjunktion,Additiv,both … and,-,"Er spricht sowohl Deutsch als auch Englisch.
+He speaks both German and English.","Sowohl Anna als auch Tom kommen.
+Both Anna and Tom come.",Verb agrees with plural.
+weder … noch,Zweiteilige Konjunktion,Additiv (negativ),neither … nor,-,"Ich mag weder Fisch noch Fleisch.
+I like neither fish nor meat.","Er hat weder Zeit noch Geld.
+He has neither time nor money.",No extra nicht/kein.
+nicht nur … sondern auch,Zweiteilige Konjunktion,Additiv,not only … but also,-,"Sie ist nicht nur klug, sondern auch nett.
+She is not only clever but also nice.","Er lernt nicht nur Deutsch, sondern auch Französisch.
+He learns not only German but also French.",Common in essays.
+nicht … sondern,Zweiteilige Konjunktion,Adversativ,not … but,-,"Ich trinke nicht Tee, sondern Kaffee.
+I drink not tea but coffee.","Das ist nicht rot, sondern orange.
+That is not red but orange.",After negation.
+zwar … aber,Zweiteilige Konjunktion,Konzessiv,it is true … but,zwar in position 1 or Mittelfeld,"Er ist zwar alt, aber fit.
+He is old, it is true, but fit.","Zwar ist es teuer, aber es lohnt sich.
+It is true that it is expensive, but it is worth it.","Admit, then counter."
+einerseits … andererseits,Zweiteilige Konjunktion,Adversativ,on the one hand … on the other,-,"Einerseits ist es teuer, andererseits ist es gut.
+On the one hand it is expensive, on the other it is good.","Einerseits möchte ich bleiben, andererseits muss ich gehen.
+On the one hand I want to stay, on the other I must go.",Pro/contra.
+zum einen … zum anderen,Zweiteilige Konjunktion,Additiv / Adversativ,on the one hand … on the other,-,"Zum einen ist es günstig, zum anderen liegt es zentral.
+On the one hand it is cheap, on the other it is central.","Zum einen bin ich müde, zum anderen habe ich Hunger.
+On the one hand I am tired, on the other I am hungry.",Lists two reasons.
+auf der einen Seite … auf der anderen Seite,Zweiteilige Konjunktion,Adversativ,on the one hand … on the other hand,-,"Auf der einen Seite ist es schön, auf der anderen Seite teuer.
+On the one hand it is beautiful, on the other expensive.","Auf der einen Seite arbeite ich gern, auf der anderen Seite bin ich müde.
+On the one hand I like working, on the other I am tired.",Phrase pair.
+teils … teils,Zweiteilige Konjunktion,Additiv,partly … partly,-,"Das Wetter war teils sonnig, teils regnerisch.
+The weather was partly sunny, partly rainy.","Es war teils gut, teils schlecht.
+It was partly good, partly bad.",Mixed.
+bald … bald,Zweiteilige Konjunktion,Temporal,now … now,-,"Das Wetter ist bald warm, bald kalt.
+The weather is now warm, now cold.","Er ist bald freundlich, bald böse.
+He is now friendly, now angry.",Alternating.
+mal … mal,Zweiteilige Konjunktion,Temporal,sometimes … sometimes,-,"Er ist mal nett, mal unhöflich.
+He is sometimes nice, sometimes rude.","Mal regnet es, mal scheint die Sonne.
+Sometimes it rains, sometimes the sun shines.",Spoken.
+je … desto / umso,Zweiteilige Konjunktion,Komparativ / Proportional,the … the,je-clause: verb at end; desto: verb 2nd,"Je mehr ich lerne, desto besser werde ich.
+The more I learn, the better I get.","Je früher, desto besser.
+The sooner, the better.",Both parts take comparatives.
+wenn … dann,Zweiteilige Konjunktion,Konditional,if … then,wenn: verb at end; dann: verb 2nd,"Wenn es regnet, dann bleibe ich zu Hause.
+If it rains, then I stay home.","Wenn du willst, dann komme ich mit.
+If you want, then I will come along.",dann can be omitted.
+ob … oder,Zweiteilige Konjunktion,Alternativ,whether … or,Verb at end,"Ich weiß nicht, ob er kommt oder bleibt.
+I do not know whether he comes or stays.","Ob arm oder reich, alle sind gleich.
+Whether poor or rich, all are equal.",-
+sei es … sei es,Zweiteilige Konjunktion,Alternativ,be it … or be it,-,"Er hilft immer, sei es mit Geld, sei es mit Zeit.
+He always helps, be it with money, be it with time.","Sei es heute, sei es morgen, ich komme.
+Be it today, be it tomorrow, I come.",Formal.
+"je nachdem, ob / wie",Zweiteilige Konjunktion,Konditional,depending on whether / how,Verb at end,"Je nachdem, ob es regnet, bleiben wir.
+Depending on whether it rains we stay.","Je nachdem wie viel Zeit ich habe, komme ich.
+Depending on how much time I have I come.",Common in spoken German.
+so … dass,Zweiteilige Konjunktion,Konsekutiv,so … that,dass: verb at end,"Er ist so müde, dass er sofort schläft.
+He is so tired that he falls asleep at once.","Es war so laut, dass ich nichts hörte.
+It was so loud that I heard nothing.",Result clause.
+zu … als dass,Zweiteilige Konjunktion,Konsekutiv (negativ),too … to / for it to,als dass: verb at end,"Er ist zu müde, als dass er noch arbeiten könnte.
+He is too tired for him to still work.","Es ist zu spät, als dass wir noch gehen könnten.
+It is too late for us to still go.",Konjunktiv II in the clause.
+so … wie,Zweiteilige Konjunktion,Komparativ,as … as,-,"Er ist so groß wie sein Vater.
+He is as tall as his father.","Sie spricht so schnell wie du.
+She speaks as fast as you.",Negative: nicht so … wie.
+genauso … wie,Zweiteilige Konjunktion,Komparativ,just as … as,-,"Er ist genauso alt wie ich.
+He is just as old as I am.","Sie arbeitet genauso viel wie er.
+She works just as much as he does.",Also ebenso … wie.
+mehr … als,Zweiteilige Konjunktion,Komparativ,more … than,-,"Ich arbeite mehr als du.
+I work more than you.","Er verdient mehr, als er ausgibt.
+He earns more than he spends.",als: no verb at end if only a noun.
+um … zu,Infinitivkonjunktion,Final,in order to,Infinitive at the end with zu,"Ich lerne, um die Prüfung zu bestehen.
+I study in order to pass the exam.","Er spart Geld, um ein Auto zu kaufen.
+He saves money in order to buy a car.",Same subject in both clauses.
+ohne … zu,Infinitivkonjunktion,Modal (negativ),without …ing,Infinitive at the end with zu,"Er ging, ohne ein Wort zu sagen.
+He left without saying a word.","Sie arbeitet, ohne Pause zu machen.
+She works without taking a break.",Same subject.
+(an)statt … zu,Infinitivkonjunktion,Alternativ,instead of …ing,Infinitive at the end with zu,"Er schläft, statt zu lernen.
+He sleeps instead of studying.","Anstatt zu kochen, bestellt sie Pizza.
+Instead of cooking she orders pizza.",Same subject.
+zu … um … zu,Infinitivkonjunktion,Konsekutiv (negativ),too … to,Infinitive at the end with zu,"Er ist zu müde, um zu arbeiten.
+He is too tired to work.","Es ist zu kalt, um draußen zu sitzen.
+It is too cold to sit outside.",Same subject.
+genug … um … zu,Infinitivkonjunktion,Konsekutiv (positiv),enough … to,Infinitive at the end with zu,"Er ist alt genug, um allein zu reisen.
+He is old enough to travel alone.","Ich habe genug Geld, um ein Haus zu kaufen.
+I have enough money to buy a house.",-
+im Grunde,Wendung (phrase),Gewichtung,basically,-,"Im Grunde ist das einfach.
+Basically that is simple.","Im Grunde hast du Recht.
+Basically you are right.",Phrase.
+im Prinzip,Wendung (phrase),Gewichtung,in principle,-,"Im Prinzip stimme ich zu.
+In principle I agree.","Im Prinzip ist das möglich.
+In principle that is possible.",Phrase.
+im Allgemeinen,Wendung (phrase),Gewichtung,in general,-,"Im Allgemeinen ist das Wetter mild.
+In general the weather is mild.","Im Allgemeinen arbeite ich gern.
+In general I like working.",Phrase.
+im Übrigen,Wendung (phrase),Gewichtung,"incidentally, besides",-,"Im Übrigen ist morgen Feiertag.
+Incidentally tomorrow is a holiday.","Im Übrigen stimme ich dir zu.
+Besides, I agree with you.",Formal; like übrigens.
+im Vergleich dazu,Wendung (phrase),Komparativ,in comparison,-,"Im Vergleich dazu ist das billig.
+In comparison that is cheap.","Im Vergleich dazu war gestern ruhig.
+In comparison yesterday was quiet.",Phrase.
+in diesem Fall,Wendung (phrase),Konditional,in this case,-,"In diesem Fall bleiben wir.
+In this case we stay.","In diesem Fall haben Sie Recht.
+In this case you are right.",Fall list.
+unter diesen Umständen,Wendung (phrase),Konsekutiv,under these circumstances,-,"Unter diesen Umständen sagen wir ab.
+Under these circumstances we cancel.","Unter diesen Umständen kann ich nicht kommen.
+Under these circumstances I cannot come.",Phrase.
+vor diesem Hintergrund,Wendung (phrase),Konsekutiv,against this background,-,"Vor diesem Hintergrund ist die Entscheidung klar.
+Against this background the decision is clear.","Vor diesem Hintergrund müssen wir sparen.
+Against this background we must save.",Formal.
+in der Zwischenzeit,Wendung (phrase),Temporal,in the meantime,-,"In der Zwischenzeit koche ich.
+In the meantime I cook.","In der Zwischenzeit hat sich viel geändert.
+In the meantime much has changed.",Phrase.
+mit anderen Worten,Wendung (phrase),Explikativ,in other words,-,"Mit anderen Worten: Er hat gelogen.
+In other words: he lied.","Mit anderen Worten, wir haben keine Zeit.
+In other words, we have no time.",Phrase.
+anders gesagt,Wendung (phrase),Explikativ,put differently,-,"Anders gesagt: Das ist zu teuer.
+Put differently: that is too expensive.","Anders gesagt, wir müssen sparen.
+Put differently, we must save.",Phrase.
+genauer gesagt,Wendung (phrase),Explikativ,to be precise,-,"Er kommt morgen, genauer gesagt um 9 Uhr.
+He comes tomorrow, to be precise at 9 o'clock.","Ich wohne in Berlin, genauer gesagt in Pankow.
+I live in Berlin, to be precise in Pankow.",Phrase.
+wie gesagt,Wendung (phrase),Explikativ,as I said,-,"Wie gesagt, ich komme später.
+As I said, I come later.","Das ist, wie gesagt, nicht einfach.
+That is, as I said, not easy.",Phrase.
+so gesehen,Wendung (phrase),Modal,seen this way,-,"So gesehen hast du Recht.
+Seen this way you are right.","So gesehen ist es ein Vorteil.
+Seen this way it is an advantage.",Phrase.
+geschweige denn,Wendung (phrase),Additiv (negativ),let alone,-,"Er kann kaum laufen, geschweige denn rennen.
+He can barely walk, let alone run.","Ich habe keine Zeit, geschweige denn Lust.
+I have no time, let alone desire.",After a negation.
+ganz zu schweigen von,Wendung (phrase),Additiv (negativ),not to mention,Dativ,"Es ist teuer, ganz zu schweigen vom Aufwand.
+It is expensive, not to mention the effort.","Ganz zu schweigen von den Kosten!
+Not to mention the costs!",Phrase.
+was … betrifft,Wendung (phrase),Referenz,"as for, concerning",Verb at end,"Was mich betrifft, ich komme mit.
+As for me, I come along.","Was das Geld betrifft, haben wir kein Problem.
+As for the money we have no problem.",Phrase.
+meiner Meinung nach,Wendung (phrase),Meinung,in my opinion,-,"Meiner Meinung nach ist das falsch.
+In my opinion that is wrong.","Das ist meiner Meinung nach zu teuer.
+In my opinion that is too expensive.",Speaking exam.
+meines Erachtens (m. E.),Wendung (phrase),Meinung,in my view,-,"Meines Erachtens ist das richtig.
+In my view that is right.","Meines Erachtens brauchen wir mehr Zeit.
+In my view we need more time.",Formal.
+"ich bin der Meinung, dass",Wendung (phrase),Meinung,I am of the opinion that,dass: verb at end,"Ich bin der Meinung, dass man mehr lernen sollte.
+I am of the opinion that one should study more.","Ich bin der Meinung, dass das gut ist.
+I am of the opinion that this is good.",Speaking exam.
+"ich finde, dass",Wendung (phrase),Meinung,I think that,dass optional,"Ich finde, dass das eine gute Idee ist.
+I think that is a good idea.","Ich finde, es ist zu teuer.
+I find it too expensive.",Without dass: verb 2nd.
+ich stimme zu,Wendung (phrase),Zustimmung,I agree,-,"Ich stimme dir zu.
+I agree with you.","Ich stimme dem Plan zu.
+I agree with the plan.",Opposite: Ich bin dagegen.
+wie bereits erwähnt,Wendung (phrase),Explikativ,as already mentioned,-,"Wie bereits erwähnt, ist das teuer.
+As already mentioned, that is expensive.","Wie bereits erwähnt, komme ich später.
+As already mentioned, I come later.",Formal.
+"unter der Voraussetzung, dass",Wendung (phrase),Konditional,on the condition that,dass: verb at end,"Unter der Voraussetzung, dass du hilfst, mache ich es.
+On the condition that you help, I do it.","Unter der Voraussetzung, dass es klappt, kaufen wir.
+On the condition that it works, we buy.",Formal.
+"mit dem Ziel, … zu",Wendung (phrase),Final,with the aim of,Infinitive with zu,"Er lernt, mit dem Ziel, Deutsch zu sprechen.
+He learns with the aim of speaking German.","Mit dem Ziel, Geld zu sparen, kocht sie selbst.
+With the aim of saving money she cooks herself.",Same as um … zu.
+"in der Absicht, … zu",Wendung (phrase),Final,with the intention of,Infinitive with zu,"In der Absicht, ihm zu helfen, rief sie an.
+With the intention of helping him she called.","Er kam in der Absicht, zu bleiben.
+He came with the intention of staying.",Formal.
