@@ -573,3 +573,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📚 Reviewed the 10 Wortarten (veränderbar / unveränderbar) and closed the gaps: adverbs and interjections
 - 🔁 Reflexive verbs: echte vs unechte, roughly 100-200 echte
 - 🧭 Plan: one grammar topic per day from 15 Nov, starting with reflexive verbs
+
+## 2026-11-16 Reflexive verbs, restaurant texts and verbs with infinitive
+- 🪞 Learned reflexive verbs: echt and unecht, Akkusativ and Dativ pronouns (ich wasche mir die Hände), reciprocal use (wir sehen uns) and the Perfect with haben
+- 📚 Built a list of 200 reflexive verbs with case, meaning, Präsens, Präteritum, Perfekt and examples
+- 🍽️ Read four restaurant adverts in Kapitel 13 (Thai-Live, Salatbar, Fischerhütte, Eisdiele) and learned food words like Gericht, Zutat, Gewürz, Eissorte, selbstgemacht
+- 👅 Learned taste words (süß, salzig, herzhaft, würzig, scharf) and -frei words like nussfrei and glutenfrei
+- 🔗 Practised verbs with infinitive: modal verbs, werden, lassen and gehen as the conjugated verb, and the verbs with zu (anfangen, aufhören, versuchen, vergessen)
+- ✨ Learned etwas, nichts, viel, wenig + adjective with -es (etwas Gutes, nichts Neues) and wenn-clauses with the verb at the end
+- 🏥 Practised the Kapitel 12 quiz: Konjunktiv II of sollen (sollte, solltest, solltet) for advice, plus health words like Heilung, lebensgefährlich, erreichbar
+- ⚖️ Compared similar words (nutzen, benutzen, verwenden; Umfrage, Nachfrage, Anfrage) and saw the superlative before nouns (die besten Gewürze)
