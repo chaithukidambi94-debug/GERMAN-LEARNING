@@ -1,0 +1,646 @@
+Word 1,Meaning 1,Example 1,Word 2,Meaning 2,Example 2,Notes
+sitzen,to sit (be seated),"Ich sitze auf dem Stuhl.
+I am sitting on the chair.",setzen,"to put, set (down)","Ich setze das Kind auf den Stuhl.
+I put the child on the chair.",sitzen = state; setzen = action (sich setzen).
+liegen,to lie (be lying),"Das Buch liegt auf dem Tisch.
+The book lies on the table.",legen,"to lay, put down","Ich lege das Buch auf den Tisch.
+I put the book on the table.",liegen + Dativ; legen + Akkusativ.
+stehen,to stand (be standing),"Die Flasche steht auf dem Tisch.
+The bottle stands on the table.",stellen,to stand (put upright),"Ich stelle die Flasche auf den Tisch.
+I stand the bottle on the table.",stehen = state; stellen = action.
+lehren,to teach,"Er lehrt Mathematik.
+He teaches maths.",lernen,to learn,"Ich lerne Deutsch.
+I learn German.",Teacher lehrt; student lernt.
+leihen,"to lend, borrow","Kannst du mir Geld leihen?
+Can you lend me money?",leiden,to suffer,"Er leidet an Kopfschmerzen.
+He suffers from headaches.","leihen: lieh, geliehen; leiden: litt, gelitten."
+reisen,to travel,"Wir reisen nach Italien.
+We travel to Italy.",reißen,to tear,"Er reißt das Papier ab.
+He tears off the paper.",reisen: ist gereist; reißen: hat gerissen.
+fahren,"to drive, travel","Ich fahre nach Berlin.
+I am driving to Berlin.",führen,"to lead, carry","Er führt die Gruppe.
+He leads the group.",fahren = vehicle; führen = lead.
+bitten,"to ask, request","Ich bitte dich um Hilfe.
+I ask you for help.",beten,to pray,"Sie betet jeden Abend.
+She prays every evening.",bitten um + Akk.; beten zu + Dat.
+mieten,to rent (as tenant),"Wir mieten eine Wohnung.
+We rent a flat.",meiden,to avoid,"Er meidet große Städte.
+He avoids big cities.",vermieten = rent out.
+raten,to guess; to advise,"Rate mal, wer kommt!
+Guess who is coming!",retten,to rescue,"Der Arzt rettet ihr Leben.
+The doctor saves her life.",raten: riet; retten: rettete.
+senken,to lower,"Die Firma senkt die Preise.
+The company lowers the prices.",sinken,"to sink, fall","Die Preise sinken.
+Prices are falling.",senken = transitive; sinken = intransitive.
+fallen,to fall,"Das Blatt fällt vom Baum.
+The leaf falls from the tree.",fällen,"to fell, cut down","Er fällt den Baum.
+He fells the tree.",fallen = intransitive; fällen = transitive.
+wachen,"to be awake, keep watch","Er wacht die ganze Nacht.
+He keeps watch all night.",wachsen,to grow,"Die Kinder wachsen schnell.
+The children grow fast.","wachsen: wuchs, ist gewachsen."
+sperren,"to block, close off","Man sperrt die Straße.
+They close the road.",sparen,to save,"Ich spare Geld.
+I save money.",sperren = block; sparen = save.
+brennen,to burn,"Das Holz brennt.
+The wood burns.",bringen,to bring,"Ich bringe dir Kaffee.
+I bring you coffee.",brennen: brannte; bringen: brachte.
+kennen,"to know (a person, a place)","Ich kenne ihn gut.
+I know him well.",können,"can, to be able","Ich kann schwimmen.
+I can swim.",kennen = be familiar; können = ability.
+fühlen,to feel,"Ich fühle mich müde.
+I feel tired.",füllen,to fill,"Er füllt das Glas.
+He fills the glass.",sich fühlen / füllen.
+kaufen,to buy,"Ich kaufe Brot.
+I buy bread.",laufen,"to run, walk","Er läuft zur Schule.
+He runs to school.",Only first letter differs.
+gehören,to belong,"Das Buch gehört mir.
+The book belongs to me.",hören,to hear,"Ich höre Musik.
+I hear music.",gehören + Dativ.
+stören,to disturb,"Bitte nicht stören!
+Please do not disturb!",zerstören,to destroy,"Das Feuer zerstört das Haus.
+The fire destroys the house.",Prefix zer- = destruction.
+erkennen,to recognise,"Ich erkenne dich sofort.
+I recognise you at once.",erkunden,"to explore, scout","Wir erkunden die Stadt.
+We explore the city.",erkennen: erkannte.
+erzählen,to tell (a story),"Er erzählt eine Geschichte.
+He tells a story.",erzeugen,"to produce, generate","Die Firma erzeugt Strom.
+The company generates electricity.",
+erlauben,to allow,"Der Lehrer erlaubt es.
+The teacher allows it.",erleben,to experience,"Ich erlebe viel in Berlin.
+I experience a lot in Berlin.",
+verlieren,to lose,"Er verliert den Schlüssel.
+He loses the key.",verleihen,to lend; to award,"Die Bibliothek verleiht Bücher.
+The library lends books.",verlieren: verlor.
+verbieten,to forbid,"Er verbietet das Rauchen.
+He forbids smoking.",verbinden,to connect; to bandage,"Er verbindet die Wunde.
+He bandages the wound.",verbieten: verbot.
+verstehen,to understand,"Ich verstehe dich.
+I understand you.",verstecken,to hide (something),"Er versteckt das Geschenk.
+He hides the present.",verstehen: verstand.
+verkaufen,to sell,"Er verkauft sein Auto.
+He sells his car.",verlaufen,to get lost; to run (course),"Ich habe mich verlaufen.
+I have got lost.",sich verlaufen.
+vermieten,to rent out,"Sie vermietet ein Zimmer.
+She rents out a room.",vermissen,to miss (someone),"Ich vermisse dich.
+I miss you.",
+betreten,to enter,"Bitte betreten Sie den Raum.
+Please enter the room.",betreuen,"to look after, supervise","Sie betreut die Kinder.
+She looks after the children.",betreten: betrat.
+entfernen,to remove,"Er entfernt den Fleck.
+He removes the stain.",entführen,to kidnap,"Die Täter entführen das Kind.
+The offenders kidnap the child.",
+bestellen,to order,"Wir bestellen Pizza.
+We order pizza.",bestehlen,"to rob, steal from","Er bestiehlt seinen Freund.
+He steals from his friend.",bestehlen: bestahl.
+anziehen,"to put on, attract","Er zieht den Mantel an.
+He puts on the coat.",anzeigen,to report; to display,"Er zeigt den Dieb an.
+He reports the thief.",
+ausgeben,to spend,"Er gibt viel Geld aus.
+He spends a lot of money.",ausgehen,to go out,"Wir gehen heute aus.
+We go out today.",
+denken,to think,"Ich denke an dich.
+I think of you.",danken,to thank,"Ich danke dir.
+I thank you.",danken + Dativ.
+lösen,to solve,"Ich löse die Aufgabe.
+I solve the task.",lesen,to read,"Ich lese ein Buch.
+I read a book.",
+träumen,to dream,"Ich träume von dir.
+I dream of you.",trauen,to trust; to marry,"Ich traue ihm nicht.
+I do not trust him.",trauen + Dativ.
+trinken,to drink,"Ich trinke Wasser.
+I drink water.",tränken,to water (animals),"Er tränkt die Kühe.
+He waters the cows.",trinken: trank.
+schreiben,to write,"Ich schreibe einen Brief.
+I write a letter.",schreien,to scream,"Das Baby schreit.
+The baby screams.",schreiben: schrieb; schreien: schrie.
+kämpfen,to fight,"Sie kämpfen um den Sieg.
+They fight for victory.",kämmen,to comb,"Sie kämmt ihr Haar.
+She combs her hair.",
+halten,to hold,"Er hält die Tür.
+He holds the door.",hatten,had,"Wir hatten Glück.
+We had luck.",halten vs Präteritum of haben.
+gewinnen,to win,"Er gewinnt das Spiel.
+He wins the game.",gewöhnen,to get used to,"Ich gewöhne mich an das Wetter.
+I get used to the weather.",sich gewöhnen an + Akk.
+tauschen,"to swap, exchange","Wir tauschen die Plätze.
+We swap seats.",täuschen,to deceive,"Er täuscht seine Freunde.
+He deceives his friends.",One umlaut changes the meaning.
+spüren,"to feel, sense","Ich spüre den Wind.
+I feel the wind.",spülen,to rinse,"Er spült das Geschirr.
+He rinses the dishes.",
+backen,to bake,"Sie backt einen Kuchen.
+She bakes a cake.",packen,to pack,"Er packt den Koffer.
+He packs the suitcase.",
+lachen,to laugh,"Wir lachen laut.
+We laugh loudly.",lächeln,to smile,"Sie lächelt freundlich.
+She smiles kindly.",
+fragen,to ask (a question),"Ich frage den Lehrer.
+I ask the teacher.",tragen,to carry; to wear,"Er trägt eine Tasche.
+He carries a bag.",
+sagen,to say,"Was sagst du?
+What do you say?",sägen,to saw,"Er sägt das Holz.
+He saws the wood.",
+rennen,to run (fast),"Das Kind rennt nach Hause.
+The child runs home.",rinnen,"to flow, trickle","Das Wasser rinnt durch die Finger.
+The water trickles through the fingers.",rennen: rannte.
+sehen,to see,"Ich sehe einen Vogel.
+I see a bird.",sehnen,to long for (sich sehnen),"Ich sehne mich nach dir.
+I long for you.",sich sehnen nach + Dat.
+nehmen,to take,"Ich nehme den Bus.
+I take the bus.",nähen,to sew,"Sie näht ein Kleid.
+She sews a dress.",nehmen: nahm.
+zählen,to count,"Er zählt bis zehn.
+He counts to ten.",zahlen,to pay,"Ich zahle die Rechnung.
+I pay the bill.",One umlaut / vowel length changes meaning.
+hassen,to hate,"Er hasst Spinnen.
+He hates spiders.",fassen,"to grasp, seize","Er fasst den Griff.
+He grasps the handle.",
+bauen,to build,"Wir bauen ein Haus.
+We build a house.",brauen,to brew,"Er braut Bier.
+He brews beer.",
+flüstern,to whisper,"Sie flüstert ihm etwas zu.
+She whispers something to him.",flüchten,to flee,"Die Menschen flüchten vor dem Krieg.
+People flee from the war.",
+schlafen,to sleep,"Ich schlafe acht Stunden.
+I sleep eight hours.",schlagen,to hit,"Er schlägt den Ball.
+He hits the ball.",schlief / schlug.
+riechen,to smell,"Es riecht nach Kaffee.
+It smells of coffee.",reichen,to be enough; to hand,"Das Geld reicht nicht.
+The money is not enough.",
+messen,to measure,"Er misst die Länge.
+He measures the length.",müssen,"must, to have to","Ich muss gehen.
+I must go.",
+kauen,to chew,"Er kaut das Brot.
+He chews the bread.",kaufen,to buy,"Er kauft Brot.
+He buys bread.",
+rufen,"to call, shout","Er ruft laut.
+He shouts loudly.",ruhen,to rest,"Sie ruht sich aus.
+She is resting.",
+leben,to live,"Wir leben in Berlin.
+We live in Berlin.",lieben,to love,"Ich liebe dich.
+I love you.",
+wissen,to know (a fact),"Ich weiß die Antwort.
+I know the answer.",wischen,to wipe,"Er wischt den Tisch.
+He wipes the table.",
+haben,to have,"Ich habe Zeit.
+I have time.",heben,to lift,"Er hebt die Kiste.
+He lifts the box.",
+sinken,to sink,"Das Schiff sinkt.
+The ship sinks.",singen,to sing,"Sie singt ein Lied.
+She sings a song.",sank / sang.
+treffen,to meet; to hit,"Ich treffe dich morgen.
+I meet you tomorrow.",treten,"to step, kick","Er tritt auf den Fuß.
+He steps on the foot.",trifft / tritt.
+rennen,to run,"Er rennt zur Bahn.
+He runs to the train.",rechnen,to calculate,"Er rechnet schnell.
+He calculates fast.",
+zeigen,to show,"Ich zeige dir das Foto.
+I show you the photo.",zeichnen,to draw,"Sie zeichnet ein Bild.
+She draws a picture.",
+spielen,to play,"Die Kinder spielen draußen.
+The children play outside.",spülen,to rinse,"Er spült die Tasse.
+He rinses the cup.",
+nehmen,to take,"Ich nehme einen Kaffee.
+I take a coffee.",nennen,"to call, name","Wir nennen ihn Max.
+We call him Max.",nahm / nannte.
+der Staat,"state, country","Der Staat zahlt die Schule.
+The state pays for the school.",die Stadt,"city, town","Die Stadt ist groß.
+The city is big.",Staat = state; Stadt = city.
+die Wand,wall (inside),"Das Bild hängt an der Wand.
+The picture hangs on the wall.",der Wind,wind,"Der Wind ist kalt.
+The wind is cold.",
+der Wald,forest,"Wir gehen in den Wald.
+We go into the forest.",das Wild,game (animals),"Das Wild lebt im Wald.
+The game lives in the forest.",
+der Mantel,coat,"Er zieht den Mantel an.
+He puts on the coat.",die Mandel,almond,"Ich esse eine Mandel.
+I eat an almond.",
+die Hose,trousers,"Die Hose ist zu lang.
+The trousers are too long.",der Hase,"rabbit, hare","Der Hase springt.
+The rabbit jumps.",
+die Gabel,fork,"Ich esse mit der Gabel.
+I eat with a fork.",das Kabel,cable,"Das Kabel ist kaputt.
+The cable is broken.",
+das Feld,field,"Das Feld ist grün.
+The field is green.",das Geld,money,"Ich habe kein Geld.
+I have no money.",
+das Gesicht,face,"Sie hat ein schönes Gesicht.
+She has a pretty face.",das Gedicht,poem,"Er liest ein Gedicht.
+He reads a poem.",
+der Gewinn,"profit, win","Der Gewinn steigt.
+The profit rises.",das Gewicht,weight,"Das Gewicht ist hoch.
+The weight is high.",
+die Werbung,advertising,"Die Werbung ist laut.
+The advertising is loud.",die Wirkung,effect,"Die Wirkung ist gut.
+The effect is good.",
+der Wirt,innkeeper,"Der Wirt bringt das Bier.
+The innkeeper brings the beer.",der Wert,value,"Der Wert steigt.
+The value rises.",
+die Mauer,wall (outdoor),"Die Mauer ist hoch.
+The wall is high.",der Maurer,bricklayer,"Der Maurer baut ein Haus.
+The bricklayer builds a house.",
+der Tisch,table,"Der Tisch ist rund.
+The table is round.",der Fisch,fish,"Ich esse Fisch.
+I eat fish.",
+die Hand,hand,"Gib mir die Hand!
+Give me your hand!",der Hund,dog,"Der Hund bellt.
+The dog barks.",
+die Bank,bench; bank,"Ich gehe zur Bank.
+I am going to the bank.",die Bahn,"train, track","Ich fahre mit der Bahn.
+I travel by train.",
+das Haus,house,"Das Haus ist neu.
+The house is new.",die Maus,mouse,"Die Maus frisst Käse.
+The mouse eats cheese.",
+der Unterricht,"lessons, class","Der Unterricht beginnt um acht.
+Class begins at eight.",der Unterschied,difference,"Es gibt einen großen Unterschied.
+There is a big difference.",
+der Beruf,"profession, job","Mein Beruf macht Spaß.
+My job is fun.",die Berufung,calling; appeal,"Er legt Berufung ein.
+He files an appeal.",
+die Erfahrung,experience,"Sie hat viel Erfahrung.
+She has a lot of experience.",die Erfindung,invention,"Die Erfindung ist neu.
+The invention is new.",
+die Erlaubnis,permission,"Ich brauche eine Erlaubnis.
+I need permission.",das Erlebnis,"experience, event","Das war ein Erlebnis.
+That was an experience.",
+das Ergebnis,result,"Das Ergebnis ist gut.
+The result is good.",das Ereignis,event,"Das Ereignis war wichtig.
+The event was important.",
+die Bedeutung,"meaning, importance","Was ist die Bedeutung?
+What is the meaning?",die Bedingung,condition,"Das ist eine Bedingung.
+That is a condition.",
+der Verkehr,traffic,"Der Verkehr ist dicht.
+The traffic is heavy.",der Verkauf,"sale, selling","Der Verkauf läuft gut.
+Sales are going well.",
+die Vorsicht,caution,"Vorsicht, heiß!
+Careful, hot!",die Vorsorge,"precaution, prevention","Vorsorge ist wichtig.
+Prevention is important.",
+die Gewohnheit,habit,"Das ist eine Gewohnheit.
+That is a habit.",die Gewissheit,certainty,"Ich habe Gewissheit.
+I have certainty.",
+die Gelegenheit,opportunity,"Das ist eine gute Gelegenheit.
+That is a good opportunity.",die Gesundheit,health,"Gesundheit ist wichtig.
+Health is important.",
+die Freiheit,freedom,"Er liebt die Freiheit.
+He loves freedom.",die Freundschaft,friendship,"Wir haben eine Freundschaft.
+We have a friendship.",
+die Krankheit,illness,"Die Krankheit ist ernst.
+The illness is serious.",die Kränkung,"insult, hurt feelings","Die Kränkung tut weh.
+The insult hurts.",
+die Heizung,heating,"Die Heizung ist kaputt.
+The heating is broken.",die Heilung,healing,"Die Heilung dauert lange.
+The healing takes long.",
+die Reise,journey,"Die Reise war lang.
+The journey was long.",der Reis,rice,"Ich koche Reis.
+I cook rice.",
+die Tasche,bag,"Die Tasche ist schwer.
+The bag is heavy.",die Tasse,cup,"Ich trinke aus der Tasse.
+I drink from the cup.",
+die Schule,school,"Ich gehe zur Schule.
+I go to school.",der Schüler,pupil,"Der Schüler lernt.
+The pupil learns.",
+der Student,student (uni),"Er ist Student.
+He is a student.",das Studium,"studies, degree","Das Studium dauert drei Jahre.
+The degree takes three years.",
+die Kasse,cash desk,"Ich zahle an der Kasse.
+I pay at the cash desk.",der Kasten,"box, crate","Der Kasten ist schwer.
+The crate is heavy.",
+der Preis,price,"Der Preis ist hoch.
+The price is high.",der Reis,rice,"Der Reis ist gar.
+The rice is cooked.",
+der Sommer,summer,"Der Sommer ist heiß.
+The summer is hot.",die Summe,"sum, total","Die Summe ist hoch.
+The sum is high.",
+das Dach,roof,"Das Dach ist rot.
+The roof is red.",der Dachs,badger,"Der Dachs schläft im Bau.
+The badger sleeps in its den.",
+der Mund,mouth,"Mach den Mund auf!
+Open your mouth!",der Mond,moon,"Der Mond scheint.
+The moon is shining.",
+das Ohr,ear,"Mein Ohr tut weh.
+My ear hurts.",die Uhr,"clock, watch","Die Uhr tickt.
+The clock ticks.",
+das Leben,life,"Das Leben ist schön.
+Life is beautiful.",die Leber,liver,"Die Leber ist ein Organ.
+The liver is an organ.",
+die Lunge,lung,"Die Lunge ist gesund.
+The lung is healthy.",die Zunge,tongue,"Die Zunge ist rot.
+The tongue is red.",
+der Mut,courage,"Er hat viel Mut.
+He has a lot of courage.",die Wut,rage,"Seine Wut ist groß.
+His rage is great.",
+die Angst,fear,"Ich habe Angst.
+I am afraid.",die Angel,fishing rod,"Er hat eine Angel.
+He has a fishing rod.",
+die Lust,"desire, feel like","Ich habe Lust auf Eis.
+I feel like ice cream.",die Last,"load, burden","Die Last ist schwer.
+The load is heavy.",
+der Tag,day,"Der Tag ist lang.
+The day is long.",die Tat,"deed, act","Das war eine gute Tat.
+That was a good deed.",
+die Nacht,night,"Die Nacht ist dunkel.
+The night is dark.",die Macht,power,"Er hat viel Macht.
+He has a lot of power.",
+die Woche,week,"Die Woche hat sieben Tage.
+The week has seven days.",die Wache,"guard, watch","Die Wache steht vor dem Tor.
+The guard stands at the gate.",
+der Anzug,suit,"Er trägt einen Anzug.
+He wears a suit.",die Anzeige,advertisement; report,"Er gibt eine Anzeige auf.
+He places an ad.",
+der Gast,guest,"Der Gast kommt später.
+The guest comes later.",das Gas,gas,"Das Gas ist teuer.
+The gas is expensive.",
+das Gras,grass,"Das Gras ist grün.
+The grass is green.",das Glas,glass,"Das Glas ist voll.
+The glass is full.",
+das Gerät,device,"Das Gerät ist neu.
+The device is new.",das Geräusch,noise,"Ich höre ein Geräusch.
+I hear a noise.",
+der Verein,club,"Er ist im Verein.
+He is in the club.",der Verband,association; bandage,"Der Verband ist locker.
+The bandage is loose.",
+der Vorteil,advantage,"Das ist ein Vorteil.
+That is an advantage.",das Vorurteil,prejudice,"Er hat ein Vorurteil.
+He has a prejudice.",
+die Ausnahme,exception,"Es gibt eine Ausnahme.
+There is an exception.",die Annahme,assumption; acceptance,"Das ist nur eine Annahme.
+That is only an assumption.",
+die Abreise,departure (trip),"Die Abreise ist morgen.
+The departure is tomorrow.",die Anreise,arrival (journey),"Die Anreise dauert lange.
+The journey there takes long.",
+die Abfahrt,departure (train),"Die Abfahrt ist um acht.
+The departure is at eight.",die Anfahrt,journey there,"Die Anfahrt dauert eine Stunde.
+The journey there takes an hour.",
+der Mitarbeiter,"colleague, employee","Der Mitarbeiter ist neu.
+The employee is new.",der Mitbewohner,flatmate,"Mein Mitbewohner kocht.
+My flatmate is cooking.",
+das Beispiel,example,"Gib ein Beispiel!
+Give an example!",der Beweis,proof,"Ich brauche einen Beweis.
+I need proof.",
+die Bildung,education,"Bildung ist wichtig.
+Education is important.",die Bindung,"bond, attachment","Die Bindung ist stark.
+The bond is strong.",
+das Geschäft,"shop, business","Das Geschäft ist offen.
+The shop is open.",das Geschenk,gift,"Das Geschenk ist für dich.
+The gift is for you.",
+der Lehrer,teacher,"Der Lehrer erklärt.
+The teacher explains.",der Leiter,"leader, head","Der Leiter ruft an.
+The head calls.",
+die Ausbildung,"training, apprenticeship","Er macht eine Ausbildung.
+He is doing an apprenticeship.",die Ausstellung,exhibition,"Die Ausstellung ist gratis.
+The exhibition is free.",
+die Einladung,invitation,"Danke für die Einladung!
+Thanks for the invitation!",die Einführung,introduction,"Die Einführung dauert eine Stunde.
+The introduction takes an hour.",
+die Kenntnis,"knowledge, awareness","Er hat gute Kenntnisse.
+He has good knowledge.",die Erkenntnis,insight,"Das war eine Erkenntnis.
+That was an insight.",
+das Wissen,knowledge,"Wissen ist Macht.
+Knowledge is power.",das Gewissen,conscience,"Er hat ein schlechtes Gewissen.
+He has a guilty conscience.",
+die Ehe,marriage,"Die Ehe hält lange.
+The marriage lasts long.",die Ehre,honour,"Das ist eine Ehre.
+That is an honour.",
+die Zeit,time,"Ich habe keine Zeit.
+I have no time.",die Zeitung,newspaper,"Ich lese die Zeitung.
+I read the newspaper.",
+das Einkommen,income,"Das Einkommen ist hoch.
+The income is high.",der Einkauf,"purchase, shopping","Der Einkauf dauert lange.
+The shopping takes long.",
+deutsch,German,"Er spricht deutsch.
+He speaks German.",deutlich,clear,"Sprich bitte deutlich!
+Please speak clearly!",
+kindlich,childlike,"Sie hat eine kindliche Freude.
+She has a childlike joy.",kindisch,childish,"Sein Verhalten ist kindisch.
+His behaviour is childish.",kindlich = positive or neutral; kindisch = negative.
+sinnvoll,"sensible, meaningful","Das ist eine sinnvolle Idee.
+That is a sensible idea.",sinnlich,sensual,"Das Parfüm ist sinnlich.
+The perfume is sensual.",
+sparsam,"thrifty, economical","Er ist sehr sparsam.
+He is very thrifty.",spärlich,"sparse, scanty","Das Licht ist spärlich.
+The light is sparse.",
+empfindlich,sensitive (easily hurt or irritated),"Meine Haut ist empfindlich.
+My skin is sensitive.",empfindsam,sensitive (feeling deeply),"Sie ist ein empfindsamer Mensch.
+She is a sensitive person.",
+gewöhnlich,"usual, ordinary","Gewöhnlich stehe ich um sieben auf.
+Usually I get up at seven.",gewohnt,"used to, familiar","Ich bin das gewohnt.
+I am used to that.",
+freundlich,friendly (kind),"Der Verkäufer ist freundlich.
+The salesperson is friendly.",freundschaftlich,friendly (as friends),"Wir haben ein freundschaftliches Verhältnis.
+We have a friendly relationship.",
+heimlich,"secret, secretly","Er liest heimlich ihr Tagebuch.
+He secretly reads her diary.",heimisch,"native, at home","Die Pflanze ist hier heimisch.
+The plant is native here.",
+vorsichtig,careful,"Fahr vorsichtig!
+Drive carefully!",vorsorglich,as a precaution,"Ich nehme vorsorglich einen Schirm mit.
+I take an umbrella as a precaution.",
+hilflos,helpless,"Das Kind ist hilflos.
+The child is helpless.",hilfreich,helpful,"Das ist ein hilfreicher Tipp.
+That is a helpful tip.",-los = without; -reich = full of.
+mündlich,oral,"Die Prüfung ist mündlich.
+The exam is oral.",mündig,"of age, mature","Mit achtzehn ist man mündig.
+At eighteen one is of age.",
+stündlich,hourly,"Der Bus fährt stündlich.
+The bus runs hourly.",stundenlang,for hours,"Wir warten stundenlang.
+We wait for hours.",
+täglich,daily,"Ich übe täglich Deutsch.
+I practise German daily.",tagelang,for days,"Es regnet tagelang.
+It rains for days.",
+ehrlich,honest,"Sei ehrlich!
+Be honest!",ehrenhaft,honourable,"Das war eine ehrenhafte Tat.
+That was an honourable deed.",
+glaubhaft,credible,"Seine Geschichte ist glaubhaft.
+His story is credible.",gläubig,"religious, devout","Sie ist sehr gläubig.
+She is very devout.",
+furchtbar,terrible,"Das Wetter ist furchtbar.
+The weather is terrible.",furchtsam,timid,"Der Hund ist furchtsam.
+The dog is timid.",
+sichtbar,visible,"Der Fleck ist sichtbar.
+The stain is visible.",sichtlich,"visibly, evidently","Er war sichtlich müde.
+He was visibly tired.",
+brauchbar,usable,"Das Werkzeug ist brauchbar.
+The tool is usable.",gebräuchlich,"common, customary","Das Wort ist gebräuchlich.
+The word is in common use.",
+nachhaltig,"sustainable, lasting","Wir kaufen nachhaltig ein.
+We shop sustainably.",nachträglich,"belated, afterwards","Herzlichen Glückwunsch nachträglich!
+Belated congratulations!",
+reichlich,"plentiful, ample","Es gibt reichlich Essen.
+There is plenty of food.",reich,rich,"Er ist sehr reich.
+He is very rich.",
+gleichmäßig,"even, steady","Atme gleichmäßig!
+Breathe steadily!",gleichzeitig,at the same time,"Sie sprechen gleichzeitig.
+They speak at the same time.",
+fraglich,doubtful,"Das ist fraglich.
+That is doubtful.",fraglos,undoubtedly,"Er ist fraglos der Beste.
+He is undoubtedly the best.",
+weiblich,"female, feminine","Das Wort ist weiblich.
+The word is feminine.",weibisch,effeminate (pejorative),"Das Wort weibisch ist abwertend.
+The word weibisch is derogatory.","weibisch is offensive; know it, don't use it."
+spielerisch,"playful, playfully","Sie lernt spielerisch.
+She learns playfully.",spielend,effortlessly (spielend leicht),"Er löst die Aufgabe spielend.
+He solves the task effortlessly.",
+wirklich,"really, real","Das ist wirklich gut.
+That is really good.",wirksam,effective,"Das Medikament ist wirksam.
+The medicine is effective.",
+nützlich,useful,"Das Buch ist nützlich.
+The book is useful.",nutzlos,useless,"Der Versuch war nutzlos.
+The attempt was useless.",
+schädlich,harmful,"Rauchen ist schädlich.
+Smoking is harmful.",schadhaft,"damaged, defective","Das Dach ist schadhaft.
+The roof is damaged.",
+lustig,funny,"Der Film ist lustig.
+The film is funny.",listig,cunning,"Der Fuchs ist listig.
+The fox is cunning.",
+verständlich,understandable,"Die Erklärung ist verständlich.
+The explanation is understandable.",verständig,"sensible, understanding","Er ist ein verständiger Mensch.
+He is a sensible person.",
+sensibel,sensitive,"Sie ist sehr sensibel.
+She is very sensitive.",sensitiv,sensitive (perceptive),"Er hat sensitive Haut.
+He has sensitive skin.",Close in meaning; sensibel is the common one.
+effektiv,effective (gets the result),"Die Methode ist effektiv.
+The method is effective.",effizient,efficient,"Die Maschine arbeitet effizient.
+The machine works efficiently.",effektiv = does the right thing; effizient = does it with little waste.
+formal,formal (in form),"Der Antrag ist formal korrekt.
+The application is formally correct.",formell,formal (official),"Das ist ein formelles Schreiben.
+That is a formal letter.",
+original,"original, authentic","Das ist ein originales Gemälde.
+That is an original painting.",originell,"original (creative), quirky","Das ist eine originelle Idee.
+That is an original idea.",
+rational,rational,"Er denkt sehr rational.
+He thinks very rationally.",rationell,efficient,"Wir arbeiten rationell.
+We work efficiently.",
+universal,universal,"Musik ist eine universale Sprache.
+Music is a universal language.",universell,"universal, all-round","Das Gerät ist universell einsetzbar.
+The device can be used universally.",Mostly interchangeable.
+ethisch,ethical,"Das ist ethisch falsch.
+That is ethically wrong.",ethnisch,ethnic,"Die Stadt ist ethnisch gemischt.
+The city is ethnically mixed.",
+elektrisch,electric,"Das Auto ist elektrisch.
+The car is electric.",elektronisch,electronic,"Ich bekomme eine elektronische Rechnung.
+I get an electronic invoice.",
+ökonomisch,economic,"Das ist ökonomisch sinnvoll.
+That is economically sensible.",ökologisch,ecological,"Wir leben ökologisch.
+We live ecologically.",
+scheinbar,seemingly (but not really),"Er ist scheinbar krank, aber er spielt nur.
+He is seemingly ill, but he is only acting.",anscheinend,apparently (probably true),"Er ist anscheinend krank.
+He is apparently ill.",
+ansehnlich,"considerable, handsome","Das ist eine ansehnliche Summe.
+That is a considerable sum.",angesehen,respected,"Er ist ein angesehener Arzt.
+He is a respected doctor.",
+ausführlich,detailed,"Er erklärt es ausführlich.
+He explains it in detail.",ausführbar,feasible,"Der Plan ist ausführbar.
+The plan is feasible.",
+gefährlich,dangerous,"Der Weg ist gefährlich.
+The path is dangerous.",ungefähr,approximately,"Es kostet ungefähr zehn Euro.
+It costs approximately ten euros.","Look alike, totally different meaning."
+ungefähr,approximately,"Wir warten ungefähr eine Stunde.
+We wait about an hour.",ungefährlich,harmless,"Der Hund ist ungefährlich.
+The dog is harmless.",
+etwa,"about, approximately","Es dauert etwa eine Stunde.
+It takes about an hour.",etwas,"something, a little","Ich möchte etwas trinken.
+I would like something to drink.",
+weder,neither (weder … noch),"Ich mag weder Tee noch Kaffee.
+I like neither tea nor coffee.",wieder,again,"Ich komme wieder.
+I will come again.",
+dann,then,"Erst esse ich, dann gehe ich.
+First I eat, then I go.",denn,"because, for","Ich bleibe, denn ich bin müde.
+I stay because I am tired.",
+wann,when (question),"Wann kommst du?
+When are you coming?",wenn,"if, whenever","Wenn es regnet, bleibe ich.
+If it rains, I stay.",
+als,than; when (past),"Er ist größer als ich.
+He is taller than me.",also,"so, therefore","Ich denke, also bin ich.
+I think, therefore I am.",
+sonst,otherwise,"Beeil dich, sonst kommst du zu spät.
+Hurry up, otherwise you will be late.",sondern,but rather,"Nicht heute, sondern morgen.
+Not today, but tomorrow.",
+trotz,despite (+ Genitive),"Trotz des Regens gehen wir.
+Despite the rain, we go.",trotzdem,nevertheless,"Es regnet, trotzdem gehen wir.
+It rains, nevertheless we go.",
+nach,"after, to","Nach dem Essen schlafe ich.
+After eating I sleep.",noch,"still, yet","Ich habe noch Hunger.
+I am still hungry.",
+noch,still,"Ich bin noch hier.
+I am still here.",doch,"but, yet; yes (to a negative)","Du kommst nicht? Doch!
+You are not coming? Yes, I am!",
+vor,"before, in front of","Ich warte vor dem Haus.
+I wait in front of the house.",für,for,"Das Geschenk ist für dich.
+The gift is for you.",
+aus,"out of, from","Ich komme aus Indien.
+I come from India.",auf,"on, onto","Das Buch liegt auf dem Tisch.
+The book lies on the table.",
+über,"over, about","Wir sprechen über Politik.
+We talk about politics.",aber,but,"Ich will, aber ich kann nicht.
+I want to, but I cannot.",
+gegen,against,"Ich bin gegen den Plan.
+I am against the plan.",gegenüber,"opposite, towards","Die Bank ist gegenüber dem Bahnhof.
+The bank is opposite the station.",
+mehr,more,"Ich möchte mehr Wasser.
+I would like more water.",mehrere,several,"Ich habe mehrere Fragen.
+I have several questions.",
+manche,some,"Manche Leute rauchen.
+Some people smoke.",manchmal,sometimes,"Manchmal esse ich Fisch.
+Sometimes I eat fish.",
+schon,already,"Ich habe schon gegessen.
+I have already eaten.",schön,beautiful,"Das Wetter ist schön.
+The weather is beautiful.",
+nur,only,"Ich habe nur zehn Euro.
+I have only ten euros.",nun,"now, well","Nun gut, gehen wir.
+Well then, let us go.",
+nichts,nothing,"Ich habe nichts gesehen.
+I saw nothing.",nicht,not,"Ich verstehe das nicht.
+I do not understand that.",
+weniger,"less, fewer","Ich trinke weniger Kaffee.
+I drink less coffee.",wenigstens,at least,"Iss wenigstens etwas!
+At least eat something!",
+seltsam,strange,"Das ist seltsam.
+That is strange.",selten,"rare, seldom","Ich esse selten Fleisch.
+I seldom eat meat.",Easy to mix up.
+bereits,already,"Er ist bereits da.
+He is already there.",bereit,ready,"Ich bin bereit.
+I am ready.",
+sauber,clean,"Die Küche ist sauber.
+The kitchen is clean.",sauer,sour; angry,"Die Milch ist sauer.
+The milk is sour.",
+genau,"exact, exactly","Das ist genau richtig.
+That is exactly right.",genug,enough,"Ich habe genug gegessen.
+I have eaten enough.",
+schlecht,bad,"Das Wetter ist schlecht.
+The weather is bad.",schlicht,"plain, simple","Das Kleid ist schlicht.
+The dress is plain.",
+klein,small,"Das Zimmer ist klein.
+The room is small.",kleinlich,petty,"Sei nicht so kleinlich!
+Don't be so petty!",
+lang,long (adjective),"Der Weg ist lang.
+The way is long.",lange,for a long time,"Ich habe lange geschlafen.
+I slept for a long time.",
+einmal,once,"Ich war einmal in Wien.
+I was once in Vienna.",einmalig,"unique, one-off","Das ist eine einmalige Chance.
+That is a unique chance.",
+fast,almost,"Ich bin fast fertig.
+I am almost done.",fest,"firm, solid","Das Brett ist fest.
+The board is solid.",
+bei,"at, near, with","Ich bin bei meiner Tante.
+I am at my aunt's.",bis,"until, to","Ich warte bis acht Uhr.
+I wait until eight o'clock.",
+dreizehn,13,"Ich habe dreizehn Bücher.
+I have thirteen books.",dreißig,30,"Er ist dreißig Jahre alt.
+He is thirty years old.",-zehn = teens; -zig or -ßig = tens.
+vierzehn,14,"Es sind vierzehn Tage.
+It is fourteen days.",vierzig,40,"Er ist vierzig Jahre alt.
+He is forty years old.",-zehn = teens; -zig = tens.
+fünfzehn,15,"Sie ist fünfzehn Jahre alt.
+She is fifteen years old.",fünfzig,50,"Das kostet fünfzig Euro.
+That costs fifty euros.",-zehn = teens; -zig = tens.
+sechzehn,16,"Ich habe sechzehn Euro.
+I have sixteen euros.",sechzig,60,"Er ist sechzig Jahre alt.
+He is sixty years old.",sechs loses the -s in both.
+siebzehn,17,"Es sind siebzehn Grad.
+It is seventeen degrees.",siebzig,70,"Sie ist siebzig Jahre alt.
+She is seventy years old.",sieben loses the -en in both.
+achtzehn,18,"Mit achtzehn ist man erwachsen.
+At eighteen one is an adult.",achtzig,80,"Mein Opa ist achtzig.
+My grandpa is eighty.",-zehn = teens; -zig = tens.
+neunzehn,19,"Das Hotel hat neunzehn Zimmer.
+The hotel has nineteen rooms.",neunzig,90,"Das Buch hat neunzig Seiten.
+The book has ninety pages.",-zehn = teens; -zig = tens.

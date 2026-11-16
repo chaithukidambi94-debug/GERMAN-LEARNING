@@ -32,58 +32,65 @@ Click a sheet name to jump to it.,,
 25,Fokus Partikkel,"Focus particles (auch, nur, sogar, ...)"
 26,Adjectives,Adjectives (empty placeholder)
 27,Degrees,Degrees of comparison (empty placeholder)
-4. Verbs: Core Grammar,,
-28,Hilfs + Tenses,Auxiliary verbs and tense conjugation tables
-29,Tenses,Tenses (empty placeholder)
-30,Regelma(ss)iges,Regular verbs
-31,Unregelma(ss)iges,Irregular verbs and patterns
-32,Trenn vs Untrennbar,Separable vs inseparable verbs
-33,Verb-Noun Konjugation,Verb-to-noun patterns with plurals and examples
-34,Developed Verbs,Base verbs and the verbs developed from them
-5. Inseparable & Mixed Prefix Verbs,,
-35,be XXXXX,Verbs with be-
-36,ent XXXXXX,Verbs with ent-
-37,er XXXXXXX,Verbs with er-
-38,ge XXXXXXX,Verbs with ge-
-39,ver XXXXX,Verbs with ver-
-40,zer XXXX,Verbs with zer-
-41,miss XXX EMPXXX,Verbs with miss- and emp-
-42,Hinter XXXXX,Verbs with hinter-
-43,voll XXX,Verbs with voll-
-44,Uber XXXX,Verbs with über-
-45,Unter XXXX,Verbs with unter-
-46,um XXXX,Verbs with um- (separable or inseparable)
-47,DurchXXXX,Verbs with durch- (separable or inseparable)
-48,Wider Weider XXXX,Verbs with wider- / wieder-
-6. Separable Prefix Verbs,,
-49,ab XXXX,Verbs with ab-
-50,an XXXX,Verbs with an-
-51,auf XXXX,Verbs with auf-
-52,aus XXXX,Verbs with aus-
-53,bei XXXX,Verbs with bei-
-54,ein XXXX,Verbs with ein-
-55,mit XXXX,Verbs with mit-
-56,nach XXXX,Verbs with nach-
-57,vor XXXX,Verbs with vor-
-58,zu XXXX,Verbs with zu-
-59,weg XXXX,Verbs with weg-
-60,zurück XXXX,Verbs with zurück-
-61,fest XXXX,Verbs with fest-
-62,her XXXX,Verbs with her-
-63,hin XXXX,Verbs with hin-
-64,los XXXX,Verbs with los-
-65,fort XXXX,Verbs with fort-
-66,zusammen XXXX,Verbs with zusammen-
-67,heraus XXXX,Verbs with heraus-
-68,weiter XXXX,Verbs with weiter-
-69,Herum Herab XXXX,Verbs with herum- / herab-
-70,hoch XXXX,Verbs with hoch-
-71,neider XXXX,Verbs with nieder-
-72,herunter XXXX,Verbs with herunter-
-73,hinein hinaus XXXX,Verbs with hinein- / hinaus-
-74,vorbei XXXX,Verbs with vorbei-
-75,auseinander XXXX,Verbs with auseinander-
-76,entgegen XXXX,Verbs with entgegen-
-77,Hervor Heim XXXX,Verbs with hervor- / heim-
-7. Exceptions,,
-78,Exceptions,"Exceptions to the normal rules, with example sentences"
+"4. Confusable Words: Homonyms, Homophones & More",,
+28,Homonyme,"Homonyms: same spelling, different meaning (die Bank), with examples"
+29,Homophone,"Homophones: same sound, different spelling (das / dass), with examples"
+30,Homograph,"Homographs: same spelling, different stress and meaning (ˈübersetzen / überˈsetzen)"
+31,Paronyme,"Paronyms: look-alike words that are easily confused (sitzen / setzen), with examples"
+5. Verbs: Core Grammar,,
+32,Hilfs + Tenses,Auxiliary verbs and tense conjugation tables
+33,Tenses,Tenses (empty placeholder)
+34,Regelma(ss)iges,Regular verbs
+35,Unregelma(ss)iges,Irregular verbs and patterns
+36,Trenn vs Untrennbar,Separable vs inseparable verbs
+37,Reflexive Verben,"Reflexive verbs (sich ...) with case/preposition, tenses, examples and notes"
+38,Conjugated Verbs,"Verbs grouped by how they combine with an infinitive (e.g. ohne zu), with meanings and examples"
+39,Verb-Noun Konjugation,Verb-to-noun patterns with plurals and examples
+40,Developed Verbs,Base verbs and the verbs developed from them
+6. Inseparable & Mixed Prefix Verbs,,
+41,be XXXXX,Verbs with be-
+42,ent XXXXXX,Verbs with ent-
+43,er XXXXXXX,Verbs with er-
+44,ge XXXXXXX,Verbs with ge-
+45,ver XXXXX,Verbs with ver-
+46,zer XXXX,Verbs with zer-
+47,miss XXX EMPXXX,Verbs with miss- and emp-
+48,Hinter XXXXX,Verbs with hinter-
+49,voll XXX,Verbs with voll-
+50,Uber XXXX,Verbs with über-
+51,Unter XXXX,Verbs with unter-
+52,um XXXX,Verbs with um- (separable or inseparable)
+53,DurchXXXX,Verbs with durch- (separable or inseparable)
+54,Wider Weider XXXX,Verbs with wider- / wieder-
+7. Separable Prefix Verbs,,
+55,ab XXXX,Verbs with ab-
+56,an XXXX,Verbs with an-
+57,auf XXXX,Verbs with auf-
+58,aus XXXX,Verbs with aus-
+59,bei XXXX,Verbs with bei-
+60,ein XXXX,Verbs with ein-
+61,mit XXXX,Verbs with mit-
+62,nach XXXX,Verbs with nach-
+63,vor XXXX,Verbs with vor-
+64,zu XXXX,Verbs with zu-
+65,weg XXXX,Verbs with weg-
+66,zurück XXXX,Verbs with zurück-
+67,fest XXXX,Verbs with fest-
+68,her XXXX,Verbs with her-
+69,hin XXXX,Verbs with hin-
+70,los XXXX,Verbs with los-
+71,fort XXXX,Verbs with fort-
+72,zusammen XXXX,Verbs with zusammen-
+73,heraus XXXX,Verbs with heraus-
+74,weiter XXXX,Verbs with weiter-
+75,Herum Herab XXXX,Verbs with herum- / herab-
+76,hoch XXXX,Verbs with hoch-
+77,neider XXXX,Verbs with nieder-
+78,herunter XXXX,Verbs with herunter-
+79,hinein hinaus XXXX,Verbs with hinein- / hinaus-
+80,vorbei XXXX,Verbs with vorbei-
+81,auseinander XXXX,Verbs with auseinander-
+82,entgegen XXXX,Verbs with entgegen-
+83,Hervor Heim XXXX,Verbs with hervor- / heim-
+8. Exceptions,,
+84,Exceptions,"Exceptions to the normal rules, with example sentences"

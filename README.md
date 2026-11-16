@@ -12,7 +12,7 @@ This repository records my progress in learning German, from the revision of A1 
 - `csv/Finance Related Vocab_Finance related Vocab.csv` — Career German terms for finance, accounting, SAP, office and interview words, with meanings, opposites and three examples per term.
 - `csv/German_Ready_Reckoner_<letter>.csv` — Class words from the Ready Reckoner workbook, one file per letter from A to Z, plus Ä, Ö and Ü.
 - `Finance Related Vocab.xlsx` — Career German workbook with finance, accounting, SAP, office and interview terms.
-- `German Grammar Rules.xlsx` — Grammar workbook with a table of contents and one sheet per topic, from articles, tenses, prepositions, connectors, adverbs and interjections to word endings, prefix verbs and word sets for body parts, diseases, food, animals and plants.
+- `German Grammar Rules.xlsx` — Grammar workbook with a table of contents and one sheet per topic, from articles, tenses, prepositions, connectors, adverbs and interjections to word endings, prefix verbs, reflexive verbs, homonyms, homophones and paronyms, and word sets for body parts, diseases, food, animals and plants.
 - `German_Ready_Reckoner.xlsx` — Ready Reckoner workbook with class words sorted from A to Z, one sheet per letter, with a search sheet.
 - `German_Vocabulary.xlsx` — Vocabulary workbook sorted by der, die, das and other words, with a search sheet, a key and a guide for adding words.
 - `JOURNAL.md` — Daily log of the topics learned and practiced, one dated entry per day.
