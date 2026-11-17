@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository records my progress in learning German. It holds the Excel workbooks I build and update as I study, covering vocabulary sorted by article and grammar rules with examples, together with a daily journal of each topic, exercise and speaking practice. Each entry adds new words, rules and practice, so the repository grows into a complete reference for the language. Because of my intensive individual self preperation through videos, claude, speaking exercises etc., self along side the formal learning, I am able to sense myself cruising to B2 in a 3-5 months time, optimistic. 
+This repository records my progress in learning German. It holds four Excel workbooks that I build and update as I study: a vocabulary workbook with close to 10,000 words sorted by der, die, das and other words, a grammar workbook with one sheet per topic and examples, a Ready Reckoner of class words from A to Z, and a Career German workbook with finance and office terms. Every sheet also has a CSV copy for reading on GitHub, and a daily journal records each topic, exercise and speaking practice. The workbooks and CSVs are updated periodically as new words and rules come in, so the repository keeps growing into a complete reference for the language. Alongside the formal classes, I study intensively by myself with videos, Claude and speaking exercises, and I am optimistic about reaching B2 within the next 3 to 5 months.
 
 ## Files and folders
 
