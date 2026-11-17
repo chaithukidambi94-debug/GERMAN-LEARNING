@@ -1,10 +1,10 @@
-# German Learning (A1 to A2 Revision, currently B1, sprinting towards B2)
+# German Learning (Currently B1, sprinting towards B2)
 
 **Author:** Krishna Chaitanya Kidambi
 
 ## Description
 
-This repository records my progress in learning German, from the revision of A1 basics in September 2026 to the A2 revision and B1 learning that I have  started in October 2026. It holds the Excel workbooks I build and update as I study, covering vocabulary sorted by article and grammar rules with examples, together with a daily journal of each topic, exercise and speaking practice. Each entry adds new words, rules and practice, so the repository grows into a complete reference for the language. Because of my intensive individual self preperation through videos, claude, speaking exercises etc., self along side the formal learning, I am able to sense myself cruising to B2 in a 3-5 months time, optimistic. 
+This repository records my progress in learning German. It holds the Excel workbooks I build and update as I study, covering vocabulary sorted by article and grammar rules with examples, together with a daily journal of each topic, exercise and speaking practice. Each entry adds new words, rules and practice, so the repository grows into a complete reference for the language. Because of my intensive individual self preperation through videos, claude, speaking exercises etc., self along side the formal learning, I am able to sense myself cruising to B2 in a 3-5 months time, optimistic. 
 
 ## Files and folders
 
