@@ -583,3 +583,14 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - ✨ Learned etwas, nichts, viel, wenig + adjective with -es (etwas Gutes, nichts Neues) and wenn-clauses with the verb at the end
 - 🏥 Practised the Kapitel 12 quiz: Konjunktiv II of sollen (sollte, solltest, solltet) for advice, plus health words like Heilung, lebensgefährlich, erreichbar
 - ⚖️ Compared similar words (nutzen, benutzen, verwenden; Umfrage, Nachfrage, Anfrage) and saw the superlative before nouns (die besten Gewürze)
+
+## 2026-11-17 Street Food Festival text and Pizza-Lieferdienst
+
+- 📰 Read the Street Food Festival Basel article and matched the four headings to the tips (Exotische Snacks, Leckeres aus Asien, Pasta und mehr, Wie zu Hause)
+- 🍕 Did the Pizza-Lieferdienst exercises: odd one out, menu categories (Vorspeise, Hauptgericht, Dessert, Getränke) and the food words for Germany, Austria and Switzerland (Hähnchen, Hendl, Poulet; Paprika, Peperoni)
+- 🧍 Learned impersonal and indefinite pronouns (man, es, jemand, niemand, etwas, nichts, alles, einige, viele)
+- 📍 Compared da and dort, and learned wie for examples ("in Ländern wie Thailand")
+- 🤝 Practised Dativ and Akkusativ: helfen takes Dativ (ich helfe meiner Mutter), essen takes Akkusativ (ich esse meine Pizza)
+- 🧩 Built word families: gern, lieber, am liebsten; the suffix -haft (herzhaft, glaubhaft); -kunft words (Herkunft, Zukunft); achten, beachten, missachten
+- 🔁 Learned separable verbs in a subordinate clause and with zu (auftrifft, auftritt, kennenzulernen), and the endings of ganz (den ganzen Tag, aus der ganzen Welt)
+- 🍲 Added food and describing words: Füllung, Soße, Pflaumenmus, Boulette, gratis, abwechslungsreich, beliebt, bekannt, berühmt
