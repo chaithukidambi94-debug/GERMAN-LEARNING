@@ -594,3 +594,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🧩 Built word families: gern, lieber, am liebsten; the suffix -haft (herzhaft, glaubhaft); -kunft words (Herkunft, Zukunft); achten, beachten, missachten
 - 🔁 Learned separable verbs in a subordinate clause and with zu (auftrifft, auftritt, kennenzulernen), and the endings of ganz (den ganzen Tag, aus der ganzen Welt)
 - 🍲 Added food and describing words: Füllung, Soße, Pflaumenmus, Boulette, gratis, abwechslungsreich, beliebt, bekannt, berühmt
+
+## 2026-11-18 Kapitel 13/14 food and shopping vocabulary, welch-/dies-, colloquial words
+
+- 📖 A2 practice book: welch-/dies- exercises (5.3, 7.6); only the masculine Akkusativ changes (welchen, diesen)
+- 🗣️ Colloquial German: most important everyday words and particles, plus tatsächlich vs eigentlich
+- 🍽️ Kapitel 13 Wortliste (Seite 82–86) filled in, noun quiz on articles and plurals; correction: die Chili, -s
+- 🛒 Kapitel 14 "Regional ist genial": Suchsel (9 words), headline 2.1 and true/false 2.2 on "Gutes Finden"; article words
+- 🧩 Word differences and grammar: merken vs bemerken, zahlen vs bezahlen, nehmen conjugation, sollte vs solltest, suffixes -haltig / -frei
+- 🍄 Food and nutrition words: Süßstoff, koffeinhaltig, Rind, erfrischen, genial, Steinpilz vs Champignon, aubergine nutrition
