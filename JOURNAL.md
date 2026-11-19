@@ -603,3 +603,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🛒 Kapitel 14 "Regional ist genial": Suchsel (9 words), headline 2.1 and true/false 2.2 on "Gutes Finden"; article words
 - 🧩 Word differences and grammar: merken vs bemerken, zahlen vs bezahlen, nehmen conjugation, sollte vs solltest, suffixes -haltig / -frei
 - 🍄 Food and nutrition words: Süßstoff, koffeinhaltig, Rind, erfrischen, genial, Steinpilz vs Champignon, aubergine nutrition
+
+## 2026-11-19 Relative clauses, etwas/nichts + adjective, Akkusativ and Dativ
+
+- 📝 Kapitel 13 "Hat es geschmeckt?" form: restaurant dialogue, etwas/nichts + adjective (etwas Kleines, nichts Scharfes, etwas Süßes), matching ads to situations
+- 🔁 welch-/dies- in Nominativ and Akkusativ: only the masculine changes (welcher/welchen); schmecken takes a Nominativ subject
+- 🔗 Relative clauses (Kapitel 14, p.99): der/die/das/die from the Bezugswort, verb at the end, rewriting into two sentences
+- ⚖️ Akkusativ vs Dativ: in (wohin? Akk / wo? Dat), geben + Dativ (dem Verkäufer das Geld), nach/mit/zu, helfen; one long mixed sentence
+- 🪞 Personal vs reflexive pronouns (mich, dich, sich)
+- 🌾 New words: getrennt, Bauer (n-Deklination), anbauen, glauben, Schweineohr, Beziehung, Bezugswort, Dichter, Abendessen
