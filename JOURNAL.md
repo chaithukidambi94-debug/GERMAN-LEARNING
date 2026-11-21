@@ -612,3 +612,10 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - ⚖️ Akkusativ vs Dativ: in (wohin? Akk / wo? Dat), geben + Dativ (dem Verkäufer das Geld), nach/mit/zu, helfen; one long mixed sentence
 - 🪞 Personal vs reflexive pronouns (mich, dich, sich)
 - 🌾 New words: getrennt, Bauer (n-Deklination), anbauen, glauben, Schweineohr, Beziehung, Bezugswort, Dichter, Abendessen
+
+## 2026-11-20 Break day
+
+- 🛌 Break day, rest only
+- 📚 No new words, no exercises
+- 🗂️ Friday workbook update moved to Saturday
+- 🔁 Back to normal on Saturday
