@@ -1,0 +1,957 @@
+Word,Type,Forms / Case,Status,Meaning (EN),Synonyms (3),Antonyms (3),Example 1,Example 2,Example 3,Notes
+sich verabreden,Verb – reflexive (regular),verabredet sich · verabredete sich · hat sich verabredet,New,to arrange to meet,X,X,"Ich verabrede mich mit Anna.
+I arrange to meet Anna.","Wir haben uns für Samstag verabredet.
+We arranged to meet on Saturday.","Wir verabreden uns zum Essen.
+We arrange to meet for dinner.","Pattern: echt reflexiv (Akk) + mit + Dat. Reflexive list, Nov 16."
+sich verabschieden,Verb – reflexive (regular),verabschiedet sich · verabschiedete sich · hat sich verabschiedet,New,to say goodbye,X,X,"Ich verabschiede mich von dir.
+I say goodbye to you.","Sie hat sich schnell verabschiedet.
+She said goodbye quickly.","Sie verabschiedet sich an der Tür.
+She says goodbye at the door.","Pattern: echt reflexiv (Akk) + von + Dat. Reflexive list, Nov 16."
+sich verausgaben,Verb – reflexive (regular),verausgabt sich · verausgabte sich · hat sich verausgabt,New,to exhaust oneself,X,X,"Er verausgabt sich beim Training.
+He exhausts himself in training.","Verausgabe dich nicht!
+Do not overdo it!","Sie verausgabt sich beim Marathon.
+She exhausts herself in the marathon.","Pattern: echt reflexiv (Akk). Reflexive list, Nov 16."
+sich verbessern,Verb – reflexive (regular),verbessert sich · verbesserte sich · hat sich verbessert,New,to improve,X,X,"Mein Deutsch verbessert sich.
+My German is improving.","Er hat sich verbessert.
+He corrected himself.","Du musst dich in Mathe verbessern.
+You have to improve in maths.","Pattern: unecht reflexiv (Akk). Also: etwas verbessern. Reflexive list, Nov 16."
+sich verbeugen,Verb – reflexive (regular),verbeugt sich · verbeugte sich · hat sich verbeugt,New,to bow,X,X,"Der Künstler verbeugt sich.
+The artist bows.","Er verbeugte sich vor dem König.
+He bowed before the king.","Die Tänzer verbeugen sich.
+The dancers bow.","Pattern: echt reflexiv (Akk) + vor + Dat. Reflexive list, Nov 16."
+sich verbrennen,Verb – reflexive (regular),verbrennt sich · verbrannte sich · hat sich verbrannt,New,to burn oneself,X,X,"Vorsicht, du verbrennst dich!
+Careful, you will burn yourself!","Ich habe mich am Herd verbrannt.
+I burned myself on the stove.","Er hat sich am Ofen verbrannt.
+He burned himself on the oven.","Pattern: unecht reflexiv (Akk) + an + Dat. Reflexive list, Nov 16."
+sich verbünden,Verb – reflexive (regular),verbündet sich · verbündete sich · hat sich verbündet,New,to ally oneself,X,X,"Die Länder verbünden sich.
+The countries form an alliance.","Er verbündete sich mit seinem Rivalen.
+He allied himself with his rival.","Die Firmen verbünden sich gegen den Konkurrenten.
+The companies ally themselves against the competitor.","Pattern: echt reflexiv (Akk) + mit + Dat. Reflexive list, Nov 16."
+sich verfahren,Verb – reflexive (irregular),verfährt sich · verfuhr sich · hat sich verfahren,New,to take the wrong road,X,X,"Wir haben uns verfahren.
+We took the wrong road.","Ich verfahre mich oft in Berlin.
+I often get lost driving in Berlin.","Mit dem Navi verfährt man sich selten.
+With a navigation system you rarely take the wrong road.","Pattern: echt reflexiv (Akk). On foot: sich verlaufen. Reflexive list, Nov 16."
+sich vergewissern,Verb – reflexive (regular),vergewissert sich · vergewisserte sich · hat sich vergewissert,New,to make sure,X,X,"Ich vergewissere mich, ob alles stimmt.
+I make sure everything is right.","Er vergewisserte sich seiner Sache.
+He made sure of his case.","Er vergewissert sich, dass die Tür zu ist.
+He makes sure the door is closed.","Pattern: echt reflexiv (Akk) + + Gen / ob. Formal. Reflexive list, Nov 16."
+sich verhalten,Verb – reflexive (irregular),verhält sich · verhielt sich · hat sich verhalten,New,"to behave, act",X,X,"Wie soll ich mich verhalten?
+How should I behave?","Er verhält sich ruhig.
+He keeps quiet.","Sie verhält sich ruhig.
+She behaves calmly.","Pattern: echt reflexiv (Akk). Noun: das Verhalten. Reflexive list, Nov 16."
+sich verhaspeln,Verb – reflexive (regular),verhaspelt sich · verhaspelte sich · hat sich verhaspelt,New,to stumble over one's words,X,X,"Er verhaspelte sich beim Sprechen.
+He stumbled over his words.","Ich verhaspele mich, wenn ich nervös bin.
+I trip over my words when I am nervous.","Aus Nervosität verhaspelt sie sich.
+Out of nervousness she stumbles over her words.","Pattern: echt reflexiv (Akk). Reflexive list, Nov 16."
+sich verheddern,Verb – reflexive (regular),verheddert sich · verhedderte sich · hat sich verheddert,New,to get tangled up,X,X,"Das Kabel hat sich verheddert.
+The cable got tangled.","Er verhedderte sich in Widersprüchen.
+He got tangled in contradictions.","Die Schnur verheddert sich.
+The string gets tangled up.","Pattern: echt reflexiv (Akk) + in + Dat. Colloquial. Reflexive list, Nov 16."
+sich verkalkulieren,Verb – reflexive (regular),verkalkuliert sich · verkalkulierte sich · hat sich verkalkuliert,New,to miscalculate,X,X,"Wir haben uns verkalkuliert.
+We miscalculated.","Er verkalkuliert sich bei den Kosten.
+He miscalculates the costs.","Die Firma hat sich bei den Kosten verkalkuliert.
+The company miscalculated the costs.","Pattern: echt reflexiv (Akk). Reflexive list, Nov 16."
+sich verknallen,Verb – reflexive (regular),verknallt sich · verknallte sich · hat sich verknallt,New,to get a crush on,X,X,"Er hat sich in sie verknallt.
+He got a crush on her.","Ich bin total in ihn verknallt.
+I have a huge crush on him.","Sie hat sich in ihren Kollegen verknallt.
+She has a crush on her colleague.","Pattern: echt reflexiv (Akk) + in + Akk. Colloquial. Reflexive list, Nov 16."
+sich verlaufen,Verb – reflexive (irregular),verläuft sich · verlief sich · hat sich verlaufen,New,to get lost (on foot),X,X,"Ich habe mich in der Stadt verlaufen.
+I got lost in the city.","Wir verlaufen uns immer.
+We always get lost.","Wir haben uns im Wald verlaufen.
+We got lost in the forest.","Pattern: echt reflexiv (Akk). Reflexive list, Nov 16."
+sich verneigen,Verb – reflexive (regular),verneigt sich · verneigte sich · hat sich verneigt,New,to bow (formal),X,X,"Er verneigt sich vor dem Publikum.
+He bows to the audience.","Sie verneigten sich tief.
+They bowed deeply.","Die Schüler verneigen sich vor dem Lehrer.
+The pupils bow to the teacher.","Pattern: echt reflexiv (Akk) + vor + Dat. Reflexive list, Nov 16."
+sich verplappern,Verb – reflexive (regular),verplappert sich · verplapperte sich · hat sich verplappert,New,"to let slip, blab",X,X,"Ich habe mich verplappert.
+I let it slip.","Sie verplapperte sich vor der Überraschung.
+She let it slip before the surprise.","Er hat sich beim Gespräch verplappert.
+He let something slip in the conversation.","Pattern: echt reflexiv (Akk). Colloquial. Reflexive list, Nov 16."
+sich verrechnen,Verb – reflexive (regular),verrechnet sich · verrechnete sich · hat sich verrechnet,New,to miscalculate,X,X,"Ich habe mich verrechnet.
+I miscalculated.","Er verrechnet sich oft.
+He often miscalculates.","Beim Zahlen habe ich mich verrechnet.
+When paying I miscalculated.","Pattern: echt reflexiv (Akk). Reflexive list, Nov 16."
+sich verschlucken,Verb – reflexive (regular),verschluckt sich · verschluckte sich · hat sich verschluckt,New,to choke (swallow the wrong way),X,X,"Er hat sich verschluckt.
+He choked.","Ich verschlucke mich beim Lachen.
+I choke when I laugh.","Sie verschluckt sich beim Lachen.
+She chokes while laughing.","Pattern: echt reflexiv (Akk). Reflexive list, Nov 16."
+sich versöhnen,Verb – reflexive (irregular),sie versöhnen sich · sie versöhnten sich · haben sich versöhnt,New,to reconcile,X,X,"Sie haben sich versöhnt.
+They reconciled.","Ich will mich mit ihm versöhnen.
+I want to reconcile with him.","Nach dem Streit versöhnten sie sich.
+After the quarrel they reconciled.","Pattern: reziprok + mit + Dat. Reflexive list, Nov 16."
+sich versprechen,Verb – reflexive (irregular),verspricht sich · versprach sich · hat sich versprochen,New,to make a slip of the tongue,X,X,"Ich habe mich versprochen.
+I made a slip of the tongue.","Er versprach sich vor Aufregung.
+He slipped up out of excitement.","Beim Vortrag versprach er sich.
+During the talk he made a slip of the tongue.","Pattern: echt reflexiv (Akk). Without sich: versprechen = to promise. Reflexive list, Nov 16."
+sich verteidigen,Verb – reflexive (regular),verteidigt sich · verteidigte sich · hat sich verteidigt,New,to defend oneself,X,X,"Er verteidigt sich vor Gericht.
+He defends himself in court.","Sie hat sich gegen die Kritik verteidigt.
+She defended herself against the criticism.","Sie verteidigt sich gegen die Kritik.
+She defends herself against the criticism.","Pattern: unecht reflexiv (Akk) + gegen + Akk. Reflexive list, Nov 16."
+sich vertun,Verb – reflexive (irregular),vertut sich · vertat sich · hat sich vertan,New,to make a mistake (colloquial),X,X,"Da hast du dich vertan.
+You made a mistake there.","Ich habe mich beim Datum vertan.
+I got the date wrong.","Ich habe mich im Datum vertan.
+I made a mistake with the date.","Pattern: echt reflexiv (Akk). Colloquial. Reflexive list, Nov 16."
+sich verwählen,Verb – reflexive (regular),verwählt sich · verwählte sich · hat sich verwählt,New,to dial the wrong number,X,X,"Entschuldigung, ich habe mich verwählt.
+Sorry, I dialled the wrong number.","Er verwählt sich oft.
+He often dials wrong.","Er hat sich bei der Nummer verwählt.
+He dialled the wrong number.","Pattern: echt reflexiv (Akk). Reflexive list, Nov 16."
+sich vorsehen,"Verb – reflexive, separable (irregular)",sieht sich vor · sah sich vor · hat sich vorgesehen,New,"to be careful, watch out",X,X,"Sieh dich vor dem Hund vor!
+Watch out for the dog!","Er sah sich vor Taschendieben vor.
+He watched out for pickpockets.","Sieh dich vor, die Straße ist glatt!
+Be careful, the road is slippery!","Pattern: echt reflexiv (Akk) + vor + Dat. Separable. Reflexive list, Nov 16."
+sich weigern,Verb – reflexive (regular),weigert sich · weigerte sich · hat sich geweigert,New,to refuse,X,X,"Er weigert sich zu zahlen.
+He refuses to pay.","Sie weigerte sich mitzukommen.
+She refused to come along.","Der Patient weigert sich, die Tablette zu nehmen.
+The patient refuses to take the tablet.","Pattern: echt reflexiv (Akk) + + zu Inf. Reflexive list, Nov 16."
+sich winden,Verb – reflexive (irregular),windet sich · wand sich · hat sich gewunden,New,to writhe,X,X,"Er windet sich vor Schmerz.
+He writhes in pain.","Der Wurm wand sich im Gras.
+The worm wriggled in the grass.","Die Schlange windet sich.
+The snake writhes.","Pattern: echt reflexiv (Akk) + vor + Dat. Reflexive list, Nov 16."
+sich zanken,Verb – reflexive (irregular),sie zanken sich · sie zankten sich · haben sich gezankt,New,to squabble,X,X,"Die Kinder zanken sich.
+The children squabble.","Hört auf, euch zu zanken!
+Stop squabbling!","Die Brüder zanken sich um das Spielzeug.
+The brothers squabble over the toy.","Pattern: reziprok + mit + Dat. Reflexive list, Nov 16."
+sich zufriedengeben,"Verb – reflexive, separable (irregular)",gibt sich zufrieden · gab sich zufrieden · hat sich zufriedengegeben,New,to be content,X,X,"Er gibt sich nicht mit wenig zufrieden.
+He is not content with little.","Ich gebe mich damit zufrieden.
+I am satisfied with that.","Sie gibt sich mit der Note zufrieden.
+She is content with the grade.","Pattern: echt reflexiv (Akk) + mit + Dat. Separable. Reflexive list, Nov 16."
+sich zurückziehen,"Verb – reflexive, separable (irregular)",zieht sich zurück · zog sich zurück · hat sich zurückgezogen,New,to withdraw,X,X,"Er zieht sich ins Zimmer zurück.
+He withdraws to his room.","Sie hat sich aus dem Job zurückgezogen.
+She withdrew from the job.","Nach dem Streit zog sie sich zurück.
+After the argument she withdrew.","Pattern: unecht reflexiv (Akk) + aus / in + Akk. Separable. Reflexive list, Nov 16."
+sich zuwenden,"Verb – reflexive, separable (regular)",wendet sich zu · wandte sich zu · hat sich zugewandt,New,to turn towards,X,X,"Er wendet sich dem Gast zu.
+He turns to the guest.","Sie wandte sich neuen Aufgaben zu.
+She turned to new tasks.","Sie wendet sich dem nächsten Thema zu.
+She turns to the next topic.","Pattern: echt reflexiv (Akk) + + Dat. Separable. Reflexive list, Nov 16."
+sicherheitshalber,Adverb – manner (how),—,New,to be safe,X,X,"Ich nehme sicherheitshalber einen Schirm mit.
+To be safe I take an umbrella.","Wir rufen sicherheitshalber an.
+To be safe we call.","Sicherheitshalber bleiben wir hier.
+To be safe we stay here.","Pattern -halber. Adverbs list, Nov 14."
+sicherlich,Adverb – sentence (speaker's view),—,New,surely,X,X,"Das ist sicherlich richtig.
+That is surely right.","Er hat sicherlich recht.
+He is surely right.","Sicherlich kommt er bald.
+Surely he comes soon.","More formal than sicher. Adverbs list, Nov 14."
+so,Adverb – manner (how),—,New,"so, like this",X,X,"Mach es so!
+Do it like this!","So geht das nicht.
+It does not work like this.","Er spricht so schnell.
+He speaks so fast.","Also: so … wie. Adverbs list, Nov 14."
+so … dass,Conjunction – two-part,dass: verb at end,New,so … that,X,X,"Er ist so müde, dass er sofort schläft.
+He is so tired that he falls asleep at once.","Es war so laut, dass ich nichts hörte.
+It was so loud that I heard nothing.","Der Kaffee ist so heiß, dass ich ihn nicht trinken kann.
+The coffee is so hot that I cannot drink it.","Result clause. Function: Konsekutiv. Connectors list, Nov 14."
+so … wie,Conjunction – two-part,—,New,as … as,X,X,"Er ist so groß wie sein Vater.
+He is as tall as his father.","Sie spricht so schnell wie du.
+She speaks as fast as you.","Sie spricht so schnell wie ich.
+She speaks as fast as I do.","Negative: nicht so … wie. Function: Komparativ. Connectors list, Nov 14."
+so gesehen,Connector phrase,—,New,seen this way,X,X,"So gesehen hast du Recht.
+Seen this way you are right.","So gesehen ist es ein Vorteil.
+Seen this way it is an advantage.","So gesehen ist es ein Vorteil.
+Seen this way it is an advantage.","Phrase. Function: Modal. Connectors list, Nov 14."
+sobald,Conjunction – subordinating,Verb at the end,New,as soon as,X,X,"Sobald ich fertig bin, rufe ich an.
+As soon as I am done, I call.","Sobald es regnet, gehen wir rein.
+As soon as it rains, we go inside.","Sobald es klingelt, öffne ich die Tür.
+As soon as it rings, I open the door.","Immediately after. Function: Temporal. Connectors list, Nov 14."
+sodass / so dass,Conjunction – subordinating,Verb at the end,New,so that (result),X,X,"Er war müde, sodass er sofort einschlief.
+He was tired so that he fell asleep at once.","Es regnete stark, so dass wir zu Hause blieben.
+It rained heavily so that we stayed home.","Es regnete stark, sodass wir zu Hause blieben.
+It rained heavily, so we stayed at home.","Result; both spellings are fine. Function: Konsekutiv. Connectors list, Nov 14."
+soeben,Adverb – time (when),—,New,just now,X,X,"Er ist soeben angekommen.
+He has just arrived.","Soeben kam eine Meldung.
+Just now a message came in.","Das Paket wurde soeben geliefert.
+The parcel has just been delivered.","Formal; spoken: gerade eben. Adverbs list, Nov 14."
+sofern,Conjunction – subordinating,Verb at the end,New,"provided that, if",X,X,"Ich komme, sofern ich Zeit habe.
+I come provided I have time.","Sofern alle zustimmen, beginnen wir.
+If everyone agrees, we start.","Wir fahren, sofern das Wetter gut ist.
+We go, provided the weather is good.","Formal. Function: Konditional. Connectors list, Nov 14."
+sogenannt,Adjective,—,New,so-called,"angeblich (supposed), vermeintlich (supposed)",X,"Die sogenannte Soße ist nur Wasser.
+The so-called sauce is just water.","Er ist ein sogenannter Experte.
+He is a so-called expert.","Das sogenannte Superfood ist teuer.
+The so-called superfood is expensive.",Abbreviation: sog. Written as one word. Nov 18.
+sogleich,Adverb – time (when),—,New,at once (formal),X,X,"Ich komme sogleich.
+I will come at once.","Er rief sogleich an.
+He called at once.","Sogleich begann der Film.
+At once the film began.","Formal. Adverbs list, Nov 14."
+solange,Conjunction – subordinating,Verb at the end,New,as long as,X,X,"Solange es regnet, bleiben wir drinnen.
+As long as it rains, we stay inside.","Ich bleibe, solange du willst.
+I stay as long as you want.","Solange du lernst, helfe ich dir.
+As long as you study, I help you.","One word as a conjunction. Function: Temporal / Konditional. Connectors list, Nov 14."
+somit,Connector – adverb,"Position 1, then verb 2nd",New,"thus, hence",X,X,"Die Kosten sind gesunken, somit steigt der Gewinn.
+Costs have fallen, thus profit rises.","Somit ist alles klar.
+Thus everything is clear.","Er hat bestanden, somit darf er weitermachen.
+He has passed, thus he may continue.","Formal; conclusion. Function: Konsekutiv. Connectors list, Nov 14."
+sooft,Conjunction – subordinating,Verb at the end,New,"whenever, as often as",X,X,"Sooft ich ihn sehe, lächelt er.
+Whenever I see him, he smiles.","Ruf an, sooft du willst.
+Call as often as you want.","Sooft sie kommt, bringt sie Kuchen mit.
+Whenever she comes, she brings cake.","Rare; like immer wenn. Function: Temporal. Connectors list, Nov 14."
+sorgfältig,Adverb – manner (how),—,New,"carefully, thoroughly",X,nachlässig,"Bitte lesen Sie sorgfältig.
+Please read carefully.","Er arbeitet sorgfältig.
+He works thoroughly.","Das wurde sorgfältig geprüft.
+That was checked thoroughly.","Opposite: nachlässig. Adverbs list, Nov 14."
+soweit,Conjunction – subordinating,Verb at the end,New,"as far as, insofar as",X,X,"Soweit ich weiß, ist er krank.
+As far as I know, he is ill.","Ich helfe, soweit ich kann.
+I help as far as I can.","Soweit ich sehe, ist alles in Ordnung.
+As far as I can see, everything is fine.","Often with ich weiß / ich kann. Function: Konditional / Modal. Connectors list, Nov 14."
+sowie,Conjunction – coordinating,Position 0 (verb stays 2nd),New,as well as,X,X,"Wir verkaufen Brot sowie Kuchen.
+We sell bread as well as cake.","Er spricht Deutsch sowie Englisch.
+He speaks German as well as English.","Wir bieten Kurse sowie Workshops an.
+We offer courses as well as workshops.","Formal; links items. Function: Additiv. Connectors list, Nov 14."
+sowohl … als auch,Conjunction – two-part,—,New,both … and,X,X,"Er spricht sowohl Deutsch als auch Englisch.
+He speaks both German and English.","Sowohl Anna als auch Tom kommen.
+Both Anna and Tom come.","Sie ist sowohl freundlich als auch fleißig.
+She is both friendly and hard-working.","Verb agrees with plural. Function: Additiv. Connectors list, Nov 14."
+sozusagen,Adverb – sentence (speaker's view),—,New,so to speak,X,X,"Er ist sozusagen mein Chef.
+He is so to speak my boss.","Das ist sozusagen ein Wunder.
+That is so to speak a miracle.","Wir sind sozusagen Nachbarn.
+We are so to speak neighbours.","Spoken. Adverbs list, Nov 14."
+spät,Adverb – time (when),—,New,late,X,früh; also adjective,"Es ist schon spät.
+It is already late.","Wie spät ist es?
+What time is it?","Er kam spät nach Hause.
+He came home late.","Opposite: früh; also adjective. Adverbs list, Nov 14."
+speisen,Verb – regular,speist · speiste · hat gespeist,Learned,to dine (formal),"essen (eat), tafeln (feast)",fasten (fast),"Wir speisen heute im Restaurant.
+We are dining at the restaurant today.","Die Gäste speisen im Saal.
+The guests dine in the hall.","Man speist hier vorzüglich.
+One dines excellently here.","Formal. Nouns: die Speise, die Speisekarte. Nov 17."
+spenden,Verb – regular,spendet · spendete · hat gespendet,Learned,to donate,"stiften (endow), schenken (give), geben (give)",nehmen (take),"Ich spende Geld für die Umwelt.
+I donate money for the environment.","Die Firma spendet jedes Jahr 10.000 Euro.
+The company donates 10,000 euros every year.","Viele Menschen spenden Blut.
+Many people donate blood.","spenden an + Akk. Nouns: die Spende, der Spender. Also FV. Kapitel 14."
+spitze,Interjection – agree / reject / praise,—,New,"top, excellent",X,X,"Spitze, das ist toll!
+Top, that is great!","Spitze, du hast gewonnen!
+Excellent, you have won!","Das Essen war spitze.
+The food was excellent.","Spoken, slightly dated. Interjections list, Nov 14."
+sprich,Connector – adverb,"Position 1, then verb 2nd",New,in other words (spoken),X,X,"Wir treffen uns morgen, sprich Samstag.
+We meet tomorrow, that is Saturday.","Er arbeitet im Controlling, sprich bei den Zahlen.
+He works in controlling, that is with the numbers.","Wir fangen früh an, sprich um sieben.
+We start early, in other words at seven.","Colloquial; from sprechen. Function: Explikativ. Connectors list, Nov 14."
+stell dir vor,Interjection – filler / tag / opener,—,New,imagine,X,X,"Stell dir vor, ich habe gewonnen!
+Imagine, I won!","Stell dir vor, er hat gekündigt.
+Imagine, he has resigned.","Stell dir vor, was passiert ist.
+Imagine what happened.","Telling news. Interjections list, Nov 14."
+stets,Adverb – frequency / duration,—,New,always (formal),X,X,"Wir sind stets für Sie da.
+We are always there for you.","Er war stets freundlich.
+He was always friendly.","Stets zu Ihren Diensten.
+Always at your service.","Formal / in references. Adverbs list, Nov 14."
+stichhaltig,Adjective,—,New,"valid, sound (argument)","überzeugend (convincing), schlüssig (conclusive), triftig (cogent)","unhaltbar (untenable), fadenscheinig (flimsy)","Das Argument ist stichhaltig.
+The argument is valid.","Er hat keine stichhaltigen Beweise.
+He has no sound proof.","Die Begründung ist nicht stichhaltig.
+The reasoning is not sound.",Stich + haltig (holds up under a stab). Nov 18.
+stimmt,Interjection – agree / reject / praise,—,New,that is right,X,X,"Stimmt, das ist richtig.
+Right, that is correct.","Stimmt, morgen ist Feiertag.
+Right, tomorrow is a holiday.","Stimmt genau!
+Exactly right!","From verb stimmen. Interjections list, Nov 14."
+stopp,Interjection – appeal / warning,—,New,stop,X,X,"Stopp, nicht weitergehen!
+Stop, do not go further!","Stopp, das reicht!
+Stop, that is enough!","Stopp, ich muss etwas sagen.
+Stop, I must say something.","Also stop sign. Interjections list, Nov 14."
+super,Interjection – agree / reject / praise,—,New,"super, great",X,X,"Super, das freut mich!
+Great, I am pleased about that!","Super, das hast du gut gemacht.
+Super, you did that well.","Super, bis morgen!
+Great, see you tomorrow!","Spoken. Interjections list, Nov 14."
+tagelang,Adverb – time (when),—,New,for days,X,X,"Es regnete tagelang.
+It rained for days.","Er arbeitete tagelang ohne Pause.
+He worked for days without a break.","Sie sprach tagelang nicht.
+She did not speak for days.","Pattern -lang. Adverbs list, Nov 14."
+tagsüber,Adverb – time (when),—,New,during the day,X,nachts,"Tagsüber arbeite ich.
+During the day I work.","Tagsüber ist es hier ruhig.
+During the day it is quiet here.","Tagsüber bin ich nicht zu Hause.
+During the day I am not at home.","Opposite: nachts. Adverbs list, Nov 14."
+tatütata,Interjection – sound word,—,New,nee-naw (siren),X,X,"Tatütata, die Feuerwehr kommt!
+Nee-naw, the fire brigade is coming!","Tatütata, machte der Krankenwagen.
+Nee-naw, went the ambulance.","Tatütata, alle gehen zur Seite.
+Nee-naw, everyone steps aside.","Children's word for the siren. Interjections list, Nov 14."
+teils … teils,Conjunction – two-part,—,New,partly … partly,X,X,"Das Wetter war teils sonnig, teils regnerisch.
+The weather was partly sunny, partly rainy.","Es war teils gut, teils schlecht.
+It was partly good, partly bad.","Die Gäste kamen teils aus Berlin, teils aus Hamburg.
+The guests came partly from Berlin, partly from Hamburg.","Mixed. Function: Additiv. Connectors list, Nov 14."
+telefonisch,Adverb – manner (how),—,New,by phone,X,X,"Sie erreichen uns telefonisch.
+You can reach us by phone.","Bitte melden Sie sich telefonisch an.
+Please register by phone.","Er hat telefonisch abgesagt.
+He cancelled by phone.","Also: per Telefon. Adverbs list, Nov 14."
+thailändisch,Adjective,—,Learned,Thai,X,X,"Ich esse gern thailändisch.
+I like eating Thai.","Das Restaurant bietet thailändische Küche an.
+The restaurant offers Thai cuisine.","Thailändische Gerichte sind oft scharf.
+Thai dishes are often spicy.",Lower case. Person: der Thai / die Thailänderin. Kapitel 13 (Thai-Live). Nov 16.
+theoretisch,Adverb – sentence (speaker's view),—,New,theoretically,X,praktisch,"Theoretisch ist das möglich.
+Theoretically that is possible.","Theoretisch könnte ich kommen.
+Theoretically I could come.","Theoretisch stimmt das.
+Theoretically that is true.","Opposite: praktisch. Adverbs list, Nov 14."
+tick tack,Interjection – sound word,—,New,tick tock,X,X,"Tick tack, tickt die Uhr.
+Tick tock, goes the clock.","Tick tack, die Zeit läuft.
+Tick tock, time is running.","Tick tack, tick tack, machte die Uhr.
+Tick tock, tick tock, went the clock.","Also tick-tack. Interjections list, Nov 14."
+tja,Interjection – feeling / reaction,—,New,well (resigned),X,X,"Tja, das ist Pech.
+Well, that is bad luck.","Tja, da kann man nichts machen.
+Well, nothing can be done.","Tja, so ist das Leben.
+Well, that is life.","Resigned shrug. Interjections list, Nov 14."
+toi toi toi,Interjection – good wishes,—,New,good luck (knock on wood),X,X,"Toi, toi, toi für die Prüfung!
+Fingers crossed for the exam!","Toi toi toi, es wird klappen.
+Fingers crossed, it will work.","Toi, toi, toi für morgen!
+Good luck for tomorrow!","Spoken three times. Interjections list, Nov 14."
+top,Interjection – agree / reject / praise,—,New,"great, deal",X,X,"Top, das klappt!
+Great, that works!","Top, ich bin dabei.
+Great, I am in.","Top, vielen Dank!
+Great, thanks a lot!","Also topp. Interjections list, Nov 14."
+traditionell,Adjective,—,Learned,traditional,"herkömmlich (conventional), althergebracht (time-honoured), klassisch (classic)","modern (modern), neu (new)","Wir servieren traditionelle norddeutsche Küche.
+We serve traditional North German cuisine.","Das Rezept ist traditionell.
+The recipe is traditional.","Traditionell isst man hier Fisch.
+Traditionally people eat fish here.",Noun: die Tradition. Kapitel 13 (Fischerhütte). Nov 16.
+traumhaft,Adjective,—,New,"dreamlike, wonderful","wunderbar (wonderful), herrlich (glorious), märchenhaft (fabulous)","albtraumhaft (nightmarish), schrecklich (terrible)","Der Strand ist traumhaft.
+The beach is dreamlike.","Wir hatten traumhaftes Wetter.
+We had wonderful weather.","Das Hotel liegt traumhaft schön.
+The hotel is dreamily beautiful.",Traum + -haft. Nov 17.
+trotz,Preposition,+ Genitiv (spoken: Dativ),Learned,"despite, in spite of","ungeachtet (regardless of), trotz (despite)",wegen (because of),"Trotz des Regens gehen wir spazieren.
+Despite the rain we go for a walk.","Trotz der Kälte bleibt er draußen.
+Despite the cold he stays outside.","Er kommt trotz seiner Krankheit.
+He comes despite his illness.","Typed as ""in spite of"". Preposition (Genitiv): trotz des Regens. Not trotzdem (adverb). Nov 14."
+tschau / ciao,Interjection – greeting / farewell,—,New,bye,X,X,"Tschau, bis später!
+Bye, see you later!","Ciao, wir sehen uns.
+Ciao, we will see each other.","Tschau, alles Gute!
+Bye, all the best!","From Italian; informal. Interjections list, Nov 14."
+tschüss,Interjection – greeting / farewell,—,New,bye,X,X,"Tschüss, bis morgen!
+Bye, see you tomorrow!","Tschüss und gute Reise!
+Bye and have a good trip!","Tschüss, mach's gut!
+Bye, take care!","Informal; also tschüs. Interjections list, Nov 14."
+tut mir leid,Interjection – politeness,—,New,I am sorry,X,X,"Tut mir leid, ich bin zu spät.
+I am sorry, I am late.","Es tut mir leid, dass ich nicht kommen kann.
+I am sorry that I cannot come.","Tut mir leid, das wusste ich nicht.
+I am sorry, I did not know that.","Also: Das tut mir leid (condolence). Interjections list, Nov 14."
+überallhin,Adverb – direction,—,New,to everywhere,X,nirgendwohin,"Er folgt mir überallhin.
+He follows me everywhere.","Wir reisen überallhin.
+We travel everywhere.","Sie nimmt ihn überallhin mit.
+She takes him everywhere.","Opposite: nirgendwohin. Adverbs list, Nov 14."
+überaus,Adverb – degree (how much),—,New,exceedingly,X,X,"Das Essen war überaus gut.
+The food was exceedingly good.","Er ist überaus freundlich.
+He is exceedingly friendly.","Wir sind überaus dankbar.
+We are exceedingly grateful.","Formal. Adverbs list, Nov 14."
+überdies,Connector – adverb,"Position 1, then verb 2nd",New,"moreover, besides",X,X,"Überdies ist er pünktlich.
+Moreover he is punctual.","Das Angebot ist günstig, überdies bekommt man Rabatt.
+The offer is cheap, moreover you get a discount.","Überdies hat sie viel Erfahrung.
+Moreover she has a lot of experience.","Formal. Function: Additiv. Connectors list, Nov 14."
+übereinander,Adverb – reciprocal,—,New,"on top of each other, about each other",X,X,"Die Bücher liegen übereinander.
+The books lie on top of each other.","Wir sprechen nie schlecht übereinander.
+We never speak badly about each other.","Sie stapelten die Kisten übereinander.
+They stacked the boxes on top of each other.","Verbs with über: sprechen über. Adverbs list, Nov 14."
+überhaupt nicht,Adverb – degree (how much),—,New,not at all,X,X,"Das stört mich überhaupt nicht.
+That does not disturb me at all.","Er versteht überhaupt nichts.
+He understands nothing at all.","Ich habe überhaupt keine Zeit.
+I have no time at all.","Strong negation. Adverbs list, Nov 14."
+übermorgen,Adverb – time (when),—,New,the day after tomorrow,X,vorgestern,"Übermorgen fliege ich nach Hause.
+The day after tomorrow I fly home.","Wir treffen uns übermorgen.
+We meet the day after tomorrow.","Übermorgen ist Montag.
+The day after tomorrow is Monday.","Opposite: vorgestern. Adverbs list, Nov 14."
+überwiegend,Adverb – manner (how),—,New,predominantly,X,X,"Die Gäste sind überwiegend jung.
+The guests are predominantly young.","Es war überwiegend ruhig.
+It was predominantly quiet.","Überwiegend regnet es im Herbst.
+Predominantly it rains in autumn.","Also verb überwiegen. Adverbs list, Nov 14."
+übrigens,Connector – adverb,"Position 1, then verb 2nd",New,by the way,X,X,"Übrigens, morgen ist kein Unterricht.
+By the way, tomorrow there is no class.","Er kommt übrigens auch.
+He is also coming, by the way.","Übrigens, hast du schon gegessen?
+By the way, have you eaten yet?","Introduces an aside. Function: Gewichtung. Connectors list, Nov 14."
+uff,Interjection – feeling / reaction,—,New,"phew, ugh",X,X,"Uff, das war anstrengend.
+Phew, that was exhausting.","Uff, ist das heiß heute.
+Ugh, it is hot today.","Uff, endlich geschafft.
+Phew, finally done.","Exhaustion or relief. Interjections list, Nov 14."
+uhu,Interjection – animal sound,—,New,hoo (owl),X,X,"Uhu, uhu, ruft die Eule.
+Hoo, hoo, calls the owl.","Der Uhu sagt uhu.
+The eagle owl says hoo.","Uhu, hörte man im Wald.
+Hoo, you could hear in the forest.","Also noun: der Uhu (eagle owl). Interjections list, Nov 14."
+um … willen,Preposition,Genitiv (circumfix),New,for the sake of,X,X,"Um des Friedens willen gebe ich nach.
+For the sake of peace I give in.","Um deinetwillen bin ich gekommen.
+For your sake I came.","Um der Kinder willen bleiben sie zusammen.
+For the sake of the children they stay together.","Fixed circumfix. Function: Final. Connectors list, Nov 14."
+um … zu,Conjunction – infinitive,Infinitive at the end with zu,New,in order to,X,X,"Ich lerne, um die Prüfung zu bestehen.
+I study in order to pass the exam.","Er spart Geld, um ein Auto zu kaufen.
+He saves money in order to buy a car.","Sie spart, um ein Auto zu kaufen.
+She saves in order to buy a car.","Same subject in both clauses. Function: Final. Connectors list, Nov 14."
+um Gottes willen,Interjection – feeling / reaction,—,New,for heaven's sake,X,X,"Um Gottes willen, was ist passiert?
+For heaven's sake, what happened?","Um Gottes willen, nicht!
+For heaven's sake, no!","Um Gottes willen, das darfst du nicht tun.
+For heaven's sake, you must not do that.","Alarm. Interjections list, Nov 14."
+umgehend,Adverb – time (when),—,New,immediately,X,X,"Wir melden uns umgehend.
+We will get back to you immediately.","Bitte zahlen Sie umgehend.
+Please pay immediately.","Das muss umgehend geschehen.
+That must happen immediately.","Business German. Adverbs list, Nov 14."
+umher,Adverb – direction,—,New,"around, about",X,X,"Er lief ziellos umher.
+He wandered around aimlessly.","Die Kinder rannten umher.
+The children ran about.","Sie sah sich umher.
+She looked around.","Often with Verben: umherlaufen. Adverbs list, Nov 14."
+umsonst,Adverb – manner (how),—,New,for free; in vain,X,X,"Das Essen war umsonst.
+The meal was free.","Ich habe umsonst gewartet.
+I waited in vain.","Nichts ist umsonst.
+Nothing is free.","Two meanings; also vergebens. Adverbs list, Nov 14."
+unbeliebt,Adjective,—,New,unpopular,"verhasst (hated), ungeliebt (unloved)","beliebt (popular), gefragt (in demand)","Der Chef ist unbeliebt.
+The boss is unpopular.","Das Fach ist bei Schülern unbeliebt.
+The subject is unpopular with pupils.","Unbeliebt macht man sich mit Lärm.
+You make yourself unpopular with noise.",un- + beliebt. Nov 17.
+unbewusst,Adjective / adverb,—,New,"unconscious, subconscious","unterbewusst (subconscious), instinktiv (instinctive)",bewusst (conscious),"Sie macht das unbewusst.
+She does that unconsciously.","Unbewusst esse ich zu viel.
+Unconsciously I eat too much.","Das war eine unbewusste Reaktion.
+That was an unconscious reaction.",Not bewusstlos (unconscious as in fainted). Nov 16.
+und,Conjunction – coordinating,Position 0 (verb stays 2nd),New,and,X,X,"Ich lerne Deutsch und ich arbeite.
+I learn German and I work.","Sie kocht, und er putzt.
+She cooks and he cleans.","Sie trinkt Tee und isst Kuchen.
+She drinks tea and eats cake.","Most basic connector. Function: Additiv. Connectors list, Nov 14."
+und zwar,Connector – adverb,"Position 1, then verb 2nd",New,"namely, to be precise",X,X,"Ich fahre nach Hamburg, und zwar morgen.
+I go to Hamburg, namely tomorrow.","Er kommt, und zwar mit dem Zug.
+He comes, by train to be precise.","Ich komme, und zwar pünktlich.
+I will come, and to be precise on time.","Adds precision. Function: Explikativ. Connectors list, Nov 14."
+ungefährlich,Adjective,—,New,"harmless, not dangerous","harmlos (harmless), sicher (safe), risikolos (risk-free)","gefährlich (dangerous), riskant (risky)","Das Medikament ist ungefährlich.
+The medicine is harmless.","Der Hund ist ungefährlich.
+The dog is harmless.","Die Aktivität ist ungefährlich für Kinder.
+The activity is harmless for children.",un- + gefährlich. Nov 16.
+ungemein,Adverb – degree (how much),—,New,immensely,X,X,"Das ist ungemein wichtig.
+That is immensely important.","Er ist ungemein klug.
+He is immensely clever.","Sie war ungemein froh.
+She was immensely happy.","Formal. Adverbs list, Nov 14."
+ungenießbar,Adjective,—,New,"inedible, unpalatable; unbearable","nicht essbar (not edible), verdorben (spoiled), unausstehlich (unbearable)","genießbar (edible), essbar (edible)","Die Milch ist ungenießbar.
+The milk is inedible.","Er ist heute ungenießbar.
+He is unbearable today.","Diese Pilze sind ungenießbar.
+These mushrooms are inedible.",Colloquial: ungenießbar = in a bad mood. Nov 17.
+ungern,Adverb,—,New,"reluctantly, not like to","widerwillig (reluctantly), nur ungern (only reluctantly)",gern (gladly),"Ich stehe ungern früh auf.
+I don't like getting up early.","Er hilft nur ungern.
+He helps only reluctantly.","Ungern verlasse ich das Haus.
+I leave the house reluctantly.","un- + gern. Family of gern: gern, lieber, am liebsten, ungern. Nov 17."
+ungewöhnlich,Adjective,—,Learned,unusual,"außergewöhnlich (extraordinary), seltsam (strange), selten (rare)","gewöhnlich (usual), normal (normal)","Das Restaurant bietet ungewöhnliche Gewürze an.
+The restaurant offers unusual spices.","Das ist ungewöhnlich für diese Jahreszeit.
+That is unusual for this time of year.","Ein ungewöhnlicher Name!
+An unusual name!",Opposite: gewöhnlich = usual. Kapitel 13 (Street Food Festival). Nov 17.
+ungewohnt,Adjective,—,New,"unfamiliar, unaccustomed","fremd (strange), neu (new)","gewohnt (familiar), vertraut (familiar)","Das Essen ist für mich ungewohnt.
+The food is unfamiliar to me.","Es ist ein ungewohntes Gefühl.
+It is an unfamiliar feeling.","Früh aufzustehen ist ungewohnt.
+Getting up early is unaccustomed.",ungewohnt = unfamiliar; ungewöhnlich = unusual. Nov 17.
+unkonzentriert,Adjective / adverb,—,Learned,"unfocused, not concentrating","abgelenkt (distracted), zerstreut (absent-minded)","konzentriert (focused), aufmerksam (attentive)","Ich bin heute unkonzentriert.
+I am unfocused today.","Er arbeitet unkonzentriert.
+He works without focus.","Nach dem Essen sind alle unkonzentriert.
+After the meal everyone is unfocused.",un- + konzentriert. Noun: die Konzentration. Nov 17.
+unregelmäßig,Adverb – frequency / duration,—,New,irregularly,X,X,"Er kommt unregelmäßig.
+He comes irregularly.","Der Bus fährt unregelmäßig.
+The bus runs irregularly.","Ich esse unregelmäßig.
+I eat irregularly.","Also: unregelmäßige Verben. Adverbs list, Nov 14."
+unreif,Adjective,—,New,unripe; immature,"grün (green, unripe), kindisch (childish)","reif (ripe), erwachsen (mature)","Die Banane ist noch unreif.
+The banana is still unripe.","Das war ein unreifes Verhalten.
+That was immature behaviour.","Die Früchte sind unreif und sauer.
+The fruits are unripe and sour.",un- + reif. Noun: die Unreife. Nov 18.
+unsinn,Interjection – agree / reject / praise,—,New,nonsense,X,X,"Unsinn, das glaube ich nicht.
+Nonsense, I do not believe that.","Das ist doch Unsinn!
+That is nonsense!","Unsinn, du bist nicht zu alt.
+Nonsense, you are not too old.","Also noun: der Unsinn. Interjections list, Nov 14."
+unten,Adverb – place (where),—,New,"below, downstairs",X,oben,"Unten wartet das Taxi.
+The taxi is waiting downstairs.","Die Küche ist unten.
+The kitchen is downstairs.","Siehe unten.
+See below.","Opposite: oben. Direction: hinunter / nach unten. Adverbs list, Nov 14."
+"unter der Bedingung, dass",Conjunction – subordinating,Verb at the end,New,on condition that,X,X,"Ich helfe dir unter der Bedingung, dass du pünktlich bist.
+I help you on condition that you are punctual.","Er unterschreibt unter der Bedingung, dass alles stimmt.
+He signs on condition that everything is right.","Ich zahle, unter der Bedingung, dass du kochst.
+I pay on condition that you cook.","Formal; contracts. Function: Konditional. Connectors list, Nov 14."
+"unter der Voraussetzung, dass",Connector phrase,dass: verb at end,New,on the condition that,X,X,"Unter der Voraussetzung, dass du hilfst, mache ich es.
+On the condition that you help, I do it.","Unter der Voraussetzung, dass es klappt, kaufen wir.
+On the condition that it works, we buy.","Unter der Voraussetzung, dass du zahlst, komme ich mit.
+On the condition that you pay, I come along.","Formal. Function: Konditional. Connectors list, Nov 14."
+unter diesen Umständen,Connector phrase,—,New,under these circumstances,X,X,"Unter diesen Umständen sagen wir ab.
+Under these circumstances we cancel.","Unter diesen Umständen kann ich nicht kommen.
+Under these circumstances I cannot come.","Unter diesen Umständen fahren wir nicht.
+Under these circumstances we do not go.","Phrase. Function: Konsekutiv. Connectors list, Nov 14."
+unterdessen,Connector – adverb,"Position 1, then verb 2nd",New,in the meantime,X,X,"Unterdessen warten wir.
+In the meantime we wait.","Er arbeitete, unterdessen schlief sie.
+He worked, meanwhile she slept.","Wir warten. Unterdessen kommt der Bus.
+We wait. Meanwhile the bus comes.","Formal. Function: Temporal. Connectors list, Nov 14."
+untereinander,Adverb – reciprocal,—,New,among themselves,X,X,"Das regeln sie untereinander.
+They sort that out among themselves.","Die Kollegen helfen sich untereinander.
+The colleagues help each other.","Schreibe die Wörter untereinander.
+Write the words one below the other.","- Adverbs list, Nov 14."
+ununterbrochen,Adverb – frequency / duration,—,New,without a break,X,X,"Es regnet ununterbrochen.
+It rains without stopping.","Er redet ununterbrochen.
+He talks without a break.","Sie arbeitet ununterbrochen.
+She works non-stop.","Synonym: pausenlos. Adverbs list, Nov 14."
+unverzüglich,Adverb – time (when),—,New,"immediately, without delay",X,X,"Bitte antworten Sie unverzüglich.
+Please reply without delay.","Er meldete sich unverzüglich.
+He reported immediately.","Der Schaden ist unverzüglich zu melden.
+The damage must be reported immediately.","Formal; legal German. Adverbs list, Nov 14."
+ups,Interjection – feeling / reaction,—,New,oops,X,X,"Ups, ich habe das Glas fallen lassen.
+Oops, I dropped the glass.","Ups, falsche Tür!
+Oops, wrong door!","Ups, das wollte ich nicht.
+Oops, I did not want that.","Spoken, light. Interjections list, Nov 14."
+verdammt,Interjection – mild curse / exclamation,—,New,damn,X,X,"Verdammt, das tut weh!
+Damn, that hurts!","Verdammt, ich bin zu spät!
+Damn, I am late!","Verdammt noch mal!
+Damn it!","Stronger than Mist; also adjective. Interjections list, Nov 14."
+verflixt,Interjection – mild curse / exclamation,—,New,darn,X,X,"Verflixt, schon wieder!
+Darn, again!","Verflixt, ich habe den Schlüssel vergessen.
+Darn, I forgot the key.","Verflixt noch mal!
+Darn it!","Mild, old-fashioned. Interjections list, Nov 14."
+verflucht,Interjection – mild curse / exclamation,—,New,damn it,X,X,"Verflucht, es klappt nicht!
+Damn it, it does not work!","Verflucht, schon wieder ein Fehler.
+Damn it, another mistake.","Verflucht und zugenäht!
+Damn it all!","Strong. Interjections list, Nov 14."
+vergebens,Adverb – manner (how),—,New,in vain,X,X,"Er hat vergebens gewartet.
+He waited in vain.","Alle Mühe war vergebens.
+All effort was in vain.","Er suchte vergebens.
+He searched in vain.","Synonym: vergeblich. Adverbs list, Nov 14."
+vergeblich,Adverb – manner (how),—,New,"in vain, futile",X,X,"Er versuchte es vergeblich.
+He tried it in vain.","Sein Versuch war vergeblich.
+His attempt was futile.","Vergeblich suchte er nach Arbeit.
+In vain he searched for work.","Also adjective. Adverbs list, Nov 14."
+verhältnismäßig,Adverb – degree (how much),—,New,relatively,X,X,"Das Auto ist verhältnismäßig günstig.
+The car is relatively cheap.","Es war verhältnismäßig ruhig.
+It was relatively quiet.","Er ist verhältnismäßig jung.
+He is relatively young.","Formal. Adverbs list, Nov 14."
+verhasst,Adjective,—,New,hated,"verabscheut (detested), unbeliebt (unpopular)","geliebt (loved), beliebt (popular)","Der Chef ist bei allen verhasst.
+The boss is hated by everyone.","Das ist mir verhasst.
+I hate that.","Montage sind verhasst.
+Mondays are hated.",Partizip II of verhassen used as adjective. Nov 17.
+versehentlich,Adverb – manner (how),—,New,by mistake,X,absichtlich,"Ich habe es versehentlich gelöscht.
+I deleted it by mistake.","Er nahm versehentlich meinen Schirm.
+He took my umbrella by mistake.","Versehentlich wurde die Tür offen gelassen.
+By mistake the door was left open.","Opposite: absichtlich. Adverbs list, Nov 14."
+verzeihung,Interjection – politeness,—,New,"pardon, excuse me",X,X,"Verzeihung, ist hier noch frei?
+Excuse me, is this still free?","Verzeihung, ich habe Sie nicht gesehen.
+Pardon, I did not see you.","Verzeihung, wie spät ist es?
+Excuse me, what time is it?","Apology and attention. Interjections list, Nov 14."
+viel Erfolg,Interjection – good wishes,—,New,"good luck, much success",X,X,"Viel Erfolg im neuen Job!
+Good luck in the new job!","Viel Erfolg beim Lernen!
+Good luck with studying!","Viel Erfolg bei der Präsentation.
+Good luck with the presentation.","Formal. Interjections list, Nov 14."
+viel Glück,Interjection – good wishes,—,New,good luck,X,X,"Viel Glück bei der Prüfung!
+Good luck with the exam!","Viel Glück für das Interview!
+Good luck for the interview!","Viel Glück und viel Erfolg!
+Good luck and success!","Also viel Erfolg. Interjections list, Nov 14."
+viel Spaß,Interjection – good wishes,—,New,have fun,X,X,"Viel Spaß im Urlaub!
+Have fun on holiday!","Viel Spaß beim Konzert!
+Have fun at the concert!","Viel Spaß und bis später!
+Have fun and see you later!","Informal. Interjections list, Nov 14."
+viele,Pronoun – indefinite,viele (plural),New,many,"zahlreiche (numerous), eine Menge (a lot)",wenige (few),"Viele mögen Pizza.
+Many people like pizza.","Es kamen viele Gäste.
+Many guests came.","Viele von uns sprechen drei Sprachen.
+Many of us speak three languages.","Plural; with noun: viele Möglichkeiten. Indefinite pronouns list, Nov 17."
+vieles,Pronoun – indefinite,vieles,New,"many things, much","viel (a lot), eine Menge (a lot)",weniges (few things),"Vieles ist anders.
+Many things are different.","Ich habe vieles vergessen.
+I have forgotten many things.","Vieles gefällt mir hier.
+I like many things here.","Singular form. Indefinite pronouns list, Nov 17."
+vielmehr,Connector – adverb,"Position 1, then verb 2nd",New,"rather, on the contrary",X,X,"Er war nicht müde, vielmehr war er wütend.
+He was not tired, rather he was angry.","Das ist kein Fehler, vielmehr ein Vorteil.
+That is no mistake, rather an advantage.","Das ist kein Fehler, vielmehr ein Vorteil.
+That is not a mistake, rather an advantage.","After negation, like sondern. Function: Adversativ. Connectors list, Nov 14."
+völlig,Adverb – degree (how much),—,New,completely,X,X,"Ich bin völlig erschöpft.
+I am completely exhausted.","Das ist völlig falsch.
+That is completely wrong.","Er war völlig überrascht.
+He was completely surprised.","Synonym: ganz, vollkommen. Adverbs list, Nov 14."
+vom Markt,Adverb phrase,von + Dativ,Learned,from the market,X,X,"Der Fisch kommt frisch vom Markt.
+The fish comes fresh from the market.","Ich bringe Gemüse vom Markt mit.
+I bring vegetables from the market.","Das Obst ist vom Markt.
+The fruit is from the market.",vom = von dem. Kapitel 13 (Fischerhütte).
+voneinander,Adverb – reciprocal,—,New,from / of each other,X,X,"Wir lernen voneinander.
+We learn from each other.","Sie wissen nichts voneinander.
+They know nothing about each other.","Die Städte sind weit voneinander entfernt.
+The cities are far apart from each other.","Verbs with von. Adverbs list, Nov 14."
+vor diesem Hintergrund,Connector phrase,—,New,against this background,X,X,"Vor diesem Hintergrund ist die Entscheidung klar.
+Against this background the decision is clear.","Vor diesem Hintergrund müssen wir sparen.
+Against this background we must save.","Vor diesem Hintergrund verstehe ich ihn.
+Against this background I understand him.","Formal. Function: Konsekutiv. Connectors list, Nov 14."
+vor Kurzem,Adverb – time (when),—,New,a short time ago,X,X,"Ich habe vor Kurzem angefangen.
+I started a short time ago.","Vor Kurzem war ich krank.
+A short time ago I was ill.","Das ist erst vor Kurzem passiert.
+That only happened a short time ago.","Also vor kurzem. Adverbs list, Nov 14."
+vorab,Adverb – time (when),—,New,in advance,X,X,"Bitte senden Sie die Unterlagen vorab.
+Please send the documents in advance.","Ich informiere dich vorab.
+I will inform you in advance.","Vorab vielen Dank!
+Many thanks in advance!","Emails; synonym: im Voraus. Adverbs list, Nov 14."
+voran,Adverb – direction,—,New,"ahead, forward",X,X,"Gehen Sie voran!
+Go ahead!","Das Projekt kommt gut voran.
+The project is making good progress.","Der Hund lief voran.
+The dog ran ahead.","Often with kommen / gehen. Adverbs list, Nov 14."
+voraus,Adverb – direction,—,New,ahead,X,X,"Er ist uns weit voraus.
+He is far ahead of us.","Im Voraus bezahlen.
+Pay in advance.","Ich gehe schon mal voraus.
+I will go ahead.","Also: im Voraus. Adverbs list, Nov 14."
+"vorausgesetzt, (dass)",Conjunction – subordinating,Verb am Ende (with dass),New,provided that,X,X,"Ich komme, vorausgesetzt, dass ich Zeit habe.
+I come provided that I have time.","Wir starten, vorausgesetzt, es regnet nicht.
+We start provided it does not rain.","Wir gehen wandern, vorausgesetzt, dass es nicht regnet.
+We go hiking, provided it does not rain.","Without dass the verb is 2nd. Function: Konditional. Connectors list, Nov 14."
+vorerst,Adverb – time (when),—,New,for now,X,X,"Vorerst bleiben wir hier.
+For now we stay here.","Das Problem ist vorerst gelöst.
+The problem is solved for now.","Vorerst gibt es keine Änderung.
+For now there is no change.","Synonym: fürs Erste. Adverbs list, Nov 14."
+vorgestern,Adverb,—,Learned,the day before yesterday,X,übermorgen (the day after tomorrow),"Vorgestern habe ich die Wäsche gewaschen.
+The day before yesterday I did the laundry.","Das war vorgestern.
+That was the day before yesterday.","Ich habe ihn vorgestern gesehen.
+I saw him the day before yesterday.",Order: vorgestern - gestern - heute - morgen - übermorgen. Nov 16.
+vorher,Connector – adverb,"Position 1, then verb 2nd",New,beforehand,X,X,"Vorher ruf ich an.
+Beforehand I call.","Ich esse, vorher dusche ich.
+I eat, before that I shower.","Vorher möchte ich noch duschen.
+Beforehand I would like to shower.","Spoken. Function: Temporal. Connectors list, Nov 14."
+vorhin,Adverb – time (when),—,New,a while ago (today),X,X,"Vorhin hat er angerufen.
+He called a while ago.","Ich habe vorhin gegessen.
+I ate a little while ago.","Wie ich vorhin sagte...
+As I said earlier...","Same day only. Adverbs list, Nov 14."
+vorläufig,Adverb – time (when),—,New,"provisional, for now",X,X,"Das ist nur vorläufig.
+That is only provisional.","Vorläufig bleibt alles beim Alten.
+For now everything stays as it is.","Vorläufig gilt der alte Plan.
+For now the old plan applies.","Also adjective. Adverbs list, Nov 14."
+vormittags,Adverb – time (when),—,New,in the morning (till noon),X,X,"Vormittags habe ich Unterricht.
+In the morning I have class.","Vormittags ist das Büro offen.
+In the morning the office is open.","Sie arbeitet nur vormittags.
+She works only in the mornings.","Before noon. Adverbs list, Nov 14."
+vorn / vorne,Adverb – place (where),—,New,"in front, at the front",X,hinten,"Vorne sind noch Plätze frei.
+There are still seats free at the front.","Ich sitze gern vorne.
+I like to sit at the front.","Der Eingang ist vorne.
+The entrance is at the front.","Opposite: hinten. Adverbs list, Nov 14."
+vorsicht,Interjection – appeal / warning,—,New,careful,X,X,"Vorsicht, heiß!
+Careful, hot!","Vorsicht, Glatteis!
+Careful, black ice!","Vorsicht bei der Abfahrt!
+Careful at departure!","Also: Vorsicht ist besser als Nachsicht. Interjections list, Nov 14."
+vorsichtshalber,Adverb – manner (how),—,New,as a precaution,X,X,"Ich habe vorsichtshalber gespart.
+I saved as a precaution.","Er blieb vorsichtshalber zu Hause.
+He stayed home as a precaution.","Vorsichtshalber nehme ich eine Jacke mit.
+As a precaution I take a jacket.","Pattern -halber. Adverbs list, Nov 14."
+vorüber,Adverb – direction,—,New,"past, over",X,X,"Der Sturm ist vorüber.
+The storm is over.","Sie gingen vorüber.
+They walked past.","Die schwere Zeit ist vorüber.
+The hard time is over.","Formal; same as vorbei. Adverbs list, Nov 14."
+vorübergehend,Adverb – frequency / duration,—,New,temporarily,X,dauerhaft,"Das Büro ist vorübergehend geschlossen.
+The office is temporarily closed.","Er wohnt vorübergehend bei Freunden.
+He lives temporarily with friends.","Die Straße ist vorübergehend gesperrt.
+The road is temporarily closed.","Opposite: dauerhaft. Adverbs list, Nov 14."
+vorwärts,Adverb – direction,—,New,forwards,X,rückwärts,"Er ging einen Schritt vorwärts.
+He took a step forwards.","Es geht nur vorwärts.
+It only goes forwards.","Vorwärts, wir müssen los!
+Forward, we must go!","Opposite: rückwärts. Adverbs list, Nov 14."
+vorwiegend,Adverb – manner (how),—,New,predominantly,X,X,"Das Wetter ist vorwiegend sonnig.
+The weather is predominantly sunny.","Er isst vorwiegend Gemüse.
+He eats predominantly vegetables.","Hier wohnen vorwiegend Studenten.
+Predominantly students live here.","Synonym: überwiegend. Adverbs list, Nov 14."
+vorzeitig,Adverb – time (when),—,New,"early, prematurely",X,X,"Er ging vorzeitig nach Hause.
+He went home early.","Der Vertrag wurde vorzeitig beendet.
+The contract was ended early.","Vorzeitig ausgezahlt.
+Paid out early.","Finance / contracts. Adverbs list, Nov 14."
+Wahnsinn,Interjection,—,New,"wow, crazy","krass (crazy), Hammer (wow)",X,"Wahnsinn!
+Crazy!","Wahnsinn, wie viele Leute da sind!
+Wow, how many people are there!","Das ist doch Wahnsinn.
+That is just madness.","Noun: der Wahnsinn = madness. Colloquial list, Nov 18."
+währenddessen,Connector – adverb,"Position 1, then verb 2nd",New,meanwhile,X,X,"Ich koche. Währenddessen liest er.
+I cook. Meanwhile he reads.","Währenddessen regnete es.
+Meanwhile it rained.","Er telefoniert. Währenddessen koche ich.
+He is on the phone. Meanwhile I cook.","Synonym: unterdessen. Function: Temporal. Connectors list, Nov 14."
+wann,Adverb – interrogative,—,New,when,X,X,"Wann kommst du?
+When are you coming?","Wann hast du Zeit?
+When do you have time?","Wann beginnt der Kurs?
+When does the course begin?","Not wenn / als. Adverbs list, Nov 14."
+warum,Adverb – interrogative,—,New,why,X,X,"Warum kommst du nicht?
+Why are you not coming?","Warum lernst du Deutsch?
+Why do you learn German?","Warum nicht?
+Why not?","Answer: weil / deshalb. Adverbs list, Nov 14."
+was,Pronoun – indefinite,was (colloquial),New,something (colloquial),etwas (something),nichts (nothing),"Ich habe was für dich.
+I have something for you.","Hast du was gesagt?
+Did you say something?","Da stimmt was nicht.
+Something is not right there.","Spoken for etwas. Also question word (Was ist das?). Indefinite pronouns list, Nov 17."
+was … betrifft,Connector phrase,Verb at end,New,"as for, concerning",X,X,"Was mich betrifft, ich komme mit.
+As for me, I come along.","Was das Geld betrifft, haben wir kein Problem.
+As for the money we have no problem.","Was das Essen betrifft, bin ich flexibel.
+As for the food, I am flexible.","Phrase. Function: Referenz. Connectors list, Nov 14."
+wau wau / wuff,Interjection – animal sound,—,New,woof (dog),X,X,"Wau wau, bellte der Hund.
+Woof woof, barked the dog.","Wuff, wuff, machte der Hund.
+Woof, woof, went the dog.","Der Hund sagt wuff.
+The dog says woof.","Verb bellen. Interjections list, Nov 14."
+weder … noch,Conjunction – two-part,—,New,neither … nor,X,X,"Ich mag weder Fisch noch Fleisch.
+I like neither fish nor meat.","Er hat weder Zeit noch Geld.
+He has neither time nor money.","Er hat weder Zeit noch Lust.
+He has neither time nor desire.","No extra nicht/kein. Function: Additiv (negativ). Connectors list, Nov 14."
+wegen,Preposition,Genitiv (spoken: Dativ),New,because of,X,X,"Wegen des Regens bleiben wir zu Hause.
+Because of the rain we stay home.","Wegen dir komme ich zu spät.
+Because of you I am late.","Wegen der Kälte bleiben wir drinnen.
+Because of the cold we stay inside.","Spoken often with Dativ. Function: Kausal. Connectors list, Nov 14."
+weißt du,Interjection – filler / tag / opener,—,New,you know,X,X,"Weißt du, ich bin müde.
+You know, I am tired.","Weißt du, das ist nicht einfach.
+You know, that is not easy.","Es ist, weißt du, kompliziert.
+It is, you know, complicated.","Filler. Interjections list, Nov 14."
+weitaus,Adverb – degree (how much),—,New,by far,X,X,"Das ist weitaus besser.
+That is by far better.","Er ist weitaus älter.
+He is much older.","Sie verdient weitaus mehr.
+She earns far more.","With comparatives. Adverbs list, Nov 14."
+welch-,Determiner,welcher · welche · welches · welche,Learned,which (question word),was für ein (what kind of),X,"Welcher Wein schmeckt gut?
+Which wine tastes good?","Welchen Tee möchten Sie?
+Which tea would you like?","Welches Eis nehmen Sie?
+Which ice cream do you take?",Endings like der/die/das. Only masculine changes in the Akkusativ (welchen). Answered with dies-. Kapitel 13 (p.93). Nov 18.
+welche,Pronoun – indefinite,"welche (plural), welches (singular)",New,some (partitive),"einige (some), ein paar (a few)",keine (none),"Haben Sie Äpfel? Ich nehme welche.
+Do you have apples? I will take some.","Ich habe keine Eier, hast du welche?
+I have no eggs, do you have some?","Brauchst du Brot? Ich habe welches.
+Do you need bread? I have some.","Partitive use without a noun. Indefinite pronouns list, Nov 17."
+wenige,Pronoun – indefinite,wenige (plural),New,few,kaum jemand (hardly anyone),viele (many),"Wenige kennen das.
+Few know that.","Nur wenige Gäste kamen.
+Only few guests came.","Wenige haben Zeit.
+Few have time.","Plural. ein paar = a few. Indefinite pronouns list, Nov 17."
+weniges,Pronoun – indefinite,weniges,New,"few things, little",X,vieles (many things),"Weniges ist kostenlos.
+Few things are free.","Ich weiß nur weniges darüber.
+I only know little about it.","Weniges blieb übrig.
+Little was left over.","Rare. Indefinite pronouns list, Nov 17."
+wenn … dann,Conjunction – two-part,wenn: verb at end; dann: verb 2nd,New,if … then,X,X,"Wenn es regnet, dann bleibe ich zu Hause.
+If it rains, then I stay home.","Wenn du willst, dann komme ich mit.
+If you want, then I will come along.","Wenn du Hunger hast, dann iss etwas.
+If you are hungry, then eat something.","dann can be omitted. Function: Konditional. Connectors list, Nov 14."
+wenn auch,Conjunction – subordinating,Verb at the end,New,"even if, although",X,X,"Er ist nett, wenn auch etwas schüchtern.
+He is nice, if a bit shy.","Wir fahren, wenn auch ungern.
+We go, although reluctantly.","Das Essen war gut, wenn auch teuer.
+The food was good, if expensive.","Often followed by a short phrase, not a full clause. Function: Konzessiv. Connectors list, Nov 14."
+wenngleich,Conjunction – subordinating,Verb at the end,New,"even though, albeit",X,X,"Das Wetter ist schön, wenngleich es kalt ist.
+The weather is nice, albeit cold.","Wenngleich er jung ist, hat er viel Erfahrung.
+Even though he is young, he has a lot of experience.","Er hilft gern, wenngleich er wenig Zeit hat.
+He likes helping, even though he has little time.","Formal; same as obwohl. Function: Konzessiv. Connectors list, Nov 14."
+wer,Pronoun – indefinite,wer (colloquial),New,somebody (colloquial),jemand (somebody),niemand (nobody),"Da ist wer an der Tür.
+Somebody is at the door.","Ich habe wen gesehen.
+I saw somebody.","Hat wer Hunger?
+Is anybody hungry?","Spoken for jemand. Also question word (Wer ist das?). Indefinite pronouns list, Nov 17."
+weshalb,Adverb – interrogative,—,New,why,X,X,"Weshalb bist du hier?
+Why are you here?","Weshalb hat er gekündigt?
+Why did he resign?","Weshalb nicht?
+Why not?","More formal than warum. Adverbs list, Nov 14."
+weswegen,Adverb – interrogative,—,New,"why, on account of what",X,X,"Weswegen bist du hier?
+What are you here for?","Weswegen hat er angerufen?
+Why did he call?","Weswegen regst du dich auf?
+Why are you getting upset?","Formal. Adverbs list, Nov 14."
+wie,Conjunction – subordinating,Verb at the end,New,"as, like",X,X,"Er ist so groß wie sein Vater.
+He is as tall as his father.","Mach es so, wie ich es dir gezeigt habe.
+Do it the way I showed you.","Sie singt so schön wie eine Sängerin.
+She sings as beautifully as a singer.","so + Adj. + wie. Function: Komparativ. Connectors list, Nov 14."
+wie bereits erwähnt,Connector phrase,—,New,as already mentioned,X,X,"Wie bereits erwähnt, ist das teuer.
+As already mentioned, that is expensive.","Wie bereits erwähnt, komme ich später.
+As already mentioned, I come later.","Wie bereits erwähnt, beginnt der Kurs im Oktober.
+As already mentioned, the course starts in October.","Formal. Function: Explikativ. Connectors list, Nov 14."
+wie bitte,Interjection – politeness,—,New,pardon? what did you say?,X,X,"Wie bitte? Das habe ich nicht verstanden.
+Pardon? I did not understand that.","Wie bitte, können Sie das wiederholen?
+Pardon, can you repeat that?","Wie bitte? Noch einmal, bitte.
+Pardon? Once more, please.","Polite; Hä? is rude. Interjections list, Nov 14."
+wie geht's,Interjection – greeting / farewell,—,New,how are you,X,X,"Hallo, wie geht's?
+Hello, how are you?","Wie geht's dir heute?
+How are you today?","Wie geht's? Gut, danke.
+How are you? Fine, thanks.","Formal: Wie geht es Ihnen? Interjections list, Nov 14."
+wie gesagt,Connector phrase,—,New,as I said,X,X,"Wie gesagt, ich komme später.
+As I said, I come later.","Das ist, wie gesagt, nicht einfach.
+That is, as I said, not easy.","Wie gesagt, das Angebot gilt bis Freitag.
+As I said, the offer is valid until Friday.","Phrase. Function: Explikativ. Connectors list, Nov 14."
+wie lange,Adverb – interrogative,—,New,how long,X,X,"Wie lange dauert das?
+How long does that take?","Wie lange wohnst du schon hier?
+How long have you lived here?","Wie lange bleibst du?
+How long are you staying?","Answer: bis / seit / für. Adverbs list, Nov 14."
+wie oft,Adverb – interrogative,—,New,how often,X,X,"Wie oft gehst du schwimmen?
+How often do you go swimming?","Wie oft fährt der Bus?
+How often does the bus run?","Wie oft muss ich das sagen?
+How often must I say that?","Answer: einmal pro Woche. Adverbs list, Nov 14."
+wie viel,Adverb – interrogative,—,New,how much,X,X,"Wie viel kostet das?
+How much does that cost?","Wie viel Zeit hast du?
+How much time do you have?","Wie viel Uhr ist es?
+What time is it?","Uncountable; countable: wie viele. Adverbs list, Nov 14."
+wiederum,Adverb – frequency / duration,—,New,"again, in turn",X,X,"Das wiederum ist nicht gut.
+That in turn is not good.","Er fragte wiederum nach dem Preis.
+He again asked about the price.","Sie wiederum mag Katzen.
+She, in turn, likes cats.","Formal. Adverbs list, Nov 14."
+wieso,Adverb – interrogative,—,New,"why, how come",X,X,"Wieso kommst du so spät?
+How come you are so late?","Wieso weißt du das?
+How come you know that?","Wieso denn nicht?
+Why not, then?","Spoken; surprise. Adverbs list, Nov 14."
+wiewohl,Conjunction – subordinating,Verb at the end,New,although,X,X,"Wiewohl er müde war, arbeitete er weiter.
+Although he was tired, he kept working.","Sie lachte, wiewohl ihr zum Weinen war.
+She laughed although she felt like crying.","Wiewohl es spät ist, bleiben wir noch.
+Although it is late, we are staying a bit longer.","Very formal / literary; rare. Function: Konzessiv. Connectors list, Nov 14."
+willkommen,Interjection – greeting / farewell,—,New,welcome,X,X,"Willkommen in Berlin!
+Welcome to Berlin!","Willkommen zu Hause!
+Welcome home!","Willkommen im Team!
+Welcome to the team!","Also herzlich willkommen. Interjections list, Nov 14."
+wischiwaschi,Adjective / adverb,— (invariable),Learned,"wishy-washy, vague, noncommittal","vage (vague), schwammig (vague), unklar (unclear)","klar (clear), eindeutig (unambiguous), präzise (precise)","Seine Antwort war wischiwaschi.
+His answer was wishy-washy.","Das ist mir zu wischiwaschi.
+That is too vague for me.","Sag nicht so wischiwaschi, was du willst!
+Don't say so vaguely what you want!",Colloquial. Also noun: das Wischiwaschi = vague waffle. Nov 15.
+woanders,Adverb – place (where),—,New,somewhere else,X,X,"Lass uns woanders essen.
+Let us eat somewhere else.","Er arbeitet jetzt woanders.
+He works somewhere else now.","Such dir woanders einen Platz!
+Find yourself a place somewhere else!","Synonym: anderswo. Adverbs list, Nov 14."
+wobei,Conjunction – subordinating,Verb at the end,New,whereby; though,X,X,"Wir gehen spazieren, wobei wir viel reden.
+We go for a walk, talking a lot.","Er lachte, wobei sein Gesicht rot wurde.
+He laughed, whereby his face turned red.","Er arbeitet, wobei er Musik hört.
+He works while listening to music.","Adds extra information. Function: Modal. Connectors list, Nov 14."
+wochenlang,Adverb – time (when),—,New,for weeks,X,X,"Er war wochenlang krank.
+He was ill for weeks.","Wir warteten wochenlang.
+We waited for weeks.","Wochenlang lag Schnee.
+For weeks snow lay.","Pattern -lang. Adverbs list, Nov 14."
+wochentags,Adverb – time (when),—,New,on weekdays,X,am Wochenende,"Wochentags stehe ich früh auf.
+On weekdays I get up early.","Wochentags ist das Büro offen.
+On weekdays the office is open.","Wochentags arbeite ich.
+On weekdays I work.","Opposite: am Wochenende. Adverbs list, Nov 14."
+wodurch,Adverb – interrogative,—,New,by what,X,X,"Wodurch ist das passiert?
+How did that happen?","Wodurch wurde er bekannt?
+What made him famous?","Wodurch entsteht das?
+What causes that?","wo(r) + durch. Adverbs list, Nov 14."
+wofür,Adverb – interrogative,—,New,for what,X,X,"Wofür brauchst du das?
+What do you need that for?","Wofür sparst du?
+What are you saving for?","Wofür ist das gut?
+What is that good for?","wo(r) + für. Adverbs list, Nov 14."
+wogegen,Conjunction – subordinating,Verb at the end,New,whereas,X,X,"Er liebt Wärme, wogegen sie Kälte mag.
+He loves warmth whereas she likes cold.","Der Norden ist kühl, wogegen der Süden warm ist.
+The north is cool whereas the south is warm.","Ich bin dafür, wogegen er dagegen ist.
+I am for it, whereas he is against it.","Rare, formal. Function: Adversativ. Connectors list, Nov 14."
+woher,Adverb – interrogative,—,New,where from,X,X,"Woher kommst du?
+Where do you come from?","Woher weißt du das?
+How do you know that?","Woher hast du das Geld?
+Where did you get the money?","Answer: von dort / aus. Adverbs list, Nov 14."
+wohin,Adverb – interrogative,—,New,where to,X,X,"Wohin gehst du?
+Where are you going?","Wohin fährt der Bus?
+Where does the bus go?","Wohin soll ich das stellen?
+Where should I put that?","Answer: dorthin; spoken: wo … hin. Adverbs list, Nov 14."
+wohingegen,Conjunction – subordinating,Verb at the end,New,whereas,X,X,"Er mag Fisch, wohingegen sie Fleisch bevorzugt.
+He likes fish whereas she prefers meat.","Im Norden regnet es, wohingegen im Süden die Sonne scheint.
+In the north it rains whereas in the south the sun shines.","Sie liebt den Sommer, wohingegen er den Winter mag.
+She loves summer, whereas he likes winter.","Formal contrast. Function: Adversativ. Connectors list, Nov 14."
+womit,Adverb – interrogative,—,New,with what,X,X,"Womit schreibst du?
+What do you write with?","Womit fährst du zur Arbeit?
+How do you get to work?","Womit kann ich helfen?
+How can I help?","wo(r) + mit; only for things. Adverbs list, Nov 14."
+womöglich,Adverb – sentence (speaker's view),—,New,"possibly, perhaps",X,X,"Er hat womöglich recht.
+He may be right.","Womöglich kommt er nicht.
+Perhaps he will not come.","Das ist womöglich ein Irrtum.
+That is possibly a mistake.","Often negative expectation. Adverbs list, Nov 14."
+wonach,Adverb – interrogative,—,New,"for what, after what",X,X,"Wonach suchst du?
+What are you looking for?","Wonach riecht das?
+What does that smell of?","Wonach fragt er?
+What does he ask about?","wo(r) + nach. Adverbs list, Nov 14."
+woran,Adverb – interrogative,—,New,"of what, on what",X,X,"Woran denkst du?
+What are you thinking of?","Woran liegt das?
+What is the reason for that?","Woran arbeitest du?
+What are you working on?","wo(r) + an. Adverbs list, Nov 14."
+worauf,Adverb – interrogative,—,New,"on what, for what",X,X,"Worauf wartest du?
+What are you waiting for?","Worauf freust du dich?
+What are you looking forward to?","Worauf hast du Lust?
+What do you feel like?","wo(r) + auf. Adverbs list, Nov 14."
+woraus,Adverb – interrogative,—,New,out of what,X,X,"Woraus besteht das?
+What does that consist of?","Woraus ist das gemacht?
+What is that made of?","Woraus schließt du das?
+What do you conclude that from?","wo(r) + aus. Adverbs list, Nov 14."
+worin,Adverb – interrogative,—,New,in what,X,X,"Worin liegt das Problem?
+What is the problem?","Worin besteht der Unterschied?
+What is the difference?","Worin bist du gut?
+What are you good at?","wo(r) + in. Adverbs list, Nov 14."
+worüber,Adverb – interrogative,—,New,about what,X,X,"Worüber sprecht ihr?
+What are you talking about?","Worüber lachst du?
+What are you laughing about?","Worüber denkst du nach?
+What are you thinking about?","wo(r) + über. Adverbs list, Nov 14."
+wovon,Adverb – interrogative,—,New,of what,X,X,"Wovon sprichst du?
+What are you talking about?","Wovon lebt er?
+What does he live on?","Wovon träumst du?
+What do you dream of?","wo(r) + von. Adverbs list, Nov 14."
+wovor,Adverb – interrogative,—,New,of what (fear),X,X,"Wovor hast du Angst?
+What are you afraid of?","Wovor warnt er?
+What does he warn about?","Wovor fürchtest du dich?
+What do you fear?","wo(r) + vor. Adverbs list, Nov 14."
+wow,Interjection – feeling / reaction,—,New,wow,X,X,"Wow, das ist toll!
+Wow, that is great!","Wow, du siehst gut aus.
+Wow, you look good.","Wow, das habe ich nicht erwartet.
+Wow, I did not expect that.","Loan from English. Interjections list, Nov 14."
+ziemlich,Adverb – degree (how much),—,New,"quite, fairly",X,X,"Es ist ziemlich kalt.
+It is quite cold.","Das ist ziemlich teuer.
+That is fairly expensive.","Er ist ziemlich groß.
+He is quite tall.","Also: ziemlich viel. Adverbs list, Nov 14."
+zirp,Interjection – animal sound,—,New,chirp (cricket),X,X,"Zirp, zirp, machen die Grillen.
+Chirp, chirp, go the crickets.","Zirp, hörte man im Gras.
+Chirp, you could hear in the grass.","Die Grille sagt zirp.
+The cricket says chirp.","Verb zirpen. Interjections list, Nov 14."
+zisch,Interjection – sound word,—,New,"hiss, fizz",X,X,"Zisch, öffnete er die Flasche.
+Fizz, he opened the bottle.","Zisch, machte die Schlange.
+Hiss, went the snake.","Zisch, flog die Rakete davon.
+Whoosh, the rocket flew away.","Verb zischen. Interjections list, Nov 14."
+zu … als dass,Conjunction – two-part,als dass: verb at end,New,too … to / for it to,X,X,"Er ist zu müde, als dass er noch arbeiten könnte.
+He is too tired for him to still work.","Es ist zu spät, als dass wir noch gehen könnten.
+It is too late for us to still go.","Es ist zu kalt, als dass wir draußen sitzen könnten.
+It is too cold for us to sit outside.","Konjunktiv II in the clause. Function: Konsekutiv (negativ). Connectors list, Nov 14."
+zu … um … zu,Conjunction – infinitive,Infinitive at the end with zu,New,too … to,X,X,"Er ist zu müde, um zu arbeiten.
+He is too tired to work.","Es ist zu kalt, um draußen zu sitzen.
+It is too cold to sit outside.","Es ist zu spät, um noch anzurufen.
+It is too late to still call.","Same subject. Function: Konsekutiv (negativ). Connectors list, Nov 14."
+zu diesem Zweck,Connector – adverb,"Position 1, then verb 2nd",New,for this purpose,X,X,"Zu diesem Zweck gründen wir einen Verein.
+For this purpose we found a club.","Zu diesem Zweck brauchen wir Geld.
+For this purpose we need money.","Zu diesem Zweck brauchen wir ein Budget.
+For this purpose we need a budget.","Phrase, formal. Function: Final. Connectors list, Nov 14."
+zu Hause,Adverb phrase,—,Learned,at home,"daheim (at home, South), im Haus (in the house)",unterwegs (on the go),"Ich bleibe zu Hause.
+I stay at home.","Zu Hause koche ich gern.
+At home I like cooking.","Wie zu Hause: Rösti und Fondue.
+Like at home: rösti and fondue.","wo? zu Hause; wohin? nach Hause. Kapitel 13 (Street Food Festival, 1.2). Nov 16."
+zudem,Connector – adverb,"Position 1, then verb 2nd",New,moreover,X,X,"Er ist klug, zudem fleißig.
+He is clever, moreover hardworking.","Zudem ist das Essen gut.
+Moreover the food is good.","Das Zimmer ist günstig, zudem liegt es zentral.
+The room is cheap, moreover it is central.","Formal. Function: Additiv. Connectors list, Nov 14."
+zueinander,Adverb – reciprocal,—,New,to each other,X,X,"Sie sind nett zueinander.
+They are nice to each other.","Die Teile passen gut zueinander.
+The parts fit each other well.","Wir haben Vertrauen zueinander.
+We have trust in each other.","Verbs with zu. Adverbs list, Nov 14."
+zufällig,Adverb – manner (how),—,New,by chance,X,X,"Ich habe ihn zufällig getroffen.
+I met him by chance.","Er war zufällig da.
+He happened to be there.","Weißt du zufällig, wie spät es ist?
+Do you happen to know what time it is?","Polite question. Adverbs list, Nov 14."
+zugabe,Interjection – appeal / warning,—,New,encore,X,X,"Zugabe, Zugabe!
+Encore, encore!","Zugabe! Noch ein Lied!
+Encore! One more song!","Das Publikum rief Zugabe.
+The audience called for an encore.","Concert. Interjections list, Nov 14."
+zugleich,Connector – adverb,"Position 1, then verb 2nd",New,"at the same time, also",X,X,"Sie ist Ärztin und zugleich Mutter.
+She is a doctor and at the same time a mother.","Das ist gut und zugleich schlecht.
+That is good and bad at the same time.","Er ist Lehrer und zugleich Autor.
+He is a teacher and at the same time an author.","Formal. Function: Temporal / Additiv. Connectors list, Nov 14."
+zugunsten,Preposition,"Genitiv (or Dativ, after noun: zu Gunsten)",New,in favour of,X,X,"Zugunsten der Kinder spenden wir Geld.
+In favour of the children we donate money.","Er verzichtete zugunsten seiner Schwester.
+He gave up in favour of his sister.","Zugunsten der Umwelt fahren wir Rad.
+In favour of the environment we cycle.","Formal. Function: Final. Connectors list, Nov 14."
+zukünftig,Adverb – time (when),—,New,in future,X,X,"Zukünftig bezahle ich online.
+In future I will pay online.","Zukünftig gilt eine neue Regelung.
+In future a new rule applies.","Ich will zukünftig mehr sparen.
+I want to save more in future.","Synonym: künftig; also adjective. Adverbs list, Nov 14."
+zum Beispiel (z. B.),Connector – adverb,"Position 1, then verb 2nd",New,for example,X,X,"Ich mag Obst, zum Beispiel Äpfel.
+I like fruit, for example apples.","Zum Beispiel gibt es hier viele Cafés.
+For example there are many cafés here.","Es gibt viele Spezialitäten, zum Beispiel Rösti.
+There are many specialities, for example rösti.","Abbreviation: z. B. Function: Explikativ. Connectors list, Nov 14."
+zum einen … zum anderen,Conjunction – two-part,—,New,on the one hand … on the other,X,X,"Zum einen ist es günstig, zum anderen liegt es zentral.
+On the one hand it is cheap, on the other it is central.","Zum einen bin ich müde, zum anderen habe ich Hunger.
+On the one hand I am tired, on the other I am hungry.","Zum einen ist es günstig, zum anderen schmeckt es gut.
+On the one hand it is cheap, on the other it tastes good.","Lists two reasons. Function: Additiv / Adversativ. Connectors list, Nov 14."
+zum Glück,Adverb – sentence (speaker's view),—,New,"luckily, fortunately",X,X,"Zum Glück ist nichts passiert.
+Luckily nothing happened.","Zum Glück habe ich einen Schirm.
+Luckily I have an umbrella.","Zum Glück bist du da.
+Luckily you are here.","Synonym: glücklicherweise. Adverbs list, Nov 14."
+zum Kuckuck,Interjection – mild curse / exclamation,—,New,for heaven's sake,X,X,"Zum Kuckuck noch mal, hör auf!
+For heaven's sake, stop!","Wo bleibt er denn zum Kuckuck?
+Where on earth is he?","Zum Kuckuck mit dem Ding!
+To heck with that thing!","Mild, old-fashioned. Interjections list, Nov 14."
+zum Mitnehmen,Phrase,—,Learned,"to take away, to go","to go (takeaway), außer Haus (to take out)",vor Ort essen (eat in),"Einen Kaffee zum Mitnehmen, bitte.
+A coffee to go, please.","Das Essen gibt es auch zum Mitnehmen.
+The food is also available to take away.","Pizza zum Mitnehmen kostet weniger.
+Takeaway pizza costs less.",Nominalised verb (das Mitnehmen). Kapitel 13 (Pizza-Lieferdienst).
+zum Schluss,Connector – adverb,"Position 1, then verb 2nd",New,"finally, at the end",X,X,"Zum Schluss gab es Kaffee.
+At the end there was coffee.","Zum Schluss möchte ich danken.
+Finally I would like to thank you.","Zum Schluss danke ich allen.
+Finally I thank everyone.","Phrase. Function: Konklusiv. Connectors list, Nov 14."
+zum Teufel,Interjection – mild curse / exclamation,—,New,to hell,X,X,"Zum Teufel mit dem Handy!
+To hell with the phone!","Geh zum Teufel!
+Go to hell!","Zum Teufel, es ist schon wieder kaputt.
+Hell, it is broken again.","Stronger. Interjections list, Nov 14."
+zum Wohl,Interjection – good wishes,—,New,"cheers, to your health",X,X,"Zum Wohl, meine Damen und Herren!
+Cheers, ladies and gentlemen!","Zum Wohl, auf die Freundschaft!
+To your health, to friendship!","Zum Wohl und guten Appetit.
+Cheers and enjoy your meal.","More formal than prost. Interjections list, Nov 14."
+Zum Wohl!,Phrase,—,Learned,Cheers!,"Prost! (Cheers!), Gesundheit! (Cheers, health)",X,"Zum Wohl! Auf Ihre Gesundheit!
+Cheers! To your health!","Wir stoßen an: Zum Wohl!
+We clink glasses: Cheers!","Zum Wohl, meine Damen und Herren!
+Cheers, ladies and gentlemen!",Das Wohl = well-being. More formal than Prost. Kapitel 13 (quiz).
+zumal,Conjunction – subordinating,Verb at the end,New,especially since,X,X,"Ich bleibe, zumal es schon spät ist.
+I stay, especially since it is already late.","Das Hotel ist ideal, zumal es zentral liegt.
+The hotel is ideal, especially since it is central.","Ich nehme den Zug, zumal das Auto kaputt ist.
+I take the train, especially since the car is broken.","Adds an extra reason. Function: Kausal. Connectors list, Nov 14."
+zurzeit,Adverb – time (when),—,New,at present,X,X,"Ich lerne zurzeit Deutsch.
+At present I am learning German.","Zurzeit ist er im Urlaub.
+At present he is on holiday.","Die Preise sind zurzeit hoch.
+Prices are high at present.","Also zur Zeit; abbr. zz., zt. Adverbs list, Nov 14."
+zusammenfassend,Connector – adverb,"Position 1, then verb 2nd",New,in summary,X,X,"Zusammenfassend lässt sich sagen: Es war ein Erfolg.
+In summary one can say: it was a success.","Zusammenfassend ist die Lage stabil.
+In summary the situation is stable.","Zusammenfassend war das Treffen produktiv.
+In summary the meeting was productive.","Formal; for presentations. Function: Konklusiv. Connectors list, Nov 14."
+zwar … aber,Conjunction – two-part,zwar in position 1 or Mittelfeld,New,it is true … but,X,X,"Er ist zwar alt, aber fit.
+He is old, it is true, but fit.","Zwar ist es teuer, aber es lohnt sich.
+It is true that it is expensive, but it is worth it.","Es ist zwar kalt, aber sonnig.
+It is cold, it is true, but sunny.","Admit, then counter. Function: Konzessiv. Connectors list, Nov 14."
+zwecks,Preposition,Genitiv,New,for the purpose of,X,X,"Zwecks Klärung treffen wir uns.
+For the purpose of clarification we meet.","Zwecks Anmeldung bitte hier klicken.
+To register please click here.","Zwecks Terminabsprache rufe ich an.
+For the purpose of arranging a date I call.","Formal, bureaucratic. Function: Final. Connectors list, Nov 14."

@@ -619,3 +619,12 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📚 No new words, no exercises
 - 🗂️ Friday workbook update moved to Saturday
 - 🔁 Back to normal on Saturday
+
+## 2026-11-21 Friday update done on Saturday
+
+- 📅 Friday update (14–21 Nov) finished today
+- 📗 Main Vocab: 1,176 new rows (82 der, 112 die, 49 das, 933 other), sorted A–Z
+- 💶 FV: 47 new rows
+- 📒 RR: 341 class words
+- 🔤 Status: Learned = class/typed words, New = Claude-added
+- 🧹 13 words skipped, already in Main Vocab

@@ -11,13 +11,13 @@ Forms / Case,"Verbs: er/sie/es form, Präteritum (if irregular) and Perfekt. Pre
 Examples,"German sentence on line 1, English translation on line 2 of each cell."
 ,
 Word count per sheet,Entries (formula)
-Maskulin (der),865
-Feminin (die),1780
-Neutral (das),657
-Other (none),6206
-Total,9508
+Maskulin (der),947
+Feminin (die),1892
+Neutral (das),706
+Other (none),7139
+Total,10684
 ,
 Status breakdown (formula),Rows (a combined status counts in both)
-"Status contains ""Learned""",1002
-"Status contains ""New""",8077
+"Status contains ""Learned""",1236
+"Status contains ""New""",9019
 "Status contains ""Your list""",453
