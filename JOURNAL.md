@@ -628,3 +628,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📒 RR: 341 class words
 - 🔤 Status: Learned = class/typed words, New = Claude-added
 - 🧹 13 words skipped, already in Main Vocab
+
+## 2026-11-22 Relative clauses, Nominativ and Akkusativ
+
+- 📖 Kapitel 14 exercise 6.4: joined 8 sentence pairs with relative clauses
+- 🧠 The relative pronoun is the noun, in the role it has inside the mini-sentence
+- 🔎 Nominativ = subject (Wer/Was + verb), Akkusativ = what the subject acts on
+- 🔁 Only masculine changes: der → den (das and die look the same in both)
+- ✍️ Sentences 4 and 7 (den Roman, den Pullover) show Akkusativ; 1 and 8 show Nominativ
+- 🏷️ Verb goes last; modal last (schenken möchte), auxiliary last (gekauft hat)
+- 📚 16 new class words logged for Friday (Saft, Obst, Erdbeere, Bauer, Roman, empfehlen, schenken, gebraucht...)
