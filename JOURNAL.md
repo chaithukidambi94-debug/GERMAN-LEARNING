@@ -648,3 +648,14 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 📚 Kapitel 14 word list (pages 98–102): shops, stationery, sustainability words
 - 📄 Verben und ihre Objekte PDF: 70 verbs sorted by object pattern (none, Akkusativ, Dativ, Dativ + Akkusativ)
 - 🔤 Typed words: Bezugswort, tauschen, Wahrheit, Abschiedsparty, Einweihungsparty, Weihnachten, Kugelschreiber, Tesafilm, schließen/schloss, stolz
+
+## 2026-11-24 Party words, Dativ prepositions, -chen nouns
+
+- 🎉 Learned party words from Kapitel 15: Einweihungsparty, Überraschungsparty, Gastgeber, Jubiläum, Anlass
+- ✉️ Practised invitations and congratulations: gratulieren zu + Dativ, sich freuen auf / über, Zusage
+- 🔗 Practised Dativ prepositions (aus, bei, mit, nach, seit, von, zu) and Dativ endings
+- 👥 Practised relative pronouns in the Dativ: bei dem, mit denen, von dem, zu der
+- 🧸 Learned -chen nouns: always das, the stem vowel gets an umlaut, final -e drops (Blume → Blümchen)
+- 🧭 Compared look-alike words: bieten / beten / bitten and mindestens / zumindest / wenigstens / immerhin
+- 📚 Collected long lists of prefix verbs up to C1 and verb + preposition + case combinations
+- 🔤 Added words: Kasus, Ausrufezeichen, vorhin, eigene, spülen, vorbereiten, abholen
