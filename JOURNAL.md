@@ -638,3 +638,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - ✍️ Sentences 4 and 7 (den Roman, den Pullover) show Akkusativ; 1 and 8 show Nominativ
 - 🏷️ Verb goes last; modal last (schenken möchte), auxiliary last (gekauft hat)
 - 📚 16 new class words logged for Friday (Saft, Obst, Erdbeere, Bauer, Roman, empfehlen, schenken, gebraucht...)
+
+## 2026-11-23 Relative clauses, Dativ and Akkusativ verbs
+
+- 📝 Practised relative clauses: 48-question Nominativ/Akkusativ quiz and Kapitel 14 exercise 1.4 (all 4 correct)
+- 🧠 Rule: the pronoun is the noun in its role inside the mini-sentence; if the clause has another subject (ich, du, Max), the pronoun is Akkusativ, otherwise Nominativ
+- 🔁 Only masculine shows the difference (der → den); das and die look the same in both cases
+- 🎁 Dativ: verbs with two objects (schicken, schenken, geben, leihen): person in Dativ (dir, ihrer Mutter), thing in Akkusativ
+- 📚 Kapitel 14 word list (pages 98–102): shops, stationery, sustainability words
+- 📄 Verben und ihre Objekte PDF: 70 verbs sorted by object pattern (none, Akkusativ, Dativ, Dativ + Akkusativ)
+- 🔤 Typed words: Bezugswort, tauschen, Wahrheit, Abschiedsparty, Einweihungsparty, Weihnachten, Kugelschreiber, Tesafilm, schließen/schloss, stolz
