@@ -659,3 +659,14 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🧭 Compared look-alike words: bieten / beten / bitten and mindestens / zumindest / wenigstens / immerhin
 - 📚 Collected long lists of prefix verbs up to C1 and verb + preposition + case combinations
 - 🔤 Added words: Kasus, Ausrufezeichen, vorhin, eigene, spülen, vorbereiten, abholen
+
+## 2026-11-25 Street art festival words, verbs with prepositions, wenn / falls / ob
+
+- 🎪 Learned festival words from Kapitel 16: Publikum, Straßenkünstler, Foodtruck, Bühne, Spende, Applaus, Kunstmarkt
+- 🎭 Practised verb + noun pairs: auf der Bühne auftreten, in die Hände klatschen, am Workshop teilnehmen, Geld spenden
+- 🔗 Practised verbs with prepositions: sich ärgern über, sich freuen auf / über, sich informieren über, sich interessieren für, gehören zu, träumen von
+- 👥 Practised a relative clause with a preposition: Die Politik, über die die Frau gesprochen hat
+- 🧭 Compared words: wenn / falls / ob, überzeugen / überreden, Saison / Jahreszeit, Schüler / Student
+- 🗓️ Learned frequency words (oft, selten, meistens, ab und zu) and phrases: auf jeden Fall, auf keinen Fall, einen Korb bekommen
+- 💍 Added wedding and shopping words: Hochzeitsplanung, Hochzeitsfeier, Trauung, Warenkorb, Einkaufswagen
+- 🧸 Noticed word building: linking -s- (Hochzeit + s + Feier) and -chen (Nickerchen, Hallöchen)
