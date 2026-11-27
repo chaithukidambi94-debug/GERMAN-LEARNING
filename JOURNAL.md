@@ -680,3 +680,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 👕 Practised adjective endings (ein buntes Hemd) and anhaben (state) vs anziehen (action)
 - ✉️ Studied a sample E-Mail to a friend (Stadtfest) with a reply
 - 🎉 Studied an Einladung (birthday party) with a Zusage reply: Bescheid geben, Hast du Lust ...?, Ich freue mich auf + Akk.
+
+## 2026-11-27 Verb + preposition combinations, wo-question words, courage vocabulary
+
+- 🔗 Practised 23 verb + preposition + case combinations (reden mit / über, warten auf, sich freuen auf / über, teilnehmen an, gratulieren zu)
+- ❓ Learned the wo-question words: worüber, wofür, woran, wovon, worauf, womit
+- 🦸 Added courage words: der Mut, mutig, die Tapferkeit, der Feuerwehrmann
+- 🪞 Learned sich vergleichen mit + Dat and corrected my sentence (wenn for wann, verb at the end, "habe ich" after the wenn clause)
+- 📈 Added development words: Entwicklung, sich weiterentwickeln, Fortschritt, letzt-
+- 📅 Revised ab + Dat (from a point in time) vs von ... bis
+- 🧩 New everyday words: Absicht, Sache, Erfolg, fürchten, spinnen, bestimmt, öfter
