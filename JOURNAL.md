@@ -670,3 +670,13 @@ Entries from 2026-09-01 to 2026-10-24 were written on 2026-10-25. They follow th
 - 🗓️ Learned frequency words (oft, selten, meistens, ab und zu) and phrases: auf jeden Fall, auf keinen Fall, einen Korb bekommen
 - 💍 Added wedding and shopping words: Hochzeitsplanung, Hochzeitsfeier, Trauung, Warenkorb, Einkaufswagen
 - 🧸 Noticed word building: linking -s- (Hochzeit + s + Feier) and -chen (Nickerchen, Hallöchen)
+
+## 2026-11-26 Festival and show vocabulary, E-Mail and Einladung
+
+- 🎪 Learned festival and show words: Zirkus, Auftritt, Akrobatik, jonglieren (mit + Dat.), Ausstellung, Zelt, Buffet, Streetfood
+- 👏 Added reactions and money words: klatschen, begeistern, Trinkgeld, die Menge
+- 🖼️ Wrote sentences for the 4 pictures of Kapitel 16 "Bühne frei!"
+- 🧳 Picked up everyday words: Koffer, Gepäck, Verkehrsmittel, Heizung, Zutat
+- 👕 Practised adjective endings (ein buntes Hemd) and anhaben (state) vs anziehen (action)
+- ✉️ Studied a sample E-Mail to a friend (Stadtfest) with a reply
+- 🎉 Studied an Einladung (birthday party) with a Zusage reply: Bescheid geben, Hast du Lust ...?, Ich freue mich auf + Akk.
